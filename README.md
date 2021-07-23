@@ -14,16 +14,16 @@
 - 🏹 2021 Goals: Contribute more to Open Source projects and get a jog
 - ⚡ I love to play video games
 
-### Connect with me:
+## Connect with me:
 
-[<img align="left" alt="T.DaM∑R | Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="T.DaM∑R | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="T.DaM∑R | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="T.DaM∑R | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img style="margin: 5px" align="left" alt="T.DaM∑R | Discord" width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />][discord]
+[<img style="margin: 5px" align="left" alt="T.DaM∑R | Twitter" width="30px" src="https://static.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
+[<img style="margin: 5px" align="left" alt="T.DaM∑R | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img style="margin: 5px" align="left" alt="T.DaM∑R | Instagram" width="30px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" />][instagram]
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][thisrepo]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][thisrepo]
@@ -54,6 +54,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Hi, party](https://dev.to/tdamer/hi-party-40dl)
 <!-- BLOG-POST-LIST:END -->
 
@@ -72,6 +73,8 @@
   <summary>GitHub Stats</summary>
 <img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats-rho-neon-86.vercel.app/api?username=T-Damer&theme=gruvbox&show_icons=true&hide_border=true" />
 </details>
+
+<br />
 
 ---
 
