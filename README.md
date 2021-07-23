@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=https://github.com/T-Damer/myPortfolio&style=for-the-badge&url=https%3A%2F%2Fhttps://github.com/T-Damer/myPortfolio)](https://github.com/T-Damer/myPortfolio)
 
+<img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=T-Damer&show_icons=true&hide_border=true" />
+
 ## I'm a Designer and Developer ✏️
 
 - ⌨️ Right now working as Intern in [Borodutch](https://github.com/Borodutch)
@@ -69,19 +71,7 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/T.DaM∑R/portfolio-sass/issues/1) in [T.DaM∑R/portfolio-sass](https://github.com/T.DaM∑R/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/T.DaM∑R/portfolio-sass/pull/1) in [T.DaM∑R/portfolio-sass](https://github.com/T.DaM∑R/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/T.DaM∑R/T.DaM∑R-vscode-theme/issues/10) in [T.DaM∑R/T.DaM∑R-vscode-theme](https://github.com/T.DaM∑R/T.DaM∑R-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/T.DaM∑R/T.DaM∑R-vscode-theme/issues/11) in [T.DaM∑R/T.DaM∑R-vscode-theme](https://github.com/T.DaM∑R/T.DaM∑R-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/T.DaM∑R/spotify-now-playing/pull/1) in [T.DaM∑R/spotify-now-playing](https://github.com/T.DaM∑R/spotify-now-playing)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>GitHub Stats</summary>
-
-  <img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats.T.DaM∑R.vercel.app/api?username=T.DaM∑R&show_icons=true&hide_border=true" />
 
 </details>
 
