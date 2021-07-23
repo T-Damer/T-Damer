@@ -46,7 +46,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-T.DaM∑R.vercel.app/api/spotify-playing" alt="T.DaM∑R Spotify Playing" width="350" />](https://open.spotify.com/user/docw7ce3k025adqej2zy2d5bi)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="T.DaM∑R Spotify Playing" width="350" />](https://open.spotify.com/user/docw7ce3k025adqej2zy2d5bi)
 
 ---
 
@@ -66,7 +66,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/T.DaM∑R/portfolio-sass/issues/1) in [T.DaM∑R/portfolio-sass](https://github.com/T.DaM∑R/portfolio-sass)
@@ -79,19 +79,14 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats.T.DaM∑R.vercel.app/api?username=T.DaM∑R&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://T.DaM∑R.com
+[website]: https://github.com/T-Damer/myPortfolio
 [discord]: https://discord.com/users/287475060493516810
-[twitter]: https://twitter.com/T.DaM∑R
-[youtube]: https://youtube.com/T.DaM∑R
-[instagram]: https://instagram.com/T.DaM∑R
-[linkedin]: https://linkedin.com/in/T.DaM∑R
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: https://twitter.com/True_Damer
+[instagram]: https://www.instagram.com/t_damer/
+[linkedin]: https://linkedin.com/in/t-damer
