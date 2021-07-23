@@ -1,8 +1,10 @@
-### Hi there, I'm Daniil - aka [T-DaMER][website] 👋
+### Hi there, I'm Daniil Pankov - aka [T-DaMER][website] 👋
 
-[![Website](https://img.shields.io/website?label=https://github.com/T-Damer/myPortfolio&style=for-the-badge&url=https%3A%2F%2Fhttps://github.com/T-Damer/myPortfolio)](https://github.com/T-Damer/myPortfolio)
+<!-- [![Website](https://img.shields.io/website?label=https://github.com/T-Damer/myPortfolio&style=for-the-badge&url=https%3A%2F%2Fhttps://github.com/T-Damer/myPortfolio)](https://github.com/T-Damer/myPortfolio) -->
 
-<img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=T-Damer&show_icons=true&hide_border=true" />
+<a href="https://stackoverflow.com/users/14385332/t-damer"><img src="https://stackoverflow.com/users/flair/14385332.png?theme=dark" width="208" height="58" alt="profile for T_DaMER at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for T_DaMER at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+---
 
 ## I'm a Designer and Developer ✏️
 
@@ -55,15 +57,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/T.DaM∑R/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/T.DaM∑R/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/T.DaM∑R/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/T.DaM∑R/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/T.DaM∑R/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://T.DaM∑R.com)
 
 ---
 
@@ -75,8 +69,17 @@
 
 </details>
 
+<details>
+  <summary>GitHub Stats</summary>
+<img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats-rho-neon-86.vercel.app/api?username=T-Damer&theme=gruvbox&show_icons=true&hide_border=true" />
+</details>
+
 [website]: https://github.com/T-Damer/myPortfolio
 [discord]: https://discord.com/users/287475060493516810
 [twitter]: https://twitter.com/True_Damer
 [instagram]: https://www.instagram.com/t_damer/
 [linkedin]: https://linkedin.com/in/t-damer
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
