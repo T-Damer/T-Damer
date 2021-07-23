@@ -74,6 +74,10 @@
 <img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats-rho-neon-86.vercel.app/api?username=T-Damer&theme=gruvbox&show_icons=true&hide_border=true" />
 </details>
 
+---
+
+<a href="https://www.buymeacoffee.com/tdamer"><img src="https://img.buymeacoffee.com/button-api/?text=Support me with a coffee&emoji=☕️&slug=tdamer&button_colour=ffcc33&font_colour=000&font_family=Lato&outline_colour=000&coffee_colour=000"></a>
+
 [website]: https://github.com/T-Damer/myPortfolio
 [discord]: https://discord.com/users/287475060493516810
 [twitter]: https://twitter.com/True_Damer
