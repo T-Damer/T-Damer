@@ -54,7 +54,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Hi, party](https://dev.to/tdamer/hi-party-40dl)
 <!-- BLOG-POST-LIST:END -->
 
