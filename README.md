@@ -78,7 +78,7 @@ Last Updated: Saturday, July 24th, 2021, 6:33:51 AM
 
 <details>
   <summary>GitHub Stats</summary>
-<img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats-rho-neon-86.vercel.app/api?username=T-Damer&theme=gruvbox&show_icons=true&hide_border=true" />
+<img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=T-Damer&theme=gruvbox&show_icons=true&hide_border=true" />
 </details>
 
 <br />
