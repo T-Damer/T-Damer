@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/T-Damer/project_manager/issues/3) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-2. ❗️ Opened issue [#2](https://github.com/T-Damer/project_manager/issues/2) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-3. ❗️ Opened issue [#1](https://github.com/T-Damer/project_manager/issues/1) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-4. 🔱 Forked [T-Damer/codeSTACKr](https://github.com/T-Damer/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+1. ❗️ Opened issue [#5](https://github.com/T-Damer/project_manager/issues/5) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+2. ❗️ Opened issue [#4](https://github.com/T-Damer/project_manager/issues/4) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+3. ❗️ Opened issue [#3](https://github.com/T-Damer/project_manager/issues/3) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+4. ❗️ Opened issue [#2](https://github.com/T-Damer/project_manager/issues/2) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+5. ❗️ Opened issue [#1](https://github.com/T-Damer/project_manager/issues/1) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 29th, 2021, 5:28:06 AM
+Last Updated: Thursday, July 29th, 2021, 5:38:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
