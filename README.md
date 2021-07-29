@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#6](https://github.com/T-Damer/project_manager/issues/6) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-2. ❗️ Opened issue [#5](https://github.com/T-Damer/project_manager/issues/5) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-3. ❗️ Opened issue [#4](https://github.com/T-Damer/project_manager/issues/4) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-4. ❗️ Opened issue [#3](https://github.com/T-Damer/project_manager/issues/3) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-5. ❗️ Opened issue [#2](https://github.com/T-Damer/project_manager/issues/2) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+1. ❗️ Opened issue [#7](https://github.com/T-Damer/project_manager/issues/7) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+2. ❗️ Opened issue [#6](https://github.com/T-Damer/project_manager/issues/6) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+3. ❗️ Opened issue [#5](https://github.com/T-Damer/project_manager/issues/5) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+4. ❗️ Opened issue [#4](https://github.com/T-Damer/project_manager/issues/4) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+5. ❗️ Opened issue [#3](https://github.com/T-Damer/project_manager/issues/3) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 29th, 2021, 11:27:22 AM
+Last Updated: Thursday, July 29th, 2021, 11:37:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
