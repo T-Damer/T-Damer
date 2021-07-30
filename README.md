@@ -59,15 +59,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [First deploy 🥂](https://github.com/T-Damer/project_manager_public/releases/tag/1.0.0) in [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
-2. 📔 Created new repository [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
-3. 🔱 Forked [T-Damer/codeSTACKr](https://github.com/T-Damer/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. ⭐ Starred [badges/shields](https://github.com/badges/shields)
-5. 🔱 Forked [T-Damer/shields](https://github.com/T-Damer/shields) from [badges/shields](https://github.com/badges/shields)
+1. ✌️ Released [PC complete](https://github.com/T-Damer/myPortfolio/releases/tag/1.0.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
+2. ✌️ Released [First deploy 🥂](https://github.com/T-Damer/project_manager_public/releases/tag/1.0.0) in [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
+3. 📔 Created new repository [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
+4. 🔱 Forked [T-Damer/codeSTACKr](https://github.com/T-Damer/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+5. ⭐ Starred [badges/shields](https://github.com/badges/shields)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 30th, 2021, 2:38:52 PM
+Last Updated: Friday, July 30th, 2021, 2:49:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
