@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8](https://github.com/T-Damer/project_manager/issues/8) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-2. ✔️ Closed issue [#7](https://github.com/T-Damer/project_manager/issues/7) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-3. ❗️ Opened issue [#7](https://github.com/T-Damer/project_manager/issues/7) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-4. ❗️ Opened issue [#6](https://github.com/T-Damer/project_manager/issues/6) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
-5. ❗️ Opened issue [#5](https://github.com/T-Damer/project_manager/issues/5) in [T-Damer/project_manager](https://github.com/T-Damer/project_manager)
+1. 🔱 Forked [T-Damer/codeSTACKr](https://github.com/T-Damer/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+2. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+3. 🔱 Forked [T-Damer/shields](https://github.com/T-Damer/shields) from [badges/shields](https://github.com/badges/shields)
+4. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+5. 🔱 Forked [T-Damer/github-readme-stats](https://github.com/T-Damer/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 30th, 2021, 6:53:13 AM
+Last Updated: Friday, July 30th, 2021, 7:13:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
