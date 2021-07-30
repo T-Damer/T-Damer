@@ -47,12 +47,6 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="T.DaM∑R Spotify Playing" width="350"/>](https://open.spotify.com/user/docw7ce3k025adqej2zy2d5bi)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
