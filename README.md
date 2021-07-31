@@ -59,15 +59,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release on GH-Pages 🍻](https://github.com/T-Damer/myPortfolio/releases/tag/1.1.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
-2. ✌️ Released [PC complete](https://github.com/T-Damer/myPortfolio/releases/tag/1.0.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
-3. ✌️ Released [First deploy 🥂](https://github.com/T-Damer/project_manager_public/releases/tag/1.0.0) in [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
-4. 📔 Created new repository [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
-5. 🔱 Forked [T-Damer/codeSTACKr](https://github.com/T-Damer/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1. 📔 Created new repository [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
+2. ✌️ Released [Release on GH-Pages 🍻](https://github.com/T-Damer/myPortfolio/releases/tag/1.1.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
+3. ✌️ Released [PC complete](https://github.com/T-Damer/myPortfolio/releases/tag/1.0.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
+4. ✌️ Released [First deploy 🥂](https://github.com/T-Damer/project_manager_public/releases/tag/1.0.0) in [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
+5. 📔 Created new repository [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 31st, 2021, 6:41:43 PM
+Last Updated: Saturday, July 31st, 2021, 6:55:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
