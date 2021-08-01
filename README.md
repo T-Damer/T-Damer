@@ -59,15 +59,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
-2. ✌️ Released [Release on GH-Pages 🍻](https://github.com/T-Damer/myPortfolio/releases/tag/1.1.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
-3. ✌️ Released [PC complete](https://github.com/T-Damer/myPortfolio/releases/tag/1.0.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
-4. ✌️ Released [First deploy 🥂](https://github.com/T-Damer/project_manager_public/releases/tag/1.0.0) in [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
-5. 📔 Created new repository [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
+1. ⭐ Starred [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+2. ⭐ Starred [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+3. 📔 Created new repository [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
+4. ✌️ Released [Release on GH-Pages 🍻](https://github.com/T-Damer/myPortfolio/releases/tag/1.1.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
+5. ✌️ Released [PC complete](https://github.com/T-Damer/myPortfolio/releases/tag/1.0.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 1st, 2021, 5:37:56 AM
+Last Updated: Sunday, August 1st, 2021, 5:48:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
