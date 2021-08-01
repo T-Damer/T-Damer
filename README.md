@@ -20,7 +20,7 @@
 
 [<img style="margin: 5px" align="left" alt="T.DaM∑R | Discord" width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />][discord]
 [<img style="margin: 5px" align="left" alt="T.DaM∑R | Twitter" width="30px" src="https://static.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
-[<img style="margin: 5px" align="left" alt="T.DaM∑R | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img style="margin: 5px" align="left" alt="T.DaM∑R | LinkedIn" width="30px" src="https://img.icons8.com/color/480/000000/linkedin-circled--v1.png" />][linkedin]
 [<img style="margin: 5px" align="left" alt="T.DaM∑R | Instagram" width="30px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" />][instagram]
 
 <br />
@@ -39,7 +39,7 @@
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][thisrepo]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][thisrepo]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][thisrepo]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][thisrepo]
+[<img align="left" alt="GitHub" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/developer-tool-1889494-1597554.png" />][thisrepo]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][thisrepo]
 
 <br />
@@ -83,7 +83,7 @@ Last Updated: Sunday, August 1st, 2021, 5:58:35 AM
 
 <a href="https://www.buymeacoffee.com/tdamer"><img src="https://img.buymeacoffee.com/button-api/?text=Support me with a coffee&emoji=☕️&slug=tdamer&button_colour=ffcc33&font_colour=000&font_family=Lato&outline_colour=000&coffee_colour=000"></a>
 
-[website]: https://github.com/T-Damer/myPortfolio
+[website]: https://t-damer.github.io/myPortfolio/#/
 [discord]: https://discord.com/users/287475060493516810
 [twitter]: https://twitter.com/True_Damer
 [instagram]: https://www.instagram.com/t_damer/
