@@ -59,15 +59,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/game_hub](https://github.com/T-Damer/game_hub)
-2. ⭐ Starred [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. ⭐ Starred [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
-4. 📔 Created new repository [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
-5. ✌️ Released [Release on GH-Pages 🍻](https://github.com/T-Damer/myPortfolio/releases/tag/1.1.0) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
+1. ✌️ Released [Responsive for mobile and desktop 🎉](https://github.com/T-Damer/e-commerce-template/releases/tag/1.0.0) in [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
+2. 📔 Created new repository [T-Damer/game_hub](https://github.com/T-Damer/game_hub)
+3. ⭐ Starred [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+4. ⭐ Starred [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+5. 📔 Created new repository [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 2nd, 2021, 11:58:33 AM
+Last Updated: Monday, August 2nd, 2021, 12:36:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
