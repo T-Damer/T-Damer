@@ -59,15 +59,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/next-sheet](https://github.com/T-Damer/next-sheet)
+1. ✌️ Released [Fresh new-look 🍃](https://github.com/T-Damer/myPortfolio/releases/tag/1.1.1) in [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
 2. 📔 Created new repository [T-Damer/next-sheet](https://github.com/T-Damer/next-sheet)
-3. 🔱 Forked [T-Damer/google-sheets-database](https://github.com/T-Damer/google-sheets-database) from [fireship-io/google-sheets-database](https://github.com/fireship-io/google-sheets-database)
-4. ✔️ Closed issue [#1](https://github.com/T-Damer/white-notas/issues/1) in [T-Damer/white-notas](https://github.com/T-Damer/white-notas)
-5. ❗️ Opened issue [#1](https://github.com/T-Damer/white-notas/issues/1) in [T-Damer/white-notas](https://github.com/T-Damer/white-notas)
+3. 📔 Created new repository [T-Damer/next-sheet](https://github.com/T-Damer/next-sheet)
+4. 🔱 Forked [T-Damer/google-sheets-database](https://github.com/T-Damer/google-sheets-database) from [fireship-io/google-sheets-database](https://github.com/fireship-io/google-sheets-database)
+5. ✔️ Closed issue [#1](https://github.com/T-Damer/white-notas/issues/1) in [T-Damer/white-notas](https://github.com/T-Damer/white-notas)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 4th, 2021, 8:00:18 PM
+Last Updated: Wednesday, August 4th, 2021, 8:26:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
