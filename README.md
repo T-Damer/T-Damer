@@ -59,15 +59,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/white-notas](https://github.com/T-Damer/white-notas)
-2. ✌️ Released [Responsive for mobile and desktop 🎉](https://github.com/T-Damer/e-commerce-template/releases/tag/1.0.0) in [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
-3. 📔 Created new repository [T-Damer/game_hub](https://github.com/T-Damer/game_hub)
-4. ⭐ Starred [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-5. ⭐ Starred [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+1. ✔️ Closed issue [#1](https://github.com/T-Damer/white-notas/issues/1) in [T-Damer/white-notas](https://github.com/T-Damer/white-notas)
+2. ❗️ Opened issue [#1](https://github.com/T-Damer/white-notas/issues/1) in [T-Damer/white-notas](https://github.com/T-Damer/white-notas)
+3. 📔 Created new repository [T-Damer/white-notas](https://github.com/T-Damer/white-notas)
+4. ✌️ Released [Responsive for mobile and desktop 🎉](https://github.com/T-Damer/e-commerce-template/releases/tag/1.0.0) in [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
+5. 📔 Created new repository [T-Damer/game_hub](https://github.com/T-Damer/game_hub)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 4th, 2021, 1:30:14 PM
+Last Updated: Wednesday, August 4th, 2021, 1:42:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
