@@ -1,4 +1,5 @@
-### Hi there, I'm Daniil Pankov - aka [T-DaMER][website] :godmode:
+<h1 align="center">Hi there&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">,  I'm Daniil Pankov - aka <a href="https://t-damer.github.io/myPortfolio/#/">T-DaMER</a>:godmode:</h1> 
+
 
 <!-- [![Website](https://img.shields.io/website?label=https://github.com/T-Damer/myPortfolio&style=for-the-badge&url=https%3A%2F%2Fhttps://github.com/T-Damer/myPortfolio)](https://github.com/T-Damer/myPortfolio) -->
 
