@@ -60,15 +60,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/v-portfolio](https://github.com/T-Damer/v-portfolio)
-2. ✌️ Released [First release 🕒](https://github.com/T-Damer/neoMorphism-clock/releases/tag/1.0.0) in [T-Damer/neoMorphism-clock](https://github.com/T-Damer/neoMorphism-clock)
-3. ✌️ Released [Improve performance ⚡](https://github.com/T-Damer/pure-html-css-js/releases/tag/1.0.0) in [T-Damer/pure-html-css-js](https://github.com/T-Damer/pure-html-css-js)
-4. 📔 Created new repository [T-Damer/pure-html-css-js](https://github.com/T-Damer/pure-html-css-js)
-5. 📔 Created new repository [T-Damer/neoMorphism-clock](https://github.com/T-Damer/neoMorphism-clock)
+1. ⭐ Starred [aminefreelancer/VueSheet](https://github.com/aminefreelancer/VueSheet)
+2. 📔 Created new repository [T-Damer/v-portfolio](https://github.com/T-Damer/v-portfolio)
+3. ✌️ Released [First release 🕒](https://github.com/T-Damer/neoMorphism-clock/releases/tag/1.0.0) in [T-Damer/neoMorphism-clock](https://github.com/T-Damer/neoMorphism-clock)
+4. ✌️ Released [Improve performance ⚡](https://github.com/T-Damer/pure-html-css-js/releases/tag/1.0.0) in [T-Damer/pure-html-css-js](https://github.com/T-Damer/pure-html-css-js)
+5. 📔 Created new repository [T-Damer/pure-html-css-js](https://github.com/T-Damer/pure-html-css-js)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 6th, 2021, 11:15:03 AM
+Last Updated: Friday, August 6th, 2021, 11:27:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
