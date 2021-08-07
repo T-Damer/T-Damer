@@ -14,7 +14,7 @@
 - ⌨️ Right now working as Intern in [Borodutch](https://github.com/Borodutch)
 - ✌️ I’m currently learning Vue
 - 🃏 I’m looking for job opportunities and open source projects to contribute
-- 🏹 2021 Goals: Contribute more to Open Source projects and get a jog
+- 🏹 2021 Goals: Contribute more to Open Source projects and get a job
 - ⚡ I love to play video games
 
 ## Connect with me:
