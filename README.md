@@ -60,15 +60,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jrgrimshaw/google-sheets-node](https://github.com/jrgrimshaw/google-sheets-node)
-2. ⭐ Starred [aminefreelancer/VueSheet](https://github.com/aminefreelancer/VueSheet)
-3. 📔 Created new repository [T-Damer/v-portfolio](https://github.com/T-Damer/v-portfolio)
-4. ✌️ Released [First release 🕒](https://github.com/T-Damer/neoMorphism-clock/releases/tag/1.0.0) in [T-Damer/neoMorphism-clock](https://github.com/T-Damer/neoMorphism-clock)
-5. ✌️ Released [Improve performance ⚡](https://github.com/T-Damer/pure-html-css-js/releases/tag/1.0.0) in [T-Damer/pure-html-css-js](https://github.com/T-Damer/pure-html-css-js)
+1. ✌️ Released [It's alive 🧪](https://github.com/T-Damer/clip-path-card/releases/tag/1.0.0) in [T-Damer/clip-path-card](https://github.com/T-Damer/clip-path-card)
+2. ⭐ Starred [jrgrimshaw/google-sheets-node](https://github.com/jrgrimshaw/google-sheets-node)
+3. ⭐ Starred [aminefreelancer/VueSheet](https://github.com/aminefreelancer/VueSheet)
+4. 📔 Created new repository [T-Damer/v-portfolio](https://github.com/T-Damer/v-portfolio)
+5. ✌️ Released [First release 🕒](https://github.com/T-Damer/neoMorphism-clock/releases/tag/1.0.0) in [T-Damer/neoMorphism-clock](https://github.com/T-Damer/neoMorphism-clock)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 10th, 2021, 5:57:50 PM
+Last Updated: Tuesday, August 10th, 2021, 6:26:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
