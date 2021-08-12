@@ -60,15 +60,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
-2. 📔 Created new repository [T-Damer/trawel-wisely](https://github.com/T-Damer/trawel-wisely)
-3. ⭐ Starred [D3rise/discord-vkmusic](https://github.com/D3rise/discord-vkmusic)
-4. ✌️ Released [It's alive 🧪](https://github.com/T-Damer/clip-path-card/releases/tag/1.0.0) in [T-Damer/clip-path-card](https://github.com/T-Damer/clip-path-card)
-5. ⭐ Starred [jrgrimshaw/google-sheets-node](https://github.com/jrgrimshaw/google-sheets-node)
+1. ✌️ Released [We are in 🎩](https://github.com/T-Damer/johnDoe-portfolio/releases/tag/1.0.0) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
+2. ❗️ Opened issue [#1](https://github.com/T-Damer/johnDoe-portfolio/issues/1) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
+3. 📔 Created new repository [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
+4. 📔 Created new repository [T-Damer/trawel-wisely](https://github.com/T-Damer/trawel-wisely)
+5. ⭐ Starred [D3rise/discord-vkmusic](https://github.com/D3rise/discord-vkmusic)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 12th, 2021, 7:57:18 PM
+Last Updated: Thursday, August 12th, 2021, 8:20:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
