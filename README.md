@@ -60,15 +60,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/trawel-wisely](https://github.com/T-Damer/trawel-wisely)
-2. ⭐ Starred [D3rise/discord-vkmusic](https://github.com/D3rise/discord-vkmusic)
-3. ✌️ Released [It's alive 🧪](https://github.com/T-Damer/clip-path-card/releases/tag/1.0.0) in [T-Damer/clip-path-card](https://github.com/T-Damer/clip-path-card)
-4. ⭐ Starred [jrgrimshaw/google-sheets-node](https://github.com/jrgrimshaw/google-sheets-node)
-5. ⭐ Starred [aminefreelancer/VueSheet](https://github.com/aminefreelancer/VueSheet)
+1. 📔 Created new repository [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
+2. 📔 Created new repository [T-Damer/trawel-wisely](https://github.com/T-Damer/trawel-wisely)
+3. ⭐ Starred [D3rise/discord-vkmusic](https://github.com/D3rise/discord-vkmusic)
+4. ✌️ Released [It's alive 🧪](https://github.com/T-Damer/clip-path-card/releases/tag/1.0.0) in [T-Damer/clip-path-card](https://github.com/T-Damer/clip-path-card)
+5. ⭐ Starred [jrgrimshaw/google-sheets-node](https://github.com/jrgrimshaw/google-sheets-node)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 12th, 2021, 7:46:59 PM
+Last Updated: Thursday, August 12th, 2021, 7:57:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
