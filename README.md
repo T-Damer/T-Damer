@@ -60,15 +60,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [We are in 🎩](https://github.com/T-Damer/johnDoe-portfolio/releases/tag/1.0.0) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
-2. ❗️ Opened issue [#1](https://github.com/T-Damer/johnDoe-portfolio/issues/1) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
-3. 📔 Created new repository [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
-4. 📔 Created new repository [T-Damer/trawel-wisely](https://github.com/T-Damer/trawel-wisely)
-5. ⭐ Starred [D3rise/discord-vkmusic](https://github.com/D3rise/discord-vkmusic)
+1. ⭐ Starred [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+2. 🔱 Forked [T-Damer/ScrollMagic](https://github.com/T-Damer/ScrollMagic) from [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+3. ✌️ Released [We are in 🎩](https://github.com/T-Damer/johnDoe-portfolio/releases/tag/1.0.0) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
+4. ❗️ Opened issue [#1](https://github.com/T-Damer/johnDoe-portfolio/issues/1) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
+5. 📔 Created new repository [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 13th, 2021, 5:48:42 AM
+Last Updated: Friday, August 13th, 2021, 5:58:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
