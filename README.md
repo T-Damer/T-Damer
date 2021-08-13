@@ -60,15 +60,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
-2. 🔱 Forked [T-Damer/ScrollMagic](https://github.com/T-Damer/ScrollMagic) from [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
-3. ✌️ Released [We are in 🎩](https://github.com/T-Damer/johnDoe-portfolio/releases/tag/1.0.0) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
-4. ❗️ Opened issue [#1](https://github.com/T-Damer/johnDoe-portfolio/issues/1) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
-5. 📔 Created new repository [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
+1. 📔 Created new repository [T-Damer/cafe-appetite](https://github.com/T-Damer/cafe-appetite)
+2. ⭐ Starred [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+3. 🔱 Forked [T-Damer/ScrollMagic](https://github.com/T-Damer/ScrollMagic) from [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+4. ✌️ Released [We are in 🎩](https://github.com/T-Damer/johnDoe-portfolio/releases/tag/1.0.0) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
+5. ❗️ Opened issue [#1](https://github.com/T-Damer/johnDoe-portfolio/issues/1) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 13th, 2021, 11:58:21 AM
+Last Updated: Friday, August 13th, 2021, 12:34:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
