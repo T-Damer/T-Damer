@@ -51,6 +51,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Language Switcher HTML+CSS](https://dev.to/tdamer/language-switcher-html-css-4flg)
 - [Hi, party](https://dev.to/tdamer/hi-party-40dl)
 <!-- BLOG-POST-LIST:END -->
 
