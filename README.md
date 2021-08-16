@@ -61,15 +61,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Let's feed the world 🍲](https://github.com/T-Damer/cafe-appetite/releases/tag/1.0.0) in [T-Damer/cafe-appetite](https://github.com/T-Damer/cafe-appetite)
-2. 📔 Created new repository [T-Damer/cafe-appetite](https://github.com/T-Damer/cafe-appetite)
-3. ⭐ Starred [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
-4. 🔱 Forked [T-Damer/ScrollMagic](https://github.com/T-Damer/ScrollMagic) from [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
-5. ✌️ Released [We are in 🎩](https://github.com/T-Damer/johnDoe-portfolio/releases/tag/1.0.0) in [T-Damer/johnDoe-portfolio](https://github.com/T-Damer/johnDoe-portfolio)
+1. 📔 Created new repository [T-Damer/jeffs-portfolio](https://github.com/T-Damer/jeffs-portfolio)
+2. ✌️ Released [Let's feed the world 🍲](https://github.com/T-Damer/cafe-appetite/releases/tag/1.0.0) in [T-Damer/cafe-appetite](https://github.com/T-Damer/cafe-appetite)
+3. 📔 Created new repository [T-Damer/cafe-appetite](https://github.com/T-Damer/cafe-appetite)
+4. ⭐ Starred [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+5. 🔱 Forked [T-Damer/ScrollMagic](https://github.com/T-Damer/ScrollMagic) from [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 16th, 2021, 7:15:08 PM
+Last Updated: Monday, August 16th, 2021, 7:25:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
