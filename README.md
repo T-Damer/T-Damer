@@ -62,15 +62,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
-2. ⭐ Starred [romainbutteaud/Kaffeine](https://github.com/romainbutteaud/Kaffeine)
-3. ✌️ Released [Alive 📼](https://github.com/T-Damer/vid-inside/releases/tag/1.0.0) in [T-Damer/vid-inside](https://github.com/T-Damer/vid-inside)
-4. 📔 Created new repository [T-Damer/vid-inside](https://github.com/T-Damer/vid-inside)
-5. 📔 Created new repository [T-Damer/3d-template](https://github.com/T-Damer/3d-template)
+1. 📔 Created new repository [T-Damer/socket-chat](https://github.com/T-Damer/socket-chat)
+2. 📔 Created new repository [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
+3. ⭐ Starred [romainbutteaud/Kaffeine](https://github.com/romainbutteaud/Kaffeine)
+4. ✌️ Released [Alive 📼](https://github.com/T-Damer/vid-inside/releases/tag/1.0.0) in [T-Damer/vid-inside](https://github.com/T-Damer/vid-inside)
+5. 📔 Created new repository [T-Damer/vid-inside](https://github.com/T-Damer/vid-inside)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 19th, 2021, 7:25:36 PM
+Last Updated: Thursday, August 19th, 2021, 7:36:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
