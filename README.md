@@ -51,6 +51,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy telegram bot to heroku for free](https://dev.to/tdamer/deploy-telegram-bot-to-heroku-for-free-h67)
 - [Super Neo Button](https://dev.to/tdamer/super-neo-button-4k74)
 - [Language Switcher HTML+CSS](https://dev.to/tdamer/language-switcher-html-css-4flg)
 - [Hi, party](https://dev.to/tdamer/hi-party-40dl)
