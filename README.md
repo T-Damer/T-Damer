@@ -63,15 +63,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/sneaky-peaky](https://github.com/T-Damer/sneaky-peaky)
-2. 📔 Created new repository [T-Damer/socket-chat](https://github.com/T-Damer/socket-chat)
-3. 📔 Created new repository [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
-4. ⭐ Starred [romainbutteaud/Kaffeine](https://github.com/romainbutteaud/Kaffeine)
-5. ✌️ Released [Alive 📼](https://github.com/T-Damer/vid-inside/releases/tag/1.0.0) in [T-Damer/vid-inside](https://github.com/T-Damer/vid-inside)
+1. ✌️ Released [We are running 👟](https://github.com/T-Damer/sneaky-peaky/releases/tag/1.0.0) in [T-Damer/sneaky-peaky](https://github.com/T-Damer/sneaky-peaky)
+2. 📔 Created new repository [T-Damer/sneaky-peaky](https://github.com/T-Damer/sneaky-peaky)
+3. 📔 Created new repository [T-Damer/socket-chat](https://github.com/T-Damer/socket-chat)
+4. 📔 Created new repository [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
+5. ⭐ Starred [romainbutteaud/Kaffeine](https://github.com/romainbutteaud/Kaffeine)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 22nd, 2021, 4:58:53 PM
+Last Updated: Sunday, August 22nd, 2021, 5:23:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
