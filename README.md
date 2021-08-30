@@ -63,15 +63,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vedees/wcms](https://github.com/vedees/wcms)
-2. 📔 Created new repository [T-Damer/whatsAppTracker](https://github.com/T-Damer/whatsAppTracker)
-3. ✌️ Released [Give life back to music 🎧](https://github.com/T-Damer/beats-landing/releases/tag/1.0.0) in [T-Damer/beats-landing](https://github.com/T-Damer/beats-landing)
-4. 📔 Created new repository [T-Damer/yourCV](https://github.com/T-Damer/yourCV)
-5. 📔 Created new repository [T-Damer/beats-landing](https://github.com/T-Damer/beats-landing)
+1. 🎉 Merged PR [#1](https://github.com/T-Damer/e-commerce-template/pull/1) in [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
+2. 💪 Opened PR [#1](https://github.com/T-Damer/e-commerce-template/pull/1) in [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
+3. ⭐ Starred [vedees/wcms](https://github.com/vedees/wcms)
+4. 📔 Created new repository [T-Damer/whatsAppTracker](https://github.com/T-Damer/whatsAppTracker)
+5. ✌️ Released [Give life back to music 🎧](https://github.com/T-Damer/beats-landing/releases/tag/1.0.0) in [T-Damer/beats-landing](https://github.com/T-Damer/beats-landing)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 30th, 2021, 2:47:17 PM
+Last Updated: Monday, August 30th, 2021, 2:57:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
