@@ -63,15 +63,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/ERC721-puppyNFT](https://github.com/T-Damer/ERC721-puppyNFT)
-2. 📔 Created new repository [T-Damer/ERC721nft](https://github.com/T-Damer/ERC721nft)
-3. 📔 Created new repository [T-Damer/todoETH](https://github.com/T-Damer/todoETH)
-4. 📔 Created new repository [T-Damer/blog_cms](https://github.com/T-Damer/blog_cms)
-5. 🎉 Merged PR [#1](https://github.com/T-Damer/e-commerce-template/pull/1) in [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
+1. 🔱 Forked [T-Damer/nft-mix](https://github.com/T-Damer/nft-mix) from [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix)
+2. 📔 Created new repository [T-Damer/ERC721-puppyNFT](https://github.com/T-Damer/ERC721-puppyNFT)
+3. 📔 Created new repository [T-Damer/ERC721nft](https://github.com/T-Damer/ERC721nft)
+4. 📔 Created new repository [T-Damer/todoETH](https://github.com/T-Damer/todoETH)
+5. 📔 Created new repository [T-Damer/blog_cms](https://github.com/T-Damer/blog_cms)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 1st, 2021, 5:03:31 PM
+Last Updated: Wednesday, September 1st, 2021, 5:30:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
