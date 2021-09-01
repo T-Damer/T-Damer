@@ -63,15 +63,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/ERC721nft](https://github.com/T-Damer/ERC721nft)
-2. 📔 Created new repository [T-Damer/todoETH](https://github.com/T-Damer/todoETH)
-3. 📔 Created new repository [T-Damer/blog_cms](https://github.com/T-Damer/blog_cms)
-4. 🎉 Merged PR [#1](https://github.com/T-Damer/e-commerce-template/pull/1) in [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
-5. 💪 Opened PR [#1](https://github.com/T-Damer/e-commerce-template/pull/1) in [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
+1. 📔 Created new repository [T-Damer/ERC721-puppyNFT](https://github.com/T-Damer/ERC721-puppyNFT)
+2. 📔 Created new repository [T-Damer/ERC721nft](https://github.com/T-Damer/ERC721nft)
+3. 📔 Created new repository [T-Damer/todoETH](https://github.com/T-Damer/todoETH)
+4. 📔 Created new repository [T-Damer/blog_cms](https://github.com/T-Damer/blog_cms)
+5. 🎉 Merged PR [#1](https://github.com/T-Damer/e-commerce-template/pull/1) in [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 1st, 2021, 9:16:19 AM
+Last Updated: Wednesday, September 1st, 2021, 9:32:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
