@@ -63,15 +63,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Warming the soul 🔥](https://github.com/T-Damer/feel-pretty/releases/tag/1.0.0) in [T-Damer/feel-pretty](https://github.com/T-Damer/feel-pretty)
-2. 📔 Created new repository [T-Damer/feel-pretty](https://github.com/T-Damer/feel-pretty)
-3. 📔 Created new repository [T-Damer/318-backend](https://github.com/T-Damer/318-backend)
-4. 🔱 Forked [T-Damer/nft-mix](https://github.com/T-Damer/nft-mix) from [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix)
-5. 📔 Created new repository [T-Damer/ERC721-puppyNFT](https://github.com/T-Damer/ERC721-puppyNFT)
+1. ⭐ Starred [hakimel/Meny](https://github.com/hakimel/Meny)
+2. ✌️ Released [Warming the soul 🔥](https://github.com/T-Damer/feel-pretty/releases/tag/1.0.0) in [T-Damer/feel-pretty](https://github.com/T-Damer/feel-pretty)
+3. 📔 Created new repository [T-Damer/feel-pretty](https://github.com/T-Damer/feel-pretty)
+4. 📔 Created new repository [T-Damer/318-backend](https://github.com/T-Damer/318-backend)
+5. 🔱 Forked [T-Damer/nft-mix](https://github.com/T-Damer/nft-mix) from [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 9th, 2021, 6:59:10 AM
+Last Updated: Thursday, September 9th, 2021, 7:20:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
