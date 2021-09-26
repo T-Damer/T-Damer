@@ -11,9 +11,9 @@
 
 ## I'm a Designer and Developer ✏️
 
-- ⌨️ Right now working as Intern in [Borodutch](https://github.com/Borodutch)
-- ✌️ I’m currently learning Vue
-- 🃏 I’m looking for job opportunities and open source projects to contribute
+- ⌨️ Right now working as Intern in BigWhaleLabs
+- 👨‍🎓 Currently learning Vue
+- 👀 Looking for job opportunities and open source projects to contribute
 - 🏹 2021 Goals: Contribute more to Open Source projects and get a job
 - ⚡ I love to play video games
 
