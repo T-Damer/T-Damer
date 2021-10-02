@@ -64,15 +64,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hakimel/Meny](https://github.com/hakimel/Meny)
-2. ✌️ Released [Warming the soul 🔥](https://github.com/T-Damer/feel-pretty/releases/tag/1.0.0) in [T-Damer/feel-pretty](https://github.com/T-Damer/feel-pretty)
-3. 📔 Created new repository [T-Damer/feel-pretty](https://github.com/T-Damer/feel-pretty)
-4. 📔 Created new repository [T-Damer/318-backend](https://github.com/T-Damer/318-backend)
-5. 🔱 Forked [T-Damer/nft-mix](https://github.com/T-Damer/nft-mix) from [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix)
+1. 📔 Created new repository [T-Damer/PERNShop](https://github.com/T-Damer/PERNShop)
+2. ⭐ Starred [hakimel/Meny](https://github.com/hakimel/Meny)
+3. ✌️ Released [Warming the soul 🔥](https://github.com/T-Damer/feel-pretty/releases/tag/1.0.0) in [T-Damer/feel-pretty](https://github.com/T-Damer/feel-pretty)
+4. 📔 Created new repository [T-Damer/feel-pretty](https://github.com/T-Damer/feel-pretty)
+5. 📔 Created new repository [T-Damer/318-backend](https://github.com/T-Damer/318-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 2nd, 2021, 3:15:51 PM
+Last Updated: Saturday, October 2nd, 2021, 3:34:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
