@@ -64,15 +64,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [T-Damer/frontend-starter-react](https://github.com/T-Damer/frontend-starter-react) from [Borodutch/frontend-starter-react](https://github.com/Borodutch/frontend-starter-react)
-2. 🔱 Forked [T-Damer/backend-starter](https://github.com/T-Damer/backend-starter) from [Borodutch/backend-starter](https://github.com/Borodutch/backend-starter)
-3. 📔 Created new repository [T-Damer/PERNShop](https://github.com/T-Damer/PERNShop)
-4. ⭐ Starred [hakimel/Meny](https://github.com/hakimel/Meny)
-5. ✌️ Released [Warming the soul 🔥](https://github.com/T-Damer/feel-pretty/releases/tag/1.0.0) in [T-Damer/feel-pretty](https://github.com/T-Damer/feel-pretty)
+1. 💪 Opened PR [#2](https://github.com/Borodutch/frontend-starter-react/pull/2) in [Borodutch/frontend-starter-react](https://github.com/Borodutch/frontend-starter-react)
+2. 💪 Opened PR [#75](https://github.com/Borodutch/backend-starter/pull/75) in [Borodutch/backend-starter](https://github.com/Borodutch/backend-starter)
+3. 🔱 Forked [T-Damer/frontend-starter-react](https://github.com/T-Damer/frontend-starter-react) from [Borodutch/frontend-starter-react](https://github.com/Borodutch/frontend-starter-react)
+4. 🔱 Forked [T-Damer/backend-starter](https://github.com/T-Damer/backend-starter) from [Borodutch/backend-starter](https://github.com/Borodutch/backend-starter)
+5. 📔 Created new repository [T-Damer/PERNShop](https://github.com/T-Damer/PERNShop)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 8th, 2021, 9:59:39 AM
+Last Updated: Friday, October 8th, 2021, 10:25:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
