@@ -11,7 +11,7 @@
 
 ## I'm a Designer and Developer ✏️
 
-- ⌨️ Right now working as Intern in BigWhaleLabs
+- ⌨️ Right now working as Junior MERN Developer in BigWhaleLabs (doing front and back)
 - 👨‍🎓 Currently learning Vue
 - 👀 Looking for job opportunities and open source projects to contribute
 - 🏹 2021 Goals: Contribute more to Open Source projects and get a job
