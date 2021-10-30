@@ -64,15 +64,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Megachell/sticker-generation](https://github.com/Megachell/sticker-generation)
-2. ⭐ Starred [gregsadetsky/heroku-ci-badge](https://github.com/gregsadetsky/heroku-ci-badge)
-3. ⭐ Starred [WebDevSimplified/useful-custom-react-hooks](https://github.com/WebDevSimplified/useful-custom-react-hooks)
-4. 💪 Opened PR [#2](https://github.com/Borodutch/frontend-starter-react/pull/2) in [Borodutch/frontend-starter-react](https://github.com/Borodutch/frontend-starter-react)
-5. 💪 Opened PR [#75](https://github.com/Borodutch/backend-starter/pull/75) in [Borodutch/backend-starter](https://github.com/Borodutch/backend-starter)
+1. ⭐ Starred [cdr/code-server](https://github.com/cdr/code-server)
+2. ⭐ Starred [Megachell/sticker-generation](https://github.com/Megachell/sticker-generation)
+3. ⭐ Starred [gregsadetsky/heroku-ci-badge](https://github.com/gregsadetsky/heroku-ci-badge)
+4. ⭐ Starred [WebDevSimplified/useful-custom-react-hooks](https://github.com/WebDevSimplified/useful-custom-react-hooks)
+5. 💪 Opened PR [#2](https://github.com/Borodutch/frontend-starter-react/pull/2) in [Borodutch/frontend-starter-react](https://github.com/Borodutch/frontend-starter-react)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 30th, 2021, 4:57:28 PM
+Last Updated: Saturday, October 30th, 2021, 5:22:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
