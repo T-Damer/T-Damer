@@ -64,15 +64,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [T-Damer/openpilot](https://github.com/T-Damer/openpilot) from [commaai/openpilot](https://github.com/commaai/openpilot)
-2. ⭐ Starred [commaai/openpilot](https://github.com/commaai/openpilot)
-3. ⭐ Starred [T-Damer/Pixelorama](https://github.com/T-Damer/Pixelorama)
-4. 🔱 Forked [T-Damer/Pixelorama](https://github.com/T-Damer/Pixelorama) from [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. ⭐ Starred [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. ⭐ Starred [T-Damer/nuclear](https://github.com/T-Damer/nuclear)
+2. 🔱 Forked [T-Damer/nuclear](https://github.com/T-Damer/nuclear) from [nukeop/nuclear](https://github.com/nukeop/nuclear)
+3. ⭐ Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)
+4. ⭐ Starred [T-Damer/SoundJS](https://github.com/T-Damer/SoundJS)
+5. 🔱 Forked [T-Damer/SoundJS](https://github.com/T-Damer/SoundJS) from [CreateJS/SoundJS](https://github.com/CreateJS/SoundJS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 9th, 2021, 7:15:13 AM
+Last Updated: Tuesday, November 9th, 2021, 7:30:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
