@@ -64,15 +64,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gram-js/gramjs](https://github.com/gram-js/gramjs)
-2. 🔱 Forked [T-Damer/gramjs](https://github.com/T-Damer/gramjs) from [gram-js/gramjs](https://github.com/gram-js/gramjs)
-3. ⭐ Starred [backmeupplz/IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot)
-4. 🔱 Forked [T-Damer/IsBotDownBot](https://github.com/T-Damer/IsBotDownBot) from [backmeupplz/IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot)
-5. 🔱 Forked [T-Damer/LoopingViewPager](https://github.com/T-Damer/LoopingViewPager) from [siralam/LoopingViewPager](https://github.com/siralam/LoopingViewPager)
+1. 🔱 Forked [T-Damer/openpilot](https://github.com/T-Damer/openpilot) from [commaai/openpilot](https://github.com/commaai/openpilot)
+2. ⭐ Starred [commaai/openpilot](https://github.com/commaai/openpilot)
+3. ⭐ Starred [T-Damer/Pixelorama](https://github.com/T-Damer/Pixelorama)
+4. 🔱 Forked [T-Damer/Pixelorama](https://github.com/T-Damer/Pixelorama) from [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. ⭐ Starred [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 9th, 2021, 6:51:53 AM
+Last Updated: Tuesday, November 9th, 2021, 7:15:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
