@@ -64,15 +64,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [backmeupplz/IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot)
-2. 🔱 Forked [T-Damer/IsBotDownBot](https://github.com/T-Damer/IsBotDownBot) from [backmeupplz/IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot)
-3. 🔱 Forked [T-Damer/LoopingViewPager](https://github.com/T-Damer/LoopingViewPager) from [siralam/LoopingViewPager](https://github.com/siralam/LoopingViewPager)
-4. 🔱 Forked [T-Damer/rellax](https://github.com/T-Damer/rellax) from [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax)
-5. 🔱 Forked [T-Damer/TikTok-Flutter](https://github.com/T-Damer/TikTok-Flutter) from [salvadordeveloper/TikTok-Flutter](https://github.com/salvadordeveloper/TikTok-Flutter)
+1. ⭐ Starred [gram-js/gramjs](https://github.com/gram-js/gramjs)
+2. 🔱 Forked [T-Damer/gramjs](https://github.com/T-Damer/gramjs) from [gram-js/gramjs](https://github.com/gram-js/gramjs)
+3. ⭐ Starred [backmeupplz/IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot)
+4. 🔱 Forked [T-Damer/IsBotDownBot](https://github.com/T-Damer/IsBotDownBot) from [backmeupplz/IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot)
+5. 🔱 Forked [T-Damer/LoopingViewPager](https://github.com/T-Damer/LoopingViewPager) from [siralam/LoopingViewPager](https://github.com/siralam/LoopingViewPager)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 9th, 2021, 6:00:15 AM
+Last Updated: Tuesday, November 9th, 2021, 6:31:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
