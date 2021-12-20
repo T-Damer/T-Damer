@@ -64,15 +64,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [T-Damer/vime](https://github.com/T-Damer/vime) from [vime-js/vime](https://github.com/vime-js/vime)
-2. 📔 Created new repository [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-3. ⭐ Starred [keijiro/TestbedHDRP](https://github.com/keijiro/TestbedHDRP)
-4. ⭐ Starred [ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample](https://github.com/ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample)
-5. 🔱 Forked [T-Damer/react-native-animated-todo](https://github.com/T-Damer/react-native-animated-todo) from [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo)
+1. 🔱 Forked [T-Damer/fondu](https://github.com/T-Damer/fondu) from [Borodutch/fondu](https://github.com/Borodutch/fondu)
+2. 🔱 Forked [T-Damer/vime](https://github.com/T-Damer/vime) from [vime-js/vime](https://github.com/vime-js/vime)
+3. 📔 Created new repository [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+4. ⭐ Starred [keijiro/TestbedHDRP](https://github.com/keijiro/TestbedHDRP)
+5. ⭐ Starred [ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample](https://github.com/ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 20th, 2021, 10:38:32 AM
+Last Updated: Monday, December 20th, 2021, 10:50:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
