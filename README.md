@@ -64,15 +64,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/stat-bot](https://github.com/T-Damer/stat-bot)
-2. 📔 Created new repository [T-Damer/grammY-template](https://github.com/T-Damer/grammY-template)
-3. 🔱 Forked [T-Damer/fondu](https://github.com/T-Damer/fondu) from [Borodutch/fondu](https://github.com/Borodutch/fondu)
-4. 🔱 Forked [T-Damer/vime](https://github.com/T-Damer/vime) from [vime-js/vime](https://github.com/vime-js/vime)
-5. 📔 Created new repository [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+1. 📔 Created new repository [T-Damer/stats-bot](https://github.com/T-Damer/stats-bot)
+2. 📔 Created new repository [T-Damer/stat-bot](https://github.com/T-Damer/stat-bot)
+3. 📔 Created new repository [T-Damer/grammY-template](https://github.com/T-Damer/grammY-template)
+4. 🔱 Forked [T-Damer/fondu](https://github.com/T-Damer/fondu) from [Borodutch/fondu](https://github.com/Borodutch/fondu)
+5. 🔱 Forked [T-Damer/vime](https://github.com/T-Damer/vime) from [vime-js/vime](https://github.com/vime-js/vime)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 27th, 2021, 2:55:22 PM
+Last Updated: Monday, December 27th, 2021, 3:48:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
