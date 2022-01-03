@@ -17,7 +17,7 @@
 - 🏹 2022 Goals: Contribute more to Open Source projects and get a job
 - 🕹️ I love to play and create video games
 
-## Connect with me:
+## Contact me:
 
 [<img style="margin: 5px" align="left" alt="T.DaM∑R | Discord" width="50px" src="https://user-images.githubusercontent.com/49658988/147961619-e55ef10b-ac9a-42e9-b0ea-eea37e5b6674.png" />][discord]
 [<img style="margin: 5px" align="left" alt="T.DaM∑R | Twitter" width="50px" src="https://user-images.githubusercontent.com/49658988/147961429-6bf4debe-f7b7-4fc2-b5f6-34c1d72eada6.png" />][twitter]
