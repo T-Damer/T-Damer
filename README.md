@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [T-Damer/wishBasket-bot](https://github.com/T-Damer/wishBasket-bot)
+1. ⭐ Starred [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
 2. ⭐ Starred [T-Damer/wishBasket-bot](https://github.com/T-Damer/wishBasket-bot)
-3. 📔 Created new repository [T-Damer/stats-bot](https://github.com/T-Damer/stats-bot)
-4. 📔 Created new repository [T-Damer/stat-bot](https://github.com/T-Damer/stat-bot)
-5. 📔 Created new repository [T-Damer/grammY-template](https://github.com/T-Damer/grammY-template)
+3. ⭐ Starred [T-Damer/wishBasket-bot](https://github.com/T-Damer/wishBasket-bot)
+4. 📔 Created new repository [T-Damer/stats-bot](https://github.com/T-Damer/stats-bot)
+5. 📔 Created new repository [T-Damer/stat-bot](https://github.com/T-Damer/stat-bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 4th, 2022, 6:58:02 AM
+Last Updated: Tuesday, January 4th, 2022, 7:21:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
