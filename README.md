@@ -52,11 +52,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Material Search Bar](https://dev.to/tdamer/material-search-bar-2l45)
 - [Pure CSS Loader Life is Strange](https://dev.to/tdamer/pure-css-loader-life-is-strange-1bod)
 - [Deploy telegram bot to heroku for free](https://dev.to/tdamer/deploy-telegram-bot-to-heroku-for-free-h67)
 - [Super Neo Button](https://dev.to/tdamer/super-neo-button-4k74)
 - [Language Switcher HTML+CSS](https://dev.to/tdamer/language-switcher-html-css-4flg)
-- [Hi, party](https://dev.to/tdamer/hi-party-40dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
