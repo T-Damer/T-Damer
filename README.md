@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [websockets/ws](https://github.com/websockets/ws)
-2. ✌️ Released [We're good to go ⚡](https://github.com/T-Damer/discord-bot-template/releases/tag/1.0.0) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-3. ⭐ Starred [guilyx/guilyx](https://github.com/guilyx/guilyx)
-4. ⭐ Starred [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
-5. ⭐ Starred [T-Damer/wishBasket-bot](https://github.com/T-Damer/wishBasket-bot)
+1. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)
+2. ⭐ Starred [websockets/ws](https://github.com/websockets/ws)
+3. ✌️ Released [We're good to go ⚡](https://github.com/T-Damer/discord-bot-template/releases/tag/1.0.0) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+4. ⭐ Starred [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. ⭐ Starred [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 7th, 2022, 6:56:30 PM
+Last Updated: Friday, January 7th, 2022, 7:13:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
