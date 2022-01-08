@@ -87,7 +87,13 @@ Last Updated: Saturday, January 8th, 2022, 7:59:38 PM
 
 ---
 
+<div style="display: flex; flex-direction: row;">
 <a href="https://www.buymeacoffee.com/tdamer"><img src="https://img.buymeacoffee.com/button-api/?text=Support me with a coffee&emoji=☕️&slug=tdamer&button_colour=ffcc33&font_colour=000&font_family=Lato&outline_colour=000&coffee_colour=000"></a>
+
+<a href='https://ko-fi.com/L4L27UGGE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+  
+---
 
 [website]: https://t-damer.github.io/myPortfolio/#/
 [discord]: https://discord.com/users/287475060493516810
