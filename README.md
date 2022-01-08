@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)
-2. ⭐ Starred [websockets/ws](https://github.com/websockets/ws)
-3. ✌️ Released [We're good to go ⚡](https://github.com/T-Damer/discord-bot-template/releases/tag/1.0.0) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-4. ⭐ Starred [guilyx/guilyx](https://github.com/guilyx/guilyx)
-5. ⭐ Starred [T-Damer/myPortfolio](https://github.com/T-Damer/myPortfolio)
+1. 📔 Created new repository [T-Damer/projectio](https://github.com/T-Damer/projectio)
+2. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)
+3. ⭐ Starred [websockets/ws](https://github.com/websockets/ws)
+4. ✌️ Released [We're good to go ⚡](https://github.com/T-Damer/discord-bot-template/releases/tag/1.0.0) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+5. ⭐ Starred [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 8th, 2022, 12:29:00 PM
+Last Updated: Saturday, January 8th, 2022, 1:02:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
