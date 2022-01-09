@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rahulhidau/corona-free-dark-bootstrap-admin-template](https://github.com/rahulhidau/corona-free-dark-bootstrap-admin-template)
-2. ⭐ Starred [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-3. 📔 Created new repository [T-Damer/projectio](https://github.com/T-Damer/projectio)
-4. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)
-5. ⭐ Starred [websockets/ws](https://github.com/websockets/ws)
+1. ⭐ Starred [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)
+2. ⭐ Starred [rahulhidau/corona-free-dark-bootstrap-admin-template](https://github.com/rahulhidau/corona-free-dark-bootstrap-admin-template)
+3. ⭐ Starred [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+4. 📔 Created new repository [T-Damer/projectio](https://github.com/T-Damer/projectio)
+5. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 9th, 2022, 6:28:29 AM
+Last Updated: Sunday, January 9th, 2022, 6:50:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
