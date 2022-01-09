@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)
-2. ⭐ Starred [rahulhidau/corona-free-dark-bootstrap-admin-template](https://github.com/rahulhidau/corona-free-dark-bootstrap-admin-template)
-3. ⭐ Starred [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-4. 📔 Created new repository [T-Damer/projectio](https://github.com/T-Damer/projectio)
-5. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)
+1. ⭐ Starred [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
+2. ⭐ Starred [T-Damer/chao-chat](https://github.com/T-Damer/chao-chat)
+3. ⭐ Starred [T-Damer/express-sheet](https://github.com/T-Damer/express-sheet)
+4. ⭐ Starred [T-Damer/neoMorphism-clock](https://github.com/T-Damer/neoMorphism-clock)
+5. ⭐ Starred [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 9th, 2022, 12:38:31 PM
+Last Updated: Sunday, January 9th, 2022, 1:05:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
