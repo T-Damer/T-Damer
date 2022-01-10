@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
-2. ⭐ Starred [T-Damer/chao-chat](https://github.com/T-Damer/chao-chat)
-3. ⭐ Starred [T-Damer/express-sheet](https://github.com/T-Damer/express-sheet)
-4. ⭐ Starred [T-Damer/neoMorphism-clock](https://github.com/T-Damer/neoMorphism-clock)
-5. ⭐ Starred [T-Damer/e-commerce-template](https://github.com/T-Damer/e-commerce-template)
+1. ⭐ Starred [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot)
+2. ⭐ Starred [T-Damer/project_manager_public](https://github.com/T-Damer/project_manager_public)
+3. ⭐ Starred [T-Damer/chao-chat](https://github.com/T-Damer/chao-chat)
+4. ⭐ Starred [T-Damer/express-sheet](https://github.com/T-Damer/express-sheet)
+5. ⭐ Starred [T-Damer/neoMorphism-clock](https://github.com/T-Damer/neoMorphism-clock)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 10th, 2022, 3:56:24 PM
+Last Updated: Monday, January 10th, 2022, 4:31:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
