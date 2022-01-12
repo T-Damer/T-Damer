@@ -14,7 +14,7 @@
 - ⌨️ Right now working as Junior MERN Developer at [BigWhaleLabs](https://github.com/BigWhaleLabs)
 - 👨‍🎓 Currently learning Vue and Mobile Development
 - 👀 Looking for job opportunities and open source projects to contribute
-- 🏹 2022 Goals: Contribute more to Open Source projects and get a job
+- 🏹 2022 Goals: Contribute more to Open Source projects
 - 🕹️ I love to play and create video games
 
 ## Contact me:
