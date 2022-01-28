@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#10](https://github.com/T-Damer/fiber-portfolio/pull/10) in [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
-2. 🎉 Merged PR [#11](https://github.com/T-Damer/fiber-portfolio/pull/11) in [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
-3. 🎉 Merged PR [#8](https://github.com/T-Damer/fiber-portfolio/pull/8) in [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
-4. 🎉 Merged PR [#9](https://github.com/T-Damer/fiber-portfolio/pull/9) in [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
-5. 🎉 Merged PR [#7](https://github.com/T-Damer/fiber-portfolio/pull/7) in [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
+1. 🎉 Merged PR [#2](https://github.com/T-Damer/3d-portfolio/pull/2) in [T-Damer/3d-portfolio](https://github.com/T-Damer/3d-portfolio)
+2. 🎉 Merged PR [#12](https://github.com/T-Damer/fiber-portfolio/pull/12) in [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
+3. 🎉 Merged PR [#10](https://github.com/T-Damer/fiber-portfolio/pull/10) in [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
+4. 🎉 Merged PR [#11](https://github.com/T-Damer/fiber-portfolio/pull/11) in [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
+5. 🎉 Merged PR [#8](https://github.com/T-Damer/fiber-portfolio/pull/8) in [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 28th, 2022, 8:17:49 AM
+Last Updated: Friday, January 28th, 2022, 8:35:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
