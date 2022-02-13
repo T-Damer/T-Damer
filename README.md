@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/T-Damer/ptichka_nail_vue/pull/4) in [T-Damer/ptichka_nail_vue](https://github.com/T-Damer/ptichka_nail_vue)
-2. 🎉 Merged PR [#2](https://github.com/T-Damer/node_blog/pull/2) in [T-Damer/node_blog](https://github.com/T-Damer/node_blog)
-3. 🎉 Merged PR [#3](https://github.com/T-Damer/node_blog/pull/3) in [T-Damer/node_blog](https://github.com/T-Damer/node_blog)
-4. 🎉 Merged PR [#1](https://github.com/T-Damer/ptichka_nail_vue/pull/1) in [T-Damer/ptichka_nail_vue](https://github.com/T-Damer/ptichka_nail_vue)
-5. 🎉 Merged PR [#2](https://github.com/T-Damer/ptichka_nail_vue/pull/2) in [T-Damer/ptichka_nail_vue](https://github.com/T-Damer/ptichka_nail_vue)
+1. ⭐ Starred [EnricoPicci/git-metrics](https://github.com/EnricoPicci/git-metrics)
+2. 🎉 Merged PR [#4](https://github.com/T-Damer/ptichka_nail_vue/pull/4) in [T-Damer/ptichka_nail_vue](https://github.com/T-Damer/ptichka_nail_vue)
+3. 🎉 Merged PR [#2](https://github.com/T-Damer/node_blog/pull/2) in [T-Damer/node_blog](https://github.com/T-Damer/node_blog)
+4. 🎉 Merged PR [#3](https://github.com/T-Damer/node_blog/pull/3) in [T-Damer/node_blog](https://github.com/T-Damer/node_blog)
+5. 🎉 Merged PR [#1](https://github.com/T-Damer/ptichka_nail_vue/pull/1) in [T-Damer/ptichka_nail_vue](https://github.com/T-Damer/ptichka_nail_vue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 13th, 2022, 11:58:59 AM
+Last Updated: Sunday, February 13th, 2022, 12:33:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
