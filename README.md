@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/T-Damer/game_hub/pull/6) in [T-Damer/game_hub](https://github.com/T-Damer/game_hub)
-2. 🎉 Merged PR [#5](https://github.com/T-Damer/v-portfolio/pull/5) in [T-Damer/v-portfolio](https://github.com/T-Damer/v-portfolio)
-3. 🎉 Merged PR [#9](https://github.com/T-Damer/white-notas/pull/9) in [T-Damer/white-notas](https://github.com/T-Damer/white-notas)
-4. ⭐ Starred [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
+1. ⭐ Starred [Syniurge/ShieldControllerWinDriver](https://github.com/Syniurge/ShieldControllerWinDriver)
+2. 🎉 Merged PR [#6](https://github.com/T-Damer/game_hub/pull/6) in [T-Damer/game_hub](https://github.com/T-Damer/game_hub)
+3. 🎉 Merged PR [#5](https://github.com/T-Damer/v-portfolio/pull/5) in [T-Damer/v-portfolio](https://github.com/T-Damer/v-portfolio)
+4. 🎉 Merged PR [#9](https://github.com/T-Damer/white-notas/pull/9) in [T-Damer/white-notas](https://github.com/T-Damer/white-notas)
 5. ⭐ Starred [T-Damer/fiber-portfolio](https://github.com/T-Damer/fiber-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 28th, 2022, 9:59:23 AM
+Last Updated: Monday, February 28th, 2022, 10:25:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
