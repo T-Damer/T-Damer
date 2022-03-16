@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [davidrazmadzeExtra/Merkle_Tree_Whitelist_NFT](https://github.com/davidrazmadzeExtra/Merkle_Tree_Whitelist_NFT)
-2. 💬 Commented on [#4453](https://github.com/ChainSafe/web3.js/issues/4453#issuecomment-1059982466) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
-3. 💬 Commented on [#4453](https://github.com/ChainSafe/web3.js/issues/4453#issuecomment-1054186564) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
-4. 💬 Commented on [#3738](https://github.com/nodejs/help/issues/3738#issuecomment-1054179147) in [nodejs/help](https://github.com/nodejs/help)
-5. 💬 Commented on [#412](https://github.com/Web3Modal/web3modal/issues/412#issuecomment-1054178118) in [Web3Modal/web3modal](https://github.com/Web3Modal/web3modal)
+1. ⭐ Starred [0xPARC/circom-ecdsa](https://github.com/0xPARC/circom-ecdsa)
+2. ⭐ Starred [davidrazmadzeExtra/Merkle_Tree_Whitelist_NFT](https://github.com/davidrazmadzeExtra/Merkle_Tree_Whitelist_NFT)
+3. 💬 Commented on [#4453](https://github.com/ChainSafe/web3.js/issues/4453#issuecomment-1059982466) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
+4. 💬 Commented on [#4453](https://github.com/ChainSafe/web3.js/issues/4453#issuecomment-1054186564) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
+5. 💬 Commented on [#3738](https://github.com/nodejs/help/issues/3738#issuecomment-1054179147) in [nodejs/help](https://github.com/nodejs/help)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 16th, 2022, 1:29:30 PM
+Last Updated: Wednesday, March 16th, 2022, 1:41:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
