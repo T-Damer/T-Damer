@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [0xPARC/circom-ecdsa](https://github.com/0xPARC/circom-ecdsa)
-2. ⭐ Starred [davidrazmadzeExtra/Merkle_Tree_Whitelist_NFT](https://github.com/davidrazmadzeExtra/Merkle_Tree_Whitelist_NFT)
-3. 💬 Commented on [#4453](https://github.com/ChainSafe/web3.js/issues/4453#issuecomment-1059982466) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
-4. 💬 Commented on [#4453](https://github.com/ChainSafe/web3.js/issues/4453#issuecomment-1054186564) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
-5. 💬 Commented on [#3738](https://github.com/nodejs/help/issues/3738#issuecomment-1054179147) in [nodejs/help](https://github.com/nodejs/help)
+1. ❌ Closed PR [#1](https://github.com/T-Damer/discord-bot-template/pull/1) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+2. ❌ Closed PR [#2](https://github.com/T-Damer/discord-bot-template/pull/2) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+3. ❌ Closed PR [#3](https://github.com/T-Damer/discord-bot-template/pull/3) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+4. ❌ Closed PR [#7](https://github.com/T-Damer/discord-bot-template/pull/7) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+5. ❌ Closed PR [#10](https://github.com/T-Damer/discord-bot-template/pull/10) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 22nd, 2022, 4:41:07 PM
+Last Updated: Tuesday, March 22nd, 2022, 5:11:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
