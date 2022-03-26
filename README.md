@@ -73,7 +73,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 26th, 2022, 5:46:09 AM
+Last Updated: Saturday, March 26th, 2022, 5:20:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
@@ -83,17 +83,12 @@ Last Updated: Saturday, March 26th, 2022, 5:46:09 AM
 <img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=T-Damer&&show_icons=true&title_color=ffffff&icon_color=ffcc33&text_color=ffcc33&bg_color=151515" />
 </details>
 
-<br />
-
 ---
 
-<div style="display: flex; flex-direction: row;">
-<a href="https://www.buymeacoffee.com/tdamer"><img src="https://img.buymeacoffee.com/button-api/?text=Support me with a coffee&emoji=☕️&slug=tdamer&button_colour=ffcc33&font_colour=000&font_family=Lato&outline_colour=000&coffee_colour=000"></a>
+<a href='buymeacoffee.com/tdamer' target='_blank'><img width='125' src='https://user-images.githubusercontent.com/49658988/160226554-5b151b02-50d3-4889-b92c-189c608dcd0d.png' alt='Buy me a coffee' style="margin: 5px" align="left" /></a>
 
-<a href='https://ko-fi.com/L4L27UGGE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/L4L27UGGE' target='_blank'><img width='125' src='https://user-images.githubusercontent.com/49658988/160226750-01f3ff68-7fce-47ec-9ff5-cec270029351.png' alt='Buy Me a Coffee at ko-fi.com' style="margin: 5px" align="left"/></a>
 </div>
-  
----
 
 [website]: https://t-damer.github.io/myPortfolio/#/
 [discord]: https://discord.com/users/287475060493516810
