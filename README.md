@@ -85,7 +85,7 @@ Last Updated: Monday, March 28th, 2022, 8:57:55 AM
 
 ---
 
-<a href='buymeacoffee.com/tdamer' target='_blank'><img width='125' src='https://user-images.githubusercontent.com/49658988/160226554-5b151b02-50d3-4889-b92c-189c608dcd0d.png' alt='Buy me a coffee' style="margin: 5px" align="left" /></a>
+<a href='https://www.buymeacoffee.com/tdamer' target='_blank'><img width='125' src='https://user-images.githubusercontent.com/49658988/160226554-5b151b02-50d3-4889-b92c-189c608dcd0d.png' alt='Buy me a coffee' style="margin: 5px" align="left" /></a>
 
 <a href='https://ko-fi.com/L4L27UGGE' target='_blank'><img width='125' src='https://user-images.githubusercontent.com/49658988/160226750-01f3ff68-7fce-47ec-9ff5-cec270029351.png' alt='Buy Me a Coffee at ko-fi.com' style="margin: 5px" align="left"/></a>
 </div>
