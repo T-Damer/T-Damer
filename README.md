@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elijahmanor/dotfiles](https://github.com/elijahmanor/dotfiles)
-2. 🔱 Forked [T-Damer/circomlibjs](https://github.com/T-Damer/circomlibjs) from [iden3/circomlibjs](https://github.com/iden3/circomlibjs)
-3. ⭐ Starred [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode)
-4. ⭐ Starred [devmapal/nvidia-shield-controller-driver](https://github.com/devmapal/nvidia-shield-controller-driver)
-5. ❌ Closed PR [#1](https://github.com/T-Damer/discord-bot-template/pull/1) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+1. ⭐ Starred [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
+2. ⭐ Starred [elijahmanor/dotfiles](https://github.com/elijahmanor/dotfiles)
+3. 🔱 Forked [T-Damer/circomlibjs](https://github.com/T-Damer/circomlibjs) from [iden3/circomlibjs](https://github.com/iden3/circomlibjs)
+4. ⭐ Starred [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode)
+5. ⭐ Starred [devmapal/nvidia-shield-controller-driver](https://github.com/devmapal/nvidia-shield-controller-driver)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 11th, 2022, 2:59:13 PM
+Last Updated: Monday, April 11th, 2022, 3:26:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
