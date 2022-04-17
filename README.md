@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
-2. ⭐ Starred [elijahmanor/dotfiles](https://github.com/elijahmanor/dotfiles)
-3. 🔱 Forked [T-Damer/circomlibjs](https://github.com/T-Damer/circomlibjs) from [iden3/circomlibjs](https://github.com/iden3/circomlibjs)
-4. ⭐ Starred [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode)
-5. ⭐ Starred [devmapal/nvidia-shield-controller-driver](https://github.com/devmapal/nvidia-shield-controller-driver)
+1. ⭐ Starred [miguelmota/merkletreejs](https://github.com/miguelmota/merkletreejs)
+2. ⭐ Starred [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
+3. ⭐ Starred [elijahmanor/dotfiles](https://github.com/elijahmanor/dotfiles)
+4. 🔱 Forked [T-Damer/circomlibjs](https://github.com/T-Damer/circomlibjs) from [iden3/circomlibjs](https://github.com/iden3/circomlibjs)
+5. ⭐ Starred [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 17th, 2022, 11:56:51 AM
+Last Updated: Sunday, April 17th, 2022, 12:29:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
