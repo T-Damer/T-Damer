@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [miguelmota/merkletreejs](https://github.com/miguelmota/merkletreejs)
-2. ⭐ Starred [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
-3. ⭐ Starred [elijahmanor/dotfiles](https://github.com/elijahmanor/dotfiles)
-4. 🔱 Forked [T-Damer/circomlibjs](https://github.com/T-Damer/circomlibjs) from [iden3/circomlibjs](https://github.com/iden3/circomlibjs)
-5. ⭐ Starred [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode)
+1. ⭐ Starred [Akimyou/ts-whammy](https://github.com/Akimyou/ts-whammy)
+2. ⭐ Starred [miguelmota/merkletreejs](https://github.com/miguelmota/merkletreejs)
+3. ⭐ Starred [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
+4. ⭐ Starred [elijahmanor/dotfiles](https://github.com/elijahmanor/dotfiles)
+5. 🔱 Forked [T-Damer/circomlibjs](https://github.com/T-Damer/circomlibjs) from [iden3/circomlibjs](https://github.com/iden3/circomlibjs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 18th, 2022, 12:08:54 PM
+Last Updated: Monday, April 18th, 2022, 1:28:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
