@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yamsu/vibreoffice](https://github.com/yamsu/vibreoffice)
-2. ⭐ Starred [Akimyou/ts-whammy](https://github.com/Akimyou/ts-whammy)
-3. ⭐ Starred [miguelmota/merkletreejs](https://github.com/miguelmota/merkletreejs)
-4. ⭐ Starred [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
-5. ⭐ Starred [elijahmanor/dotfiles](https://github.com/elijahmanor/dotfiles)
+1. ❗️ Opened issue [#64](https://github.com/TheDiscordian/ipfs-sync/issues/64) in [TheDiscordian/ipfs-sync](https://github.com/TheDiscordian/ipfs-sync)
+2. ⭐ Starred [yamsu/vibreoffice](https://github.com/yamsu/vibreoffice)
+3. ⭐ Starred [Akimyou/ts-whammy](https://github.com/Akimyou/ts-whammy)
+4. ⭐ Starred [miguelmota/merkletreejs](https://github.com/miguelmota/merkletreejs)
+5. ⭐ Starred [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 20th, 2022, 2:56:11 PM
+Last Updated: Wednesday, April 20th, 2022, 3:22:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
