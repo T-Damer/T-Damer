@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-2. ❗️ Opened issue [#64](https://github.com/TheDiscordian/ipfs-sync/issues/64) in [TheDiscordian/ipfs-sync](https://github.com/TheDiscordian/ipfs-sync)
-3. ⭐ Starred [yamsu/vibreoffice](https://github.com/yamsu/vibreoffice)
-4. ⭐ Starred [Akimyou/ts-whammy](https://github.com/Akimyou/ts-whammy)
-5. ⭐ Starred [miguelmota/merkletreejs](https://github.com/miguelmota/merkletreejs)
+1. ⭐ Starred [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+2. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+3. ❗️ Opened issue [#64](https://github.com/TheDiscordian/ipfs-sync/issues/64) in [TheDiscordian/ipfs-sync](https://github.com/TheDiscordian/ipfs-sync)
+4. ⭐ Starred [yamsu/vibreoffice](https://github.com/yamsu/vibreoffice)
+5. ⭐ Starred [Akimyou/ts-whammy](https://github.com/Akimyou/ts-whammy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 12th, 2022, 7:00:14 PM
+Last Updated: Thursday, May 12th, 2022, 7:20:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
