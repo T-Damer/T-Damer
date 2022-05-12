@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#64](https://github.com/TheDiscordian/ipfs-sync/issues/64) in [TheDiscordian/ipfs-sync](https://github.com/TheDiscordian/ipfs-sync)
-2. ⭐ Starred [yamsu/vibreoffice](https://github.com/yamsu/vibreoffice)
-3. ⭐ Starred [Akimyou/ts-whammy](https://github.com/Akimyou/ts-whammy)
-4. ⭐ Starred [miguelmota/merkletreejs](https://github.com/miguelmota/merkletreejs)
-5. ⭐ Starred [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
+1. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+2. ❗️ Opened issue [#64](https://github.com/TheDiscordian/ipfs-sync/issues/64) in [TheDiscordian/ipfs-sync](https://github.com/TheDiscordian/ipfs-sync)
+3. ⭐ Starred [yamsu/vibreoffice](https://github.com/yamsu/vibreoffice)
+4. ⭐ Starred [Akimyou/ts-whammy](https://github.com/Akimyou/ts-whammy)
+5. ⭐ Starred [miguelmota/merkletreejs](https://github.com/miguelmota/merkletreejs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 12th, 2022, 10:45:08 AM
+Last Updated: Thursday, May 12th, 2022, 10:55:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
