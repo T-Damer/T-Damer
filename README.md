@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
-2. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-3. ❗️ Opened issue [#64](https://github.com/TheDiscordian/ipfs-sync/issues/64) in [TheDiscordian/ipfs-sync](https://github.com/TheDiscordian/ipfs-sync)
-4. ⭐ Starred [yamsu/vibreoffice](https://github.com/yamsu/vibreoffice)
-5. ⭐ Starred [Akimyou/ts-whammy](https://github.com/Akimyou/ts-whammy)
+1. ⭐ Starred [andreyorst/SimpleWorkspaces.vim](https://github.com/andreyorst/SimpleWorkspaces.vim)
+2. ⭐ Starred [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+3. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+4. ❗️ Opened issue [#64](https://github.com/TheDiscordian/ipfs-sync/issues/64) in [TheDiscordian/ipfs-sync](https://github.com/TheDiscordian/ipfs-sync)
+5. ⭐ Starred [yamsu/vibreoffice](https://github.com/yamsu/vibreoffice)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 14th, 2022, 10:55:31 AM
+Last Updated: Saturday, May 14th, 2022, 11:15:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
