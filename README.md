@@ -65,15 +65,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#149](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/149#discussion_r874751766) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 👍 Approved [#149](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/149#pullrequestreview-975378915) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 💬 Commented on [#149](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/149#discussion_r874750209) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 💬 Commented on [#149](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/149#discussion_r874748679) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 💬 Commented on [#149](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/149#discussion_r874747449) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 💪 Opened PR [#152](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/152) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💪 Opened PR [#150](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/150) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#149](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/149#discussion_r874751766) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 👍 Approved [#149](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/149#pullrequestreview-975378915) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#149](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/149#discussion_r874750209) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 17th, 2022, 1:56:18 PM
+Last Updated: Tuesday, May 17th, 2022, 2:25:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
