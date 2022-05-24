@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 👍 Approved [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#pullrequestreview-983561513) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 🔴 Requested 1 change(s) for [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#pullrequestreview-983173966) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 💬 Commented on [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#discussion_r880475823) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 💬 Commented on [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#discussion_r880472949) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 💬 Commented on [#203](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/203#discussion_r880750086) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 🎉 Merged PR [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 👍 Approved [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#pullrequestreview-983561513) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 🔴 Requested 1 change(s) for [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#pullrequestreview-983173966) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#discussion_r880475823) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 24th, 2022, 5:51:05 PM
+Last Updated: Tuesday, May 24th, 2022, 6:22:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
