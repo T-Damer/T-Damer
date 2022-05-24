@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/BigWhaleLabs/bigwhalelabs/pull/1) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
-2. 💬 Commented on [#203](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/203#discussion_r880086485) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 💬 Commented on [#203](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/203#discussion_r880086149) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 💪 Opened PR [#203](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/203) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 💬 Commented on [#200](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/200#discussion_r879671902) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 🔴 Requested 1 change(s) for [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#pullrequestreview-983173966) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💬 Commented on [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#discussion_r880475823) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#discussion_r880472949) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#discussion_r880472499) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#204](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/204#discussion_r880471585) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 24th, 2022, 12:38:14 PM
+Last Updated: Tuesday, May 24th, 2022, 1:24:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
