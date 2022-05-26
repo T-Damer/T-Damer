@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#3](https://github.com/BigWhaleLabs/minting-experience/pull/3#pullrequestreview-986162698) in [BigWhaleLabs/minting-experience](https://github.com/BigWhaleLabs/minting-experience)
-2. 👍 Approved [#3](https://github.com/BigWhaleLabs/seal-cred-ledger-contract-maintainer/pull/3#pullrequestreview-985993617) in [BigWhaleLabs/seal-cred-ledger-contract-maintainer](https://github.com/BigWhaleLabs/seal-cred-ledger-contract-maintainer)
-3. 👍 Approved [#209](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/209#pullrequestreview-985993385) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 👍 Approved [#209](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/209#pullrequestreview-985992616) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 👍 Approved [#2](https://github.com/BigWhaleLabs/seal-cred-admin-frontend/pull/2#pullrequestreview-985989966) in [BigWhaleLabs/seal-cred-admin-frontend](https://github.com/BigWhaleLabs/seal-cred-admin-frontend)
+1. 💬 Commented on [#4](https://github.com/BigWhaleLabs/bigwhalelabs/pull/4#discussion_r882694128) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+2. 💬 Commented on [#4](https://github.com/BigWhaleLabs/bigwhalelabs/pull/4#discussion_r882690500) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+3. 💬 Commented on [#4](https://github.com/BigWhaleLabs/bigwhalelabs/pull/4#discussion_r882685819) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+4. 💬 Commented on [#4](https://github.com/BigWhaleLabs/bigwhalelabs/pull/4#discussion_r882683925) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+5. 💬 Commented on [#4](https://github.com/BigWhaleLabs/bigwhalelabs/pull/4#discussion_r882681992) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 26th, 2022, 1:21:22 PM
+Last Updated: Thursday, May 26th, 2022, 1:52:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
