@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#24](https://github.com/BigWhaleLabs/bigwhalelabs/pull/24#pullrequestreview-990253949) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
-2. 🎉 Merged PR [#22](https://github.com/BigWhaleLabs/bigwhalelabs/pull/22) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
-3. 👍 Approved [#22](https://github.com/BigWhaleLabs/bigwhalelabs/pull/22#pullrequestreview-989629329) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
-4. 💪 Opened PR [#21](https://github.com/BigWhaleLabs/bigwhalelabs/pull/21) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
-5. 👍 Approved [#209](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/209#pullrequestreview-989103952) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 💬 Commented on [#24](https://github.com/BigWhaleLabs/bigwhalelabs/pull/24#discussion_r885582798) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+2. 💪 Opened PR [#25](https://github.com/BigWhaleLabs/bigwhalelabs/pull/25) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+3. 👍 Approved [#24](https://github.com/BigWhaleLabs/bigwhalelabs/pull/24#pullrequestreview-990253949) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+4. 🎉 Merged PR [#22](https://github.com/BigWhaleLabs/bigwhalelabs/pull/22) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+5. 👍 Approved [#22](https://github.com/BigWhaleLabs/bigwhalelabs/pull/22#pullrequestreview-989629329) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 31st, 2022, 11:56:20 AM
+Last Updated: Tuesday, May 31st, 2022, 12:40:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
