@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 🎉 Merged PR [#219](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/219) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 👍 Approved [#219](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/219#pullrequestreview-1007414948) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 🔴 Requested 1 change(s) for [#219](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/219#pullrequestreview-1006853782) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 💬 Commented on [#219](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/219#discussion_r897525316) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 💪 Opened PR [#56](https://github.com/BigWhaleLabs/bigwhalelabs/pull/56) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+2. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 🎉 Merged PR [#219](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/219) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 👍 Approved [#219](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/219#pullrequestreview-1007414948) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 🔴 Requested 1 change(s) for [#219](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/219#pullrequestreview-1006853782) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 15th, 2022, 1:53:48 PM
+Last Updated: Wednesday, June 15th, 2022, 2:15:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
