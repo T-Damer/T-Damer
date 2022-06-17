@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💪 Opened PR [#237](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/237) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 👍 Approved [#236](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/236#pullrequestreview-1010625748) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 💪 Opened PR [#235](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/235) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/web3modal](https://github.com/T-Damer/web3modal)
+2. 💪 Opened PR [#500](https://github.com/Web3Modal/web3modal/pull/500) in [Web3Modal/web3modal](https://github.com/Web3Modal/web3modal)
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/web3modal](https://github.com/T-Damer/web3modal)
+4. 🔱 Forked [T-Damer/web3modal](https://github.com/T-Damer/web3modal) from [Web3Modal/web3modal](https://github.com/Web3Modal/web3modal)
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 17th, 2022, 5:55:58 PM
+Last Updated: Friday, June 17th, 2022, 6:22:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
