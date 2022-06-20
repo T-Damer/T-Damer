@@ -67,14 +67,14 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
-3. 💪 Opened PR [#51](https://github.com/BigWhaleLabs/dosu-invites-frontend/pull/51) in [BigWhaleLabs/dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
-5. 👍 Approved [#243](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/243#pullrequestreview-1012622789) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
+4. 💪 Opened PR [#51](https://github.com/BigWhaleLabs/dosu-invites-frontend/pull/51) in [BigWhaleLabs/dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 20th, 2022, 7:29:02 PM
+Last Updated: Monday, June 20th, 2022, 7:40:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
