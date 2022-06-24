@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#267](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/267#pullrequestreview-1018696264) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 👍 Approved [#73](https://github.com/BigWhaleLabs/bigwhalelabs/pull/73#pullrequestreview-1018638391) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
-3. 💬 Commented on [#264](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/264#discussion_r906129216) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 👍 Approved [#264](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/264#pullrequestreview-1018543737) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 🔴 Requested 1 change(s) for [#264](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/264#pullrequestreview-1018442074) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 👍 Approved [#267](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/267#pullrequestreview-1018696264) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 👍 Approved [#73](https://github.com/BigWhaleLabs/bigwhalelabs/pull/73#pullrequestreview-1018638391) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+4. 💬 Commented on [#264](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/264#discussion_r906129216) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 👍 Approved [#264](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/264#pullrequestreview-1018543737) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 24th, 2022, 4:27:52 PM
+Last Updated: Friday, June 24th, 2022, 4:59:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
