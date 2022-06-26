@@ -11,7 +11,7 @@
 
 ## I'm a Designer and Developer ✏️
 
-- ⌨️ Right now working as a MERN Developer at [BigWhaleLabs](https://github.com/BigWhaleLabs)
+- ⌨️ Right now working as a MERN+Blockchain Developer at [BigWhaleLabs](https://github.com/BigWhaleLabs)
 - 👨‍🎓 Currently learning Vue and Flutter
 - 👀 Looking for open source projects to contribute
 - 🏹 2022 Goals: Contribute more to Open Source projects
