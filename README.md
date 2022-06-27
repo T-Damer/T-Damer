@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#280](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/280) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 🎉 Merged PR [#279](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/279) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 👍 Approved [#279](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/279#pullrequestreview-1020486663) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💪 Opened PR [#280](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/280) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 🎉 Merged PR [#279](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/279) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 👍 Approved [#279](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/279#pullrequestreview-1020486663) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 27th, 2022, 6:32:52 PM
+Last Updated: Monday, June 27th, 2022, 6:56:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
