@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#285](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/285#pullrequestreview-1020716843) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💬 Commented on [#280](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/280#discussion_r907700369) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 💬 Commented on [#280](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/280#discussion_r907697046) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 💬 Commented on [#280](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/280#discussion_r907696722) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+2. 🎉 Merged PR [#2](https://github.com/BigWhaleLabs/seal-cred-email/pull/2) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+3. 👍 Approved [#2](https://github.com/BigWhaleLabs/seal-cred-email/pull/2#pullrequestreview-1021095601) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+4. 💬 Commented on [#2](https://github.com/BigWhaleLabs/seal-cred-email/pull/2#discussion_r908028857) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+5. 💬 Commented on [#2](https://github.com/BigWhaleLabs/seal-cred-email/pull/2#discussion_r908027531) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 28th, 2022, 4:27:56 AM
+Last Updated: Tuesday, June 28th, 2022, 5:05:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
