@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#306](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/306#pullrequestreview-1025047273) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💬 Commented on [#306](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/306#discussion_r911145008) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 💬 Commented on [#306](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/306#discussion_r911140816) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 💬 Commented on [#306](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/306#discussion_r911138769) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 👍 Approved [#306](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/306#pullrequestreview-1025089660) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 🔴 Requested 1 change(s) for [#306](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/306#pullrequestreview-1025047273) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#306](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/306#discussion_r911145008) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#306](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/306#discussion_r911140816) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 30th, 2022, 3:56:09 PM
+Last Updated: Thursday, June 30th, 2022, 4:31:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
