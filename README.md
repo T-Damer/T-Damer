@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#309](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/309#pullrequestreview-1025251026) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💬 Commented on [#309](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/309#discussion_r911278886) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 👍 Approved [#308](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/308#pullrequestreview-1025110474) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 👍 Approved [#306](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/306#pullrequestreview-1025089660) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 👍 Approved [#312](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/312#pullrequestreview-1025388838) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 👍 Approved [#309](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/309#pullrequestreview-1025251026) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#309](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/309#discussion_r911278886) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 👍 Approved [#308](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/308#pullrequestreview-1025110474) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 30th, 2022, 8:47:46 PM
+Last Updated: Thursday, June 30th, 2022, 8:58:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
