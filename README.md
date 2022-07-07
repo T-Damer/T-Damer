@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916100629) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916099635) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916099293) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+1. 👍 Approved [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#pullrequestreview-1031919647) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916108709) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916108081) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916106852) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916106249) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 7th, 2022, 7:01:05 PM
+Last Updated: Thursday, July 7th, 2022, 7:28:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
