@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
-4. 💬 Commented on [#7](https://github.com/BigWhaleLabs/seal-cred-email/pull/7#discussion_r916038816) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
-5. 💬 Commented on [#7](https://github.com/BigWhaleLabs/seal-cred-email/pull/7#discussion_r916038126) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+1. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916100629) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916099635) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#335](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/335#discussion_r916099293) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 7th, 2022, 6:47:50 PM
+Last Updated: Thursday, July 7th, 2022, 7:01:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
