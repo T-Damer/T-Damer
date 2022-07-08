@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 🎉 Merged PR [#345](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/345) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 🎉 Merged PR [#344](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/344) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 🎉 Merged PR [#346](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/346) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. ⬆️ Pushed 37 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+2. 🎉 Merged PR [#7](https://github.com/BigWhaleLabs/seal-cred-email/pull/7) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 🎉 Merged PR [#345](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/345) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 8th, 2022, 1:30:35 PM
+Last Updated: Friday, July 8th, 2022, 1:52:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
