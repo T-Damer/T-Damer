@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#353](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/353) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💪 Opened PR [#352](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/352) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 💬 Commented on [#351](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/351#discussion_r916952933) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 🔴 Requested 1 change(s) for [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#pullrequestreview-1033506568) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245786) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245756) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245556) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245465) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 9th, 2022, 8:55:38 AM
+Last Updated: Saturday, July 9th, 2022, 9:16:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
