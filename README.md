@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#pullrequestreview-1033506568) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245786) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245756) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245556) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245465) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 👍 Approved [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#pullrequestreview-1033510237) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 🔴 Requested 1 change(s) for [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#pullrequestreview-1033506568) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245786) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245756) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#357](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/357#discussion_r917245556) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 9th, 2022, 9:55:52 AM
+Last Updated: Saturday, July 9th, 2022, 10:20:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
