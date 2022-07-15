@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#379](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/379) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 🎉 Merged PR [#14](https://github.com/BigWhaleLabs/attestor/pull/14) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-4. 💪 Opened PR [#14](https://github.com/BigWhaleLabs/attestor/pull/14) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-5. ✌️ Released [Fixed dark theme for Mailspring 🌚](https://github.com/BigWhaleLabs/seal-cred-email/releases/tag/v1.0.1) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#379](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/379#discussion_r922191018) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💪 Opened PR [#379](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/379) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 🎉 Merged PR [#14](https://github.com/BigWhaleLabs/attestor/pull/14) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 15th, 2022, 2:04:37 PM
+Last Updated: Friday, July 15th, 2022, 2:31:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
