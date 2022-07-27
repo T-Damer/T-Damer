@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
-2. 🎉 Merged PR [#10](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/10) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
-3. 👍 Approved [#10](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/10#pullrequestreview-1051440466) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
-4. 💬 Commented on [#10](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/10#discussion_r930274991) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
-5. 💬 Commented on [#10](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/10#discussion_r930274523) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
+1. 💬 Commented on [#389](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/389#discussion_r930792749) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💬 Commented on [#389](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/389#discussion_r930791021) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#389](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/389#discussion_r930790347) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
+5. 🎉 Merged PR [#10](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/10) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 27th, 2022, 8:46:08 AM
+Last Updated: Wednesday, July 27th, 2022, 8:56:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
