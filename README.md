@@ -53,11 +53,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scroll shadow above the content with pure CSS](https://dev.to/tdamer/scroll-shadow-above-the-content-with-pure-css-41a3)
 - [Mailspring/email client inverts colors in dark mode](https://dev.to/tdamer/mailspringemail-client-inverts-colors-in-dark-mode-1h4j)
 - [Material Search Bar](https://dev.to/tdamer/material-search-bar-2l45)
 - [Pure CSS Loader Life is Strange](https://dev.to/tdamer/pure-css-loader-life-is-strange-1bod)
 - [Deploy telegram bot to heroku for free](https://dev.to/tdamer/deploy-telegram-bot-to-heroku-for-free-h67)
-- [Super Neo Button](https://dev.to/tdamer/super-neo-button-4k74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
