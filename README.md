@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#599](https://github.com/opengsn/gsn/issues/599#issuecomment-1205585020) in [opengsn/gsn](https://github.com/opengsn/gsn)
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 👍 Approved [#406](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/406#pullrequestreview-1061839661) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. ❗️ Opened issue [#878](https://github.com/opengsn/gsn/issues/878) in [opengsn/gsn](https://github.com/opengsn/gsn)
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#599](https://github.com/opengsn/gsn/issues/599#issuecomment-1205585020) in [opengsn/gsn](https://github.com/opengsn/gsn)
 5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 5th, 2022, 8:44:18 AM
+Last Updated: Friday, August 5th, 2022, 8:55:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
