@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bluwy/bun-vite-ts-test](https://github.com/bluwy/bun-vite-ts-test)
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 💪 Opened PR [#15](https://github.com/BigWhaleLabs/attestor/pull/15) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
+2. ⭐ Starred [bluwy/bun-vite-ts-test](https://github.com/bluwy/bun-vite-ts-test)
 3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. ❗️ Opened issue [#878](https://github.com/opengsn/gsn/issues/878) in [opengsn/gsn](https://github.com/opengsn/gsn)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. ❗️ Opened issue [#878](https://github.com/opengsn/gsn/issues/878) in [opengsn/gsn](https://github.com/opengsn/gsn)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 7th, 2022, 11:15:38 AM
+Last Updated: Sunday, August 7th, 2022, 11:29:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
