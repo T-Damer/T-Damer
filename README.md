@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#15](https://github.com/BigWhaleLabs/attestor/pull/15#discussion_r939652487) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-4. 💪 Opened PR [#15](https://github.com/BigWhaleLabs/attestor/pull/15) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-5. ⭐ Starred [bluwy/bun-vite-ts-test](https://github.com/bluwy/bun-vite-ts-test)
+1. 💬 Commented on [#409](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/409#discussion_r939980160) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#15](https://github.com/BigWhaleLabs/attestor/pull/15#discussion_r939652487) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 8th, 2022, 8:27:26 AM
+Last Updated: Monday, August 8th, 2022, 8:48:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
