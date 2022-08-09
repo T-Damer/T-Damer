@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#410](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/410#pullrequestreview-1065536877) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💬 Commented on [#410](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/410#discussion_r940487376) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 💬 Commented on [#410](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/410#discussion_r940487330) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 🎉 Merged PR [#411](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/411) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 💪 Opened PR [#414](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/414) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 👍 Approved [#410](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/410#pullrequestreview-1065536877) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#410](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/410#discussion_r940487376) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#410](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/410#discussion_r940487330) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 9th, 2022, 7:31:31 AM
+Last Updated: Tuesday, August 9th, 2022, 7:45:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
