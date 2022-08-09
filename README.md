@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#78](https://github.com/BigWhaleLabs/bigwhalelabs/pull/78) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
-2. 💬 Commented on [#418](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/418#discussion_r941598826) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 💪 Opened PR [#418](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/418) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 💪 Opened PR [#13](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/13) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 👍 Approved [#14](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/14#pullrequestreview-1067239714) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
+2. 👍 Approved [#417](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/417#pullrequestreview-1067239652) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. ❌ Closed PR [#78](https://github.com/BigWhaleLabs/bigwhalelabs/pull/78) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+4. 💬 Commented on [#418](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/418#discussion_r941598826) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💪 Opened PR [#418](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/418) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 9th, 2022, 6:46:15 PM
+Last Updated: Tuesday, August 9th, 2022, 6:56:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
