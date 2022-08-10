@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
-2. 🎉 Merged PR [#4](https://github.com/BigWhaleLabs/constants/pull/4) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
-3. 👍 Approved [#4](https://github.com/BigWhaleLabs/constants/pull/4#pullrequestreview-1068338797) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
-4. 👍 Approved [#421](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/421#pullrequestreview-1068290353) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 👍 Approved [#420](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/420#pullrequestreview-1068138115) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 💬 Commented on [#422](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/422#discussion_r942556657) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💬 Commented on [#422](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/422#discussion_r942554604) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#422](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/422#discussion_r942554268) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#422](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/422#discussion_r942553753) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#422](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/422#discussion_r942552763) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 10th, 2022, 2:49:24 PM
+Last Updated: Wednesday, August 10th, 2022, 2:59:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
