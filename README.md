@@ -66,15 +66,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#421](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/421#pullrequestreview-1068290353) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 👍 Approved [#420](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/420#pullrequestreview-1068138115) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 👍 Approved [#14](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/14#pullrequestreview-1067239714) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
-4. 👍 Approved [#417](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/417#pullrequestreview-1067239652) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. ❌ Closed PR [#78](https://github.com/BigWhaleLabs/bigwhalelabs/pull/78) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
+2. 🎉 Merged PR [#4](https://github.com/BigWhaleLabs/constants/pull/4) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
+3. 👍 Approved [#4](https://github.com/BigWhaleLabs/constants/pull/4#pullrequestreview-1068338797) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
+4. 👍 Approved [#421](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/421#pullrequestreview-1068290353) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 👍 Approved [#420](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/420#pullrequestreview-1068138115) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 10th, 2022, 1:58:35 PM
+Last Updated: Wednesday, August 10th, 2022, 2:22:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
