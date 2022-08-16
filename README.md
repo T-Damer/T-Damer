@@ -12,7 +12,7 @@
 ## I'm a Designer and Developer ✏️
 
 - ⌨️ Right now working as a MERN+Blockchain Developer at [BigWhaleLabs](https://github.com/BigWhaleLabs)
-- 👨‍🎓 Currently learning Rust
+- 🦀 Currently learning Rust
 - 👀 Looking for open source projects to contribute
 - 🏹 2022 Goals: Contribute more to Open Source projects
 - 🕹️ I love to play and create video games
@@ -36,6 +36,7 @@
 [<img align="left" alt="Tailwind" width="30px" src="https://user-images.githubusercontent.com/49658988/147962285-81f7664a-ccf9-4c1d-89d3-aaa83cac8e1f.png" />][thisrepo]
 [<img align="left" alt="Sass" width="30px" src="https://user-images.githubusercontent.com/49658988/147962249-7bac51c8-061b-4248-94ce-29bb54d1e7e7.png" />][thisrepo]
 [<img align="left" alt="JavaScript" width="30px" src="https://user-images.githubusercontent.com/49658988/147962219-24c88371-8fe3-4ae7-b367-553f429696bc.png" />][thisrepo]
+[<img align="left" alt="Solidity" width="18px" src="https://user-images.githubusercontent.com/49658988/184941161-0dc38e45-ac8b-49c7-a634-56d66a8fa023.png" />][thisrepo]
 [<img align="left" alt="TypeScript" width="30px" src="https://user-images.githubusercontent.com/49658988/147963173-63c79011-f036-4cab-b640-8a3302977481.png" />][thisrepo]
 [<img align="left" alt="React" width="30px" src="https://user-images.githubusercontent.com/49658988/147962186-03112f17-c3dc-419d-9e03-b8f946a7f259.png" />][thisrepo]
 [<img align="left" alt="Node.js" width="30px" src="https://user-images.githubusercontent.com/49658988/147962164-6c767b2d-ae62-4367-8432-5cf12c5da2c3.png" />][thisrepo]
