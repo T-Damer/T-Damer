@@ -31,6 +31,7 @@
 
 [<img align="left" alt="Vim" width="30px" src="https://user-images.githubusercontent.com/49658988/169137953-8458d8ca-8211-4a9f-a524-7e83c9376ae6.png" />][thisrepo]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://user-images.githubusercontent.com/49658988/147962349-8f85d228-bbbb-4378-859c-19bd8d554165.png" />][thisrepo]
+[<img align="left" alt="Rust Language" width="45px" src="https://user-images.githubusercontent.com/49658988/185892420-e7fa3a3a-8791-492a-9877-777b3a6b96c6.png" />][thisrepo]
 [<img align="left" alt="HTML5" width="30px" src="https://user-images.githubusercontent.com/49658988/147962335-97f9f47e-9082-433c-8650-deac50c2dc08.png" />][thisrepo]
 [<img align="left" alt="CSS3" width="30px" src="https://user-images.githubusercontent.com/49658988/147962309-c3100993-c758-46bb-9518-c353cf4fab47.png" />][thisrepo]
 [<img align="left" alt="Tailwind" width="30px" src="https://user-images.githubusercontent.com/49658988/147962285-81f7664a-ccf9-4c1d-89d3-aaa83cac8e1f.png" />][thisrepo]
