@@ -68,15 +68,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#454](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/454#discussion_r952677035) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💬 Commented on [#454](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/454#discussion_r952677935) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-ledger-contract](https://github.com/BigWhaleLabs/seal-cred-ledger-contract)
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
-5. 🎉 Merged PR [#159](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/159) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+1. 💪 Opened PR [#11](https://github.com/BigWhaleLabs/seal-cred-twitter-poster/pull/11) in [BigWhaleLabs/seal-cred-twitter-poster](https://github.com/BigWhaleLabs/seal-cred-twitter-poster)
+2. 👍 Approved [#454](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/454#pullrequestreview-1082270413) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#454](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/454#discussion_r952677035) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#454](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/454#discussion_r952677935) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-ledger-contract](https://github.com/BigWhaleLabs/seal-cred-ledger-contract)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 23rd, 2022, 2:16:19 PM
+Last Updated: Tuesday, August 23rd, 2022, 2:32:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
