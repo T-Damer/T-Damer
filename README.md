@@ -68,15 +68,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/BigWhaleLabs/metadata-generator/pull/1#discussion_r956277056) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
-2. 💬 Commented on [#1](https://github.com/BigWhaleLabs/metadata-generator/pull/1#discussion_r956276794) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
-3. 💬 Commented on [#1](https://github.com/BigWhaleLabs/metadata-generator/pull/1#discussion_r956272163) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
-4. 💬 Commented on [#1](https://github.com/BigWhaleLabs/metadata-generator/pull/1#discussion_r956271430) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
-5. 💬 Commented on [#1](https://github.com/BigWhaleLabs/metadata-generator/pull/1#discussion_r956270038) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
+1. 💬 Commented on [#458](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/458#discussion_r956300559) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💬 Commented on [#458](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/458#discussion_r956298345) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#458](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/458#discussion_r956294319) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#458](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/458#discussion_r956294082) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#458](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/458#discussion_r956293391) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 26th, 2022, 5:55:38 PM
+Last Updated: Friday, August 26th, 2022, 6:22:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
