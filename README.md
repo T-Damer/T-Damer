@@ -44,11 +44,12 @@
 [<img align="left" alt="Node.js" width="30px" src="https://user-images.githubusercontent.com/49658988/147962164-6c767b2d-ae62-4367-8432-5cf12c5da2c3.png" />][thisrepo]
 [<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/49658988/147962117-b3aa0885-26e3-4623-b97d-56a02ccbc6b0.png" />][thisrepo]
 [<img align="left" alt="MongoDB" width="15px" src="https://user-images.githubusercontent.com/49658988/147962638-a8cf1459-370c-41a5-bc8f-3bb53fbec957.png" />][thisrepo]
+<br />
+<br />
 [<img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/49658988/147962068-0df2df18-b71d-43ab-b493-eb68dd92976b.png" />][thisrepo]
 [<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/49658988/147961396-9758386d-92e0-4ee3-8903-9c6e3856f495.png"/>][thisrepo]
 [<img align="left" alt="Terminal" width="30px" src="https://user-images.githubusercontent.com/49658988/147962041-c7cf07dd-9041-448e-8ca6-9d7421619cfa.png" />][thisrepo]
 
-<br />
 <br />
 
 ---
