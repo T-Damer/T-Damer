@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#discussion_r960793725) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 💬 Commented on [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#discussion_r960789883) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 💬 Commented on [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#discussion_r960789389) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 💬 Commented on [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#discussion_r960789066) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 👍 Approved [#466](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/466#pullrequestreview-1093627693) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 💬 Commented on [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#discussion_r960793725) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 💬 Commented on [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#discussion_r960789883) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#discussion_r960789389) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 💬 Commented on [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#discussion_r960789066) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 1st, 2022, 3:26:00 PM
+Last Updated: Thursday, September 1st, 2022, 3:46:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
