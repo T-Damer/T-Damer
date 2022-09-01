@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
-2. 🎉 Merged PR [#53](https://github.com/BigWhaleLabs/dosu-invites-frontend/pull/53) in [BigWhaleLabs/dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
-3. 👍 Approved [#53](https://github.com/BigWhaleLabs/dosu-invites-frontend/pull/53#pullrequestreview-1093717581) in [BigWhaleLabs/dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
-5. 🎉 Merged PR [#170](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/170) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+2. 👍 Approved [#168](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/168#pullrequestreview-1093760072) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+3. 💬 Commented on [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#discussion_r960880219) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. 👍 Approved [#465](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/465#pullrequestreview-1093731130) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 1st, 2022, 4:31:13 PM
+Last Updated: Thursday, September 1st, 2022, 5:02:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
