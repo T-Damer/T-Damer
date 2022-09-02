@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 👍 Approved [#13](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/13#pullrequestreview-1093892547) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
-3. 💬 Commented on [#13](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/13#discussion_r960927811) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
-4. 💬 Commented on [#13](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/13#discussion_r960927505) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
-5. 💬 Commented on [#13](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/13#discussion_r960926464) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
+1. 💬 Commented on [#166](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/166#discussion_r961305425) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. 💬 Commented on [#166](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/166#discussion_r961290855) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+5. 💬 Commented on [#166](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/166#discussion_r961290590) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 2nd, 2022, 4:21:18 AM
+Last Updated: Friday, September 2nd, 2022, 5:49:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
