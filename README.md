@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-2. 🎉 Merged PR [#17](https://github.com/BigWhaleLabs/attestor/pull/17) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-3. 👍 Approved [#17](https://github.com/BigWhaleLabs/attestor/pull/17#pullrequestreview-1096726859) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-4. ✌️ Released [changed addresss to sealcred.xyz](https://github.com/BigWhaleLabs/seal-cred-email/releases/tag/v1.1.1) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+1. 💪 Opened PR [#471](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/471) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
+3. 🎉 Merged PR [#17](https://github.com/BigWhaleLabs/attestor/pull/17) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
+4. 👍 Approved [#17](https://github.com/BigWhaleLabs/attestor/pull/17#pullrequestreview-1096726859) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
+5. ✌️ Released [changed addresss to sealcred.xyz](https://github.com/BigWhaleLabs/seal-cred-email/releases/tag/v1.1.1) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 5th, 2022, 7:14:05 PM
+Last Updated: Monday, September 5th, 2022, 7:28:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
