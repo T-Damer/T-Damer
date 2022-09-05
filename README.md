@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#16](https://github.com/BigWhaleLabs/attestor/pull/16#discussion_r961856830) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-2. 👍 Approved [#16](https://github.com/BigWhaleLabs/attestor/pull/16#pullrequestreview-1095127403) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-3. 💬 Commented on [#16](https://github.com/BigWhaleLabs/attestor/pull/16#discussion_r961856248) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-4. 💬 Commented on [#9](https://github.com/BigWhaleLabs/seal-cred-email/pull/9#discussion_r961855682) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
-5. 💬 Commented on [#9](https://github.com/BigWhaleLabs/seal-cred-email/pull/9#discussion_r961855004) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+1. ⬆️ Pushed 13 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+2. 🎉 Merged PR [#169](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/169) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+5. 💬 Commented on [#169](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/169#discussion_r962513179) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 5th, 2022, 5:48:57 AM
+Last Updated: Monday, September 5th, 2022, 6:36:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
