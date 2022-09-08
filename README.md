@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#477](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/477) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. 👍 Approved [#4](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/4#pullrequestreview-1101007148) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-4. 💬 Commented on [#4](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/4#discussion_r966146759) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+1. 💬 Commented on [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#discussion_r966233328) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
+2. 💬 Commented on [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#discussion_r966232874) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
+3. 💬 Commented on [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#discussion_r966232690) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
+4. 💬 Commented on [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#discussion_r966232189) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
+5. 💬 Commented on [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#discussion_r966225977) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 8th, 2022, 5:06:38 PM
+Last Updated: Thursday, September 8th, 2022, 5:40:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
