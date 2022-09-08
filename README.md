@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#pullrequestreview-1101162136) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
-2. 💬 Commented on [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#discussion_r966256917) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
-3. 💬 Commented on [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#discussion_r966255898) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
-4. 💬 Commented on [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#discussion_r966233328) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
-5. 💬 Commented on [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#discussion_r966232874) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
+1. 💬 Commented on [#7](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/7#discussion_r966270556) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+2. 💬 Commented on [#7](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/7#discussion_r966268143) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+3. 💬 Commented on [#7](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/7#discussion_r966266674) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+4. 👍 Approved [#4](https://github.com/BigWhaleLabs/ui-kit/pull/4#pullrequestreview-1101172983) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
+5. 👍 Approved [#5](https://github.com/BigWhaleLabs/ui-kit/pull/5#pullrequestreview-1101162136) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 8th, 2022, 5:55:39 PM
+Last Updated: Thursday, September 8th, 2022, 6:23:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
