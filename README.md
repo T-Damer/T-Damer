@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Added card](https://github.com/BigWhaleLabs/ui-kit/releases/tag/v1.0.15) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
-3. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
-4. 🎉 Merged PR [#6](https://github.com/BigWhaleLabs/ui-kit/pull/6) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
-5. 👍 Approved [#6](https://github.com/BigWhaleLabs/ui-kit/pull/6#pullrequestreview-1101231533) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+3. 💬 Commented on [#7](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/7#discussion_r966360636) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+4. ✌️ Released [Added card](https://github.com/BigWhaleLabs/ui-kit/releases/tag/v1.0.15) in [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ui-kit](https://github.com/BigWhaleLabs/ui-kit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 8th, 2022, 7:45:51 PM
+Last Updated: Thursday, September 8th, 2022, 7:56:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
