@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-3. 🎉 Merged PR [#15](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/15) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-4. 👍 Approved [#15](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/15#pullrequestreview-1102626716) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-5. 🎉 Merged PR [#14](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/14) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+1. 💬 Commented on [#16](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/16#discussion_r967356068) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+2. 💬 Commented on [#16](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/16#discussion_r967355959) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+3. 💬 Commented on [#16](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/16#discussion_r967355717) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+4. 💬 Commented on [#16](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/16#discussion_r967355216) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+5. 💬 Commented on [#16](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/16#discussion_r967354826) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 9th, 2022, 5:52:38 PM
+Last Updated: Friday, September 9th, 2022, 6:24:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
