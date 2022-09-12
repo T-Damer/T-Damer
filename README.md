@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 👍 Approved [#20](https://github.com/BigWhaleLabs/attestor/pull/20#pullrequestreview-1104483843) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
-3. 💬 Commented on [#476](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/476#discussion_r968650653) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-4. 👍 Approved [#478](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/478#pullrequestreview-1104475219) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-5. 👍 Approved [#20](https://github.com/BigWhaleLabs/attestor/pull/20#pullrequestreview-1104473784) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)
+1. 💬 Commented on [#17](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/17#discussion_r968767314) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+2. 💬 Commented on [#17](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/17#discussion_r968766946) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+3. 💬 Commented on [#17](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/17#discussion_r968765692) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+4. 💬 Commented on [#17](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/17#discussion_r968763071) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+5. 💬 Commented on [#17](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/17#discussion_r968761860) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 12th, 2022, 5:50:15 PM
+Last Updated: Monday, September 12th, 2022, 6:24:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
