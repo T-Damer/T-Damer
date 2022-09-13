@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#19](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/19#pullrequestreview-1106137826) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-2. 💬 Commented on [#19](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/19#discussion_r969862735) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-3. 💬 Commented on [#19](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/19#discussion_r969862496) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-4. 💬 Commented on [#19](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/19#discussion_r969860144) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-5. 💬 Commented on [#19](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/19#discussion_r969859353) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+1. 👍 Approved [#18](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/18#pullrequestreview-1106227140) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+2. 💬 Commented on [#18](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/18#discussion_r969926680) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+3. 💬 Commented on [#18](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/18#discussion_r969926334) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+4. 💬 Commented on [#18](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/18#discussion_r969924957) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+5. 💬 Commented on [#18](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/18#discussion_r969922176) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 13th, 2022, 5:45:06 PM
+Last Updated: Tuesday, September 13th, 2022, 5:57:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
