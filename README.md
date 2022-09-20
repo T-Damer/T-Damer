@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
-2. 🎉 Merged PR [#184](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/184) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
-3. 💪 Opened PR [#184](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/184) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
-4. 💬 Commented on [#182](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/182#discussion_r975381155) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
-5. 💬 Commented on [#182](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/182#discussion_r975377694) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+1. 👍 Approved [#182](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/182#pullrequestreview-1113959709) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+2. 💪 Opened PR [#486](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/486) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+4. 🎉 Merged PR [#184](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/184) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+5. 💪 Opened PR [#184](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/184) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 20th, 2022, 2:17:08 PM
+Last Updated: Tuesday, September 20th, 2022, 2:46:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
