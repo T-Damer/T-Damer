@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#94](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/94#discussion_r984241847) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-3. ⬆️ Pushed 16 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-4. ⬆️ Pushed 14 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-5. 🎉 Merged PR [#82](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/82) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+1. 💬 Commented on [#89](https://github.com/BigWhaleLabs/bigwhalelabs/pull/89#discussion_r984705610) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+2. 💪 Opened PR [#89](https://github.com/BigWhaleLabs/bigwhalelabs/pull/89) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+3. 💬 Commented on [#94](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/94#discussion_r984241847) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+5. ⬆️ Pushed 16 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 30th, 2022, 2:55:49 PM
+Last Updated: Friday, September 30th, 2022, 3:25:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
