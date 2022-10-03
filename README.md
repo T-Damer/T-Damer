@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#98](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/98#pullrequestreview-1127484571) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-3. 💬 Commented on [#94](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/94#discussion_r984885248) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-4. 💬 Commented on [#94](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/94#discussion_r984884779) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+2. 🎉 Merged PR [#490](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/490) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 👍 Approved [#490](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/490#pullrequestreview-1128244422) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+5. 🎉 Merged PR [#191](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/191) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 3rd, 2022, 11:51:28 AM
+Last Updated: Monday, October 3rd, 2022, 12:42:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
