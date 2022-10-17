@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#22](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/22#pullrequestreview-1143981384) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-4. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-5. 🎉 Merged PR [#136](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/136) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+1. 👍 Approved [#23](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/23#pullrequestreview-1144080894) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
+2. 💬 Commented on [#23](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/23#discussion_r997008758) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
+3. 💬 Commented on [#138](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/138#discussion_r996998407) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+4. 💬 Commented on [#138](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/138#discussion_r996996932) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+5. 👍 Approved [#22](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/22#pullrequestreview-1143981384) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 17th, 2022, 11:56:17 AM
+Last Updated: Monday, October 17th, 2022, 12:54:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
