@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#196](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/196#pullrequestreview-1162080897) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
-2. 💪 Opened PR [#10](https://github.com/BigWhaleLabs/constants/pull/10) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
-3. ✌️ Released [New contracts](https://github.com/BigWhaleLabs/constants/releases/tag/v0.1.37) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
-4. 👍 Approved [#180](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/180#pullrequestreview-1162074764) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
+2. 🎉 Merged PR [#26](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/26) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
+3. 👍 Approved [#26](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/26#pullrequestreview-1162087380) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
+4. 🎉 Merged PR [#196](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/196) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 31st, 2022, 3:28:01 PM
+Last Updated: Monday, October 31st, 2022, 3:48:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
