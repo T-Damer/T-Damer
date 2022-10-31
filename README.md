@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#180](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/180#pullrequestreview-1162001805) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-2. 💬 Commented on [#180](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/180#discussion_r1009496141) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-3. 💬 Commented on [#180](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/180#discussion_r1009495309) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-4. 💬 Commented on [#180](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/180#discussion_r1009492310) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-5. 💬 Commented on [#180](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/180#discussion_r1009490326) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+1. 👍 Approved [#196](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/196#pullrequestreview-1162080897) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
+2. 💪 Opened PR [#10](https://github.com/BigWhaleLabs/constants/pull/10) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
+3. ✌️ Released [New contracts](https://github.com/BigWhaleLabs/constants/releases/tag/v0.1.37) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
+4. 👍 Approved [#180](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/180#pullrequestreview-1162074764) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 31st, 2022, 2:57:57 PM
+Last Updated: Monday, October 31st, 2022, 3:28:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
