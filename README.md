@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-2. 🎉 Merged PR [#498](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/498) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-paymaster-contract](https://github.com/BigWhaleLabs/seal-cred-paymaster-contract)
+1. 💪 Opened PR [#12](https://github.com/BigWhaleLabs/frontend-utils/pull/12) in [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+3. 🎉 Merged PR [#498](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/498) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-paymaster-contract](https://github.com/BigWhaleLabs/seal-cred-paymaster-contract)
-5. 💪 Opened PR [#498](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/498) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-paymaster-contract](https://github.com/BigWhaleLabs/seal-cred-paymaster-contract)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 2nd, 2022, 7:30:35 PM
+Last Updated: Wednesday, November 2nd, 2022, 7:45:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
