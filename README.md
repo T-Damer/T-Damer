@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 17 commit(s) to [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
-2. 🎉 Merged PR [#12](https://github.com/BigWhaleLabs/frontend-utils/pull/12) in [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
+1. 💪 Opened PR [#13](https://github.com/BigWhaleLabs/frontend-utils/pull/13) in [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
+2. ✌️ Released [Better error parsers, extracted all that we might need](https://github.com/BigWhaleLabs/frontend-utils/releases/tag/v0.1.0) in [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
+3. ⬆️ Pushed 17 commit(s) to [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
+4. 🎉 Merged PR [#12](https://github.com/BigWhaleLabs/frontend-utils/pull/12) in [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
 5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 6th, 2022, 7:14:39 PM
+Last Updated: Sunday, November 6th, 2022, 7:26:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
