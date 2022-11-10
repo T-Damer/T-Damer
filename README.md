@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 15 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-2. 👍 Approved [#192](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/192#pullrequestreview-1172015522) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)
-4. ✌️ Released [Clean code is now wild 🐺](https://github.com/BigWhaleLabs/prettier-config/releases/tag/v1.1.1) in [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)
+1. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+2. 🎉 Merged PR [#101](https://github.com/T-Damer/discord-bot-template/pull/101) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+3. 👍 Approved [#101](https://github.com/T-Damer/discord-bot-template/pull/101#pullrequestreview-1175156407) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+4. ❌ Closed PR [#102](https://github.com/T-Damer/discord-bot-template/pull/102) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+5. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 10th, 2022, 6:47:58 AM
+Last Updated: Thursday, November 10th, 2022, 6:58:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
