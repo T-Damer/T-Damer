@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-2. 🎉 Merged PR [#101](https://github.com/T-Damer/discord-bot-template/pull/101) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-3. 👍 Approved [#101](https://github.com/T-Damer/discord-bot-template/pull/101#pullrequestreview-1175156407) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-4. ❌ Closed PR [#102](https://github.com/T-Damer/discord-bot-template/pull/102) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-5. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+1. 👍 Approved [#94](https://github.com/BigWhaleLabs/bigwhalelabs/pull/94#pullrequestreview-1175389049) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+2. 💬 Commented on [#94](https://github.com/BigWhaleLabs/bigwhalelabs/pull/94#discussion_r1018864683) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+3. 💬 Commented on [#94](https://github.com/BigWhaleLabs/bigwhalelabs/pull/94#discussion_r1018863357) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+4. 💬 Commented on [#94](https://github.com/BigWhaleLabs/bigwhalelabs/pull/94#discussion_r1018862445) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
+5. 💬 Commented on [#94](https://github.com/BigWhaleLabs/bigwhalelabs/pull/94#discussion_r1018861779) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 10th, 2022, 9:41:34 AM
+Last Updated: Thursday, November 10th, 2022, 9:55:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
