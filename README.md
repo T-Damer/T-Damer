@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-2. ❌ Closed PR [#29](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/29) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-3. 🎉 Merged PR [#39](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/39) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+1. 💪 Opened PR [#41](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/41) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+3. ❌ Closed PR [#29](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/29) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+4. 🎉 Merged PR [#39](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/39) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 14th, 2022, 7:27:54 PM
+Last Updated: Monday, November 14th, 2022, 7:39:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
