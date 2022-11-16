@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/seal-hub-verifier-template](https://github.com/BigWhaleLabs/seal-hub-verifier-template)
-2. 🎉 Merged PR [#2](https://github.com/BigWhaleLabs/seal-hub-verifier-template/pull/2) in [BigWhaleLabs/seal-hub-verifier-template](https://github.com/BigWhaleLabs/seal-hub-verifier-template)
-3. 🎉 Merged PR [#47](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/47) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-5. 💪 Opened PR [#47](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/47) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+1. 👍 Approved [#5](https://github.com/BigWhaleLabs/seal-hub-contract/pull/5#pullrequestreview-1182721690) in [BigWhaleLabs/seal-hub-contract](https://github.com/BigWhaleLabs/seal-hub-contract)
+2. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/seal-hub-verifier-template](https://github.com/BigWhaleLabs/seal-hub-verifier-template)
+3. 🎉 Merged PR [#2](https://github.com/BigWhaleLabs/seal-hub-verifier-template/pull/2) in [BigWhaleLabs/seal-hub-verifier-template](https://github.com/BigWhaleLabs/seal-hub-verifier-template)
+4. 🎉 Merged PR [#47](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/47) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 16th, 2022, 2:45:37 PM
+Last Updated: Wednesday, November 16th, 2022, 2:56:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
