@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-2. ⬆️ Pushed 2 commit(s) to [T-Damer/chao-chat](https://github.com/T-Damer/chao-chat)
-3. 🎉 Merged PR [#1](https://github.com/T-Damer/chao-chat/pull/1) in [T-Damer/chao-chat](https://github.com/T-Damer/chao-chat)
-4. ⬆️ Pushed 33 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-5. 🎉 Merged PR [#48](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/48) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+1. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+2. 🎉 Merged PR [#51](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/51) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+3. 👍 Approved [#51](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/51#pullrequestreview-1187027122) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+5. 🎉 Merged PR [#8](https://github.com/BigWhaleLabs/seal-hub-prover/pull/8) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 19th, 2022, 5:56:04 AM
+Last Updated: Saturday, November 19th, 2022, 6:23:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
