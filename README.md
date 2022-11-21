@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#9](https://github.com/BigWhaleLabs/seal-hub-prover/pull/9#pullrequestreview-1188168424) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-2. 💬 Commented on [#9](https://github.com/BigWhaleLabs/seal-hub-prover/pull/9#discussion_r1027990170) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-3. 💬 Commented on [#9](https://github.com/BigWhaleLabs/seal-hub-prover/pull/9#discussion_r1027984936) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-4. 💬 Commented on [#9](https://github.com/BigWhaleLabs/seal-hub-prover/pull/9#discussion_r1027978970) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-5. 👍 Approved [#52](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/52#pullrequestreview-1188151935) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+2. 🎉 Merged PR [#197](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/197) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+3. 👍 Approved [#197](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/197#pullrequestreview-1188352594) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+4. 🎉 Merged PR [#53](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/53) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 21st, 2022, 2:22:13 PM
+Last Updated: Monday, November 21st, 2022, 2:38:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
