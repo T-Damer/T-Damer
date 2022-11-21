@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-2. 🎉 Merged PR [#54](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/54) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-3. 👍 Approved [#54](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/54#pullrequestreview-1188446312) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
-5. 🎉 Merged PR [#197](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/197) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+2. 🎉 Merged PR [#52](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/52) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+3. 🎉 Merged PR [#9](https://github.com/BigWhaleLabs/seal-hub-prover/pull/9) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+4. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 21st, 2022, 5:56:24 PM
+Last Updated: Monday, November 21st, 2022, 6:25:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
