@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#59](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/59#discussion_r1029652705) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-2. 💬 Commented on [#59](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/59#discussion_r1029650847) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-3. 💬 Commented on [#59](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/59#discussion_r1029628482) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-4. 💪 Opened PR [#13](https://github.com/BigWhaleLabs/seal-hub-prover/pull/13) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+2. 🎉 Merged PR [#60](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/60) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+3. 👍 Approved [#60](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/60#pullrequestreview-1190534182) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+4. 👍 Approved [#59](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/59#pullrequestreview-1190534015) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+5. 💬 Commented on [#59](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/59#discussion_r1029654350) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 22nd, 2022, 5:45:30 PM
+Last Updated: Tuesday, November 22nd, 2022, 5:56:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
