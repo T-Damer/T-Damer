@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-2. 💪 Opened PR [#12](https://github.com/BigWhaleLabs/seal-hub-prover/pull/12) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-3. 💪 Opened PR [#11](https://github.com/BigWhaleLabs/seal-hub-prover/pull/11) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-4. 💪 Opened PR [#58](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/58) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-5. 💪 Opened PR [#6](https://github.com/BigWhaleLabs/stores/pull/6) in [BigWhaleLabs/stores](https://github.com/BigWhaleLabs/stores)
+1. 💪 Opened PR [#13](https://github.com/BigWhaleLabs/seal-hub-prover/pull/13) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+3. 💪 Opened PR [#12](https://github.com/BigWhaleLabs/seal-hub-prover/pull/12) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+4. 💪 Opened PR [#11](https://github.com/BigWhaleLabs/seal-hub-prover/pull/11) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+5. 💪 Opened PR [#58](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/58) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 22nd, 2022, 4:25:38 PM
+Last Updated: Tuesday, November 22nd, 2022, 4:54:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
