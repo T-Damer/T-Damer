@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-3. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+1. ⬆️ Pushed 13 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
 4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-5. ⬆️ Pushed 6 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 23rd, 2022, 2:55:21 AM
+Last Updated: Wednesday, November 23rd, 2022, 3:32:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
