@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#22](https://github.com/BigWhaleLabs/seal-hub-prover/pull/22#discussion_r1031763515) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-2. 💬 Commented on [#65](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/65#discussion_r1031760846) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-3. 💬 Commented on [#65](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/65#discussion_r1031760694) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+1. 🎉 Merged PR [#65](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/65) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+2. 👍 Approved [#65](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/65#pullrequestreview-1193543070) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+3. 👍 Approved [#66](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/66#pullrequestreview-1193542871) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+4. 💬 Commented on [#66](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/66#discussion_r1031779557) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+5. 👍 Approved [#67](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/67#pullrequestreview-1193541552) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 24th, 2022, 6:55:36 PM
+Last Updated: Thursday, November 24th, 2022, 7:13:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
