@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#24](https://github.com/BigWhaleLabs/seal-hub-prover/pull/24#pullrequestreview-1194073246) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-2. 💬 Commented on [#24](https://github.com/BigWhaleLabs/seal-hub-prover/pull/24#discussion_r1032179104) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-3. 💬 Commented on [#24](https://github.com/BigWhaleLabs/seal-hub-prover/pull/24#discussion_r1032178138) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-4. 💬 Commented on [#24](https://github.com/BigWhaleLabs/seal-hub-prover/pull/24#discussion_r1032176790) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
-5. 💪 Opened PR [#70](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/70) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+1. 💪 Opened PR [#71](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/71) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+2. 👍 Approved [#24](https://github.com/BigWhaleLabs/seal-hub-prover/pull/24#pullrequestreview-1194073246) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+3. 💬 Commented on [#24](https://github.com/BigWhaleLabs/seal-hub-prover/pull/24#discussion_r1032179104) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+4. 💬 Commented on [#24](https://github.com/BigWhaleLabs/seal-hub-prover/pull/24#discussion_r1032178138) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+5. 💬 Commented on [#24](https://github.com/BigWhaleLabs/seal-hub-prover/pull/24#discussion_r1032176790) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 25th, 2022, 1:47:17 PM
+Last Updated: Friday, November 25th, 2022, 1:57:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
