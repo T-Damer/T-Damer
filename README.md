@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](https://github.com/BigWhaleLabs/bwl-eslint-config/pull/2) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)
-2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-3. 🎉 Merged PR [#79](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/79) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
-5. 🎉 Merged PR [#80](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/80) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+1. ⭐ Starred [devhubapp/devhub](https://github.com/devhubapp/devhub)
+2. ❌ Closed PR [#2](https://github.com/BigWhaleLabs/bwl-eslint-config/pull/2) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)
+3. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+4. 🎉 Merged PR [#79](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/79) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 3rd, 2022, 7:59:44 AM
+Last Updated: Saturday, December 3rd, 2022, 8:25:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
