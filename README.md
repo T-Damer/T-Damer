@@ -70,15 +70,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
-2. ⭐ Starred [alacritty/alacritty](https://github.com/alacritty/alacritty)
-3. ⭐ Starred [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
-4. ⭐ Starred [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
-5. ⭐ Starred [crispyricepc/sway-nvidia](https://github.com/crispyricepc/sway-nvidia)
+1. ⭐ Starred [ArtemOnigiri/Light-Simulation-WebGL](https://github.com/ArtemOnigiri/Light-Simulation-WebGL)
+2. ⭐ Starred [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
+3. ⭐ Starred [alacritty/alacritty](https://github.com/alacritty/alacritty)
+4. ⭐ Starred [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
+5. ⭐ Starred [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 13th, 2022, 5:55:33 AM
+Last Updated: Tuesday, December 13th, 2022, 6:20:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
