@@ -9,13 +9,12 @@
 
 ---
 
-## I'm a Designer and Developer ✏️
+## I'm Developer 💻
 
-- ⌨️ Right now working as a MERN+Blockchain Developer at [BigWhaleLabs](https://github.com/BigWhaleLabs)
-- 🦀 Currently learning Rust
-- 👀 Looking for open source projects to contribute
+- ⌨️ Right now working as a MER(N)N+Blockchain Developer at [BigWhaleLabs](https://github.com/BigWhaleLabs)
+- 🦀 Currently learning Rust and React-Native-Web
 - 🏹 2022 Goals: Contribute more to Open Source projects
-- 🕹️ I love to play and create video games
+- ✏️ I love to make photos and designs sometimes
 
 ## Contact me:
 
