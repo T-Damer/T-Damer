@@ -70,14 +70,14 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-2. 🎉 Merged PR [#115](https://github.com/T-Damer/discord-bot-template/pull/115) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-3. ⭐ Starred [Eukaryot/sonic3air](https://github.com/Eukaryot/sonic3air)
-4. 👍 Approved [#9](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/9#pullrequestreview-1229372899) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)
-5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)
+2. 🎉 Merged PR [#108](https://github.com/T-Damer/discord-bot-template/pull/108) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+3. 👍 Approved [#108](https://github.com/T-Damer/discord-bot-template/pull/108#pullrequestreview-1229984334) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+4. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+5. 🎉 Merged PR [#114](https://github.com/T-Damer/discord-bot-template/pull/114) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 26th, 2022, 9:29:51 AM
+Last Updated: Monday, December 26th, 2022, 9:40:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
