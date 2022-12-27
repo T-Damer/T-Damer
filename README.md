@@ -69,15 +69,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-2. 🎉 Merged PR [#111](https://github.com/T-Damer/discord-bot-template/pull/111) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-3. 👍 Approved [#111](https://github.com/T-Damer/discord-bot-template/pull/111#pullrequestreview-1230006128) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+1. 👍 Approved [#116](https://github.com/T-Damer/discord-bot-template/pull/116#pullrequestreview-1230413946) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+2. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+3. 🎉 Merged PR [#117](https://github.com/T-Damer/discord-bot-template/pull/117) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+4. 👍 Approved [#117](https://github.com/T-Damer/discord-bot-template/pull/117#pullrequestreview-1230413784) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+5. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 27th, 2022, 7:18:06 AM
+Last Updated: Tuesday, December 27th, 2022, 7:28:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
