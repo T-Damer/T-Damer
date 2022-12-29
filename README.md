@@ -69,15 +69,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#116](https://github.com/T-Damer/discord-bot-template/pull/116#pullrequestreview-1230413946) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-2. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-3. 🎉 Merged PR [#117](https://github.com/T-Damer/discord-bot-template/pull/117) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-4. 👍 Approved [#117](https://github.com/T-Damer/discord-bot-template/pull/117#pullrequestreview-1230413784) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
-5. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+1. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+2. 👍 Approved [#116](https://github.com/T-Damer/discord-bot-template/pull/116#pullrequestreview-1230413946) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+3. ⬆️ Pushed 2 commit(s) to [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+4. 🎉 Merged PR [#117](https://github.com/T-Damer/discord-bot-template/pull/117) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
+5. 👍 Approved [#117](https://github.com/T-Damer/discord-bot-template/pull/117#pullrequestreview-1230413784) in [T-Damer/discord-bot-template](https://github.com/T-Damer/discord-bot-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 29th, 2022, 2:27:10 PM
+Last Updated: Thursday, December 29th, 2022, 2:37:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
