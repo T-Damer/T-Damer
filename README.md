@@ -69,15 +69,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Vanilla-OS/os](https://github.com/Vanilla-OS/os)<br>
-2. ⭐ Starred [thenixan/timesheets-backend](https://github.com/thenixan/timesheets-backend)<br>
-3. ⭐ Starred [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula)<br>
-4. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
-5. ⭐ Starred [dubniczky/VPN-Detect](https://github.com/dubniczky/VPN-Detect)<br>
+1. ⭐ Starred [dimitrov-adrian/RcloneTray](https://github.com/dimitrov-adrian/RcloneTray)<br>
+2. ⭐ Starred [Vanilla-OS/os](https://github.com/Vanilla-OS/os)<br>
+3. ⭐ Starred [thenixan/timesheets-backend](https://github.com/thenixan/timesheets-backend)<br>
+4. ⭐ Starred [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula)<br>
+5. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 6th, 2023, 8:39:10 AM
+Last Updated: Friday, January 6th, 2023, 8:49:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
