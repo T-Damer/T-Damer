@@ -69,15 +69,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dimitrov-adrian/RcloneTray](https://github.com/dimitrov-adrian/RcloneTray)<br>
-2. ⭐ Starred [Vanilla-OS/os](https://github.com/Vanilla-OS/os)<br>
-3. ⭐ Starred [thenixan/timesheets-backend](https://github.com/thenixan/timesheets-backend)<br>
-4. ⭐ Starred [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula)<br>
-5. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
+1. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)<br>
+2. ⭐ Starred [dimitrov-adrian/RcloneTray](https://github.com/dimitrov-adrian/RcloneTray)<br>
+3. ⭐ Starred [Vanilla-OS/os](https://github.com/Vanilla-OS/os)<br>
+4. ⭐ Starred [thenixan/timesheets-backend](https://github.com/thenixan/timesheets-backend)<br>
+5. ⭐ Starred [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 8th, 2023, 6:48:27 AM
+Last Updated: Sunday, January 8th, 2023, 6:59:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
