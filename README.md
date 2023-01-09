@@ -69,15 +69,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [backmeupplz/farcaster-chatgpt](https://github.com/backmeupplz/farcaster-chatgpt)<br>
-2. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)<br>
-3. ⭐ Starred [dimitrov-adrian/RcloneTray](https://github.com/dimitrov-adrian/RcloneTray)<br>
-4. ⭐ Starred [Vanilla-OS/os](https://github.com/Vanilla-OS/os)<br>
-5. ⭐ Starred [thenixan/timesheets-backend](https://github.com/thenixan/timesheets-backend)<br>
+1. ⭐ Starred [popey/sosumi-snap](https://github.com/popey/sosumi-snap)<br>
+2. ⭐ Starred [backmeupplz/farcaster-chatgpt](https://github.com/backmeupplz/farcaster-chatgpt)<br>
+3. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)<br>
+4. ⭐ Starred [dimitrov-adrian/RcloneTray](https://github.com/dimitrov-adrian/RcloneTray)<br>
+5. ⭐ Starred [Vanilla-OS/os](https://github.com/Vanilla-OS/os)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 9th, 2023, 10:28:30 AM
+Last Updated: Monday, January 9th, 2023, 10:41:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
