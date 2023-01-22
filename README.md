@@ -5,6 +5,8 @@
 
 <!-- <a href="https://stackoverflow.com/users/14385332/t-damer"><img src="https://stackoverflow.com/users/flair/14385332.png?theme=dark" width="208" height="58" alt="profile for T_DaMER at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for T_DaMER at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
+<!-- https://www.hackthebox.com/badge/image/1376915 --!>
+
 <a href="https://www.codewars.com/users/T_DaMER/"><img src="https://www.codewars.com/users/T_DaMER/badges/large" alt="Daniil Pankov on Codewars" title="Daniil Pankov on Codewars"></a>
 
 ---
