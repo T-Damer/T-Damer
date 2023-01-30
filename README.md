@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-2. 🎉 Merged PR [#29](https://github.com/BigWhaleLabs/attestor/pull/29) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-3. 👍 Approved [#29](https://github.com/BigWhaleLabs/attestor/pull/29#pullrequestreview-1275270992) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-5. 👍 Approved [#14](https://github.com/BigWhaleLabs/constants/pull/14#pullrequestreview-1266027648) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. 👍 Approved [#81](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/81#pullrequestreview-1275353959) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)<br>
+2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+3. 🎉 Merged PR [#29](https://github.com/BigWhaleLabs/attestor/pull/29) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+4. 👍 Approved [#29](https://github.com/BigWhaleLabs/attestor/pull/29#pullrequestreview-1275270992) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 30th, 2023, 2:59:46 PM
+Last Updated: Monday, January 30th, 2023, 3:22:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
