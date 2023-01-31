@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
-2. 🎉 Merged PR [#26](https://github.com/BigWhaleLabs/seal-hub-prover/pull/26) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
-3. 👍 Approved [#26](https://github.com/BigWhaleLabs/seal-hub-prover/pull/26#pullrequestreview-1276484581) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
-4. 💬 Commented on [#26](https://github.com/BigWhaleLabs/seal-hub-prover/pull/26#discussion_r1090895099) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
-5. 💬 Commented on [#26](https://github.com/BigWhaleLabs/seal-hub-prover/pull/26#discussion_r1090894197) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
+1. 👍 Approved [#4](https://github.com/BigWhaleLabs/seal-hub-kit/pull/4#pullrequestreview-1277239777) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
+3. 🎉 Merged PR [#26](https://github.com/BigWhaleLabs/seal-hub-prover/pull/26) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
+4. 👍 Approved [#26](https://github.com/BigWhaleLabs/seal-hub-prover/pull/26#pullrequestreview-1276484581) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
+5. 💬 Commented on [#26](https://github.com/BigWhaleLabs/seal-hub-prover/pull/26#discussion_r1090895099) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 1:56:05 PM
+Last Updated: Tuesday, January 31st, 2023, 2:14:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
