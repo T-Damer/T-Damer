@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#20](https://github.com/BigWhaleLabs/constants/pull/20#pullrequestreview-1279782757) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-2. 💪 Opened PR [#19](https://github.com/BigWhaleLabs/constants/pull/19) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-3. 👍 Approved [#4](https://github.com/BigWhaleLabs/seal-hub-kit/pull/4#pullrequestreview-1277239777) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
-4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
-5. 🎉 Merged PR [#26](https://github.com/BigWhaleLabs/seal-hub-prover/pull/26) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+2. 👍 Approved [#20](https://github.com/BigWhaleLabs/constants/pull/20#pullrequestreview-1279782757) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+3. 💪 Opened PR [#19](https://github.com/BigWhaleLabs/constants/pull/19) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. 👍 Approved [#4](https://github.com/BigWhaleLabs/seal-hub-kit/pull/4#pullrequestreview-1277239777) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 1st, 2023, 8:30:30 PM
+Last Updated: Wednesday, February 1st, 2023, 8:45:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
