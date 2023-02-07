@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)<br>
-2. ⭐ Starred [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor)<br>
-3. ⬆️ Pushed 6 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)<br>
-4. 🎉 Merged PR [#198](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/198) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)<br>
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+2. 👍 Approved [#10](https://github.com/BigWhaleLabs/obss-storage-contract/pull/10#pullrequestreview-1287755366) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+3. ✌️ Released [Reaction removal check](https://github.com/BigWhaleLabs/constants/releases/tag/v0.1.59) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. ⭐ Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 7th, 2023, 7:00:08 PM
+Last Updated: Tuesday, February 7th, 2023, 7:17:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
