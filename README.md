@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-3. 👍 Approved [#10](https://github.com/BigWhaleLabs/obss-storage-contract/pull/10#pullrequestreview-1287755366) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-4. ✌️ Released [Reaction removal check](https://github.com/BigWhaleLabs/constants/releases/tag/v0.1.59) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. ❌ Closed PR [#8](https://github.com/BigWhaleLabs/obss-storage-contract/pull/8) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+2. ❌ Closed PR [#8](https://github.com/BigWhaleLabs/obss-storage-contract/pull/8) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+3. 💪 Opened PR [#11](https://github.com/BigWhaleLabs/obss-storage-contract/pull/11) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+5. ✌️ Released [](https://github.com/BigWhaleLabs/obss-storage-contract/releases/tag/v0.0.8) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 8th, 2023, 5:55:40 PM
+Last Updated: Wednesday, February 8th, 2023, 6:20:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
