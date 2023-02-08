@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#12](https://github.com/BigWhaleLabs/obss-storage-contract/pull/12#pullrequestreview-1289850447) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-3. ❌ Closed PR [#8](https://github.com/BigWhaleLabs/obss-storage-contract/pull/8) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-4. ❌ Closed PR [#8](https://github.com/BigWhaleLabs/obss-storage-contract/pull/8) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-5. 💪 Opened PR [#11](https://github.com/BigWhaleLabs/obss-storage-contract/pull/11) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+2. ✌️ Released [](https://github.com/BigWhaleLabs/obss-storage-contract/releases/tag/v0.1.0) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. ✌️ Released [](https://github.com/BigWhaleLabs/constants/releases/tag/v0.1.60) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 8th, 2023, 8:21:07 PM
+Last Updated: Wednesday, February 8th, 2023, 8:36:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
