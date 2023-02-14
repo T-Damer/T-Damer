@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. ✌️ Released [](https://github.com/BigWhaleLabs/constants/releases/tag/v0.1.63) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-3. ⬆️ Pushed 8 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-4. 🎉 Merged PR [#13](https://github.com/BigWhaleLabs/obss-storage-contract/pull/13) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 14th, 2023, 7:56:59 PM
+Last Updated: Tuesday, February 14th, 2023, 8:19:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
