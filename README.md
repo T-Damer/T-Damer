@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#10](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/10#pullrequestreview-1300037060) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+1. 🎉 Merged PR [#11](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/11) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
 2. ⬆️ Pushed 6 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-3. 🎉 Merged PR [#9](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/9) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-4. 👍 Approved [#9](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/9#pullrequestreview-1299774223) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-allow-map-contract](https://github.com/BigWhaleLabs/ketl-allow-map-contract)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+5. 💪 Opened PR [#11](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/11) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 15th, 2023, 6:55:40 PM
+Last Updated: Wednesday, February 15th, 2023, 7:13:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
