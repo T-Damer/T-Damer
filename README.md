@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#15](https://github.com/BigWhaleLabs/obss-storage-contract/pull/15) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-2. 🎉 Merged PR [#11](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/11) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-3. ⬆️ Pushed 6 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+1. 👍 Approved [#14](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/14#pullrequestreview-1301478764) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. 💬 Commented on [#14](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/14#discussion_r1108500292) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+3. 💬 Commented on [#14](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/14#discussion_r1108499625) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+4. 💪 Opened PR [#15](https://github.com/BigWhaleLabs/obss-storage-contract/pull/15) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+5. 🎉 Merged PR [#11](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/11) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 16th, 2023, 1:40:11 PM
+Last Updated: Thursday, February 16th, 2023, 1:50:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
