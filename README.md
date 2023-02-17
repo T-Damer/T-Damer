@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-2. 🎉 Merged PR [#19](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/19) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-3. 👍 Approved [#19](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/19#pullrequestreview-1303367574) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-4. 💪 Opened PR [#17](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/17) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. 👍 Approved [#25](https://github.com/BigWhaleLabs/constants/pull/25#pullrequestreview-1302251745) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. 👍 Approved [#20](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/20#pullrequestreview-1303672690) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+3. 🎉 Merged PR [#19](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/19) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+4. 👍 Approved [#19](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/19#pullrequestreview-1303367574) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+5. 💪 Opened PR [#17](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/17) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 17th, 2023, 3:37:47 PM
+Last Updated: Friday, February 17th, 2023, 3:48:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
