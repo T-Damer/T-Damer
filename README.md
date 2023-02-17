@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/Borodutch/build-and-lint-code/pull/1) in [Borodutch/build-and-lint-code](https://github.com/Borodutch/build-and-lint-code)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/build-and-lint-code](https://github.com/T-Damer/build-and-lint-code)<br>
-3. 🔱 Forked [T-Damer/build-and-lint-code](https://github.com/T-Damer/build-and-lint-code) from [Borodutch/build-and-lint-code](https://github.com/Borodutch/build-and-lint-code)<br>
-4. ⭐ Starred [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom)<br>
-5. ⭐ Starred [MattByName/color-tint](https://github.com/MattByName/color-tint)<br>
+1. ✌️ Released [v1.0.4](https://github.com/Borodutch/build-and-lint-code/releases/tag/v1.0.4) in [Borodutch/build-and-lint-code](https://github.com/Borodutch/build-and-lint-code)<br>
+2. 💪 Opened PR [#1](https://github.com/Borodutch/build-and-lint-code/pull/1) in [Borodutch/build-and-lint-code](https://github.com/Borodutch/build-and-lint-code)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/build-and-lint-code](https://github.com/T-Damer/build-and-lint-code)<br>
+4. 🔱 Forked [T-Damer/build-and-lint-code](https://github.com/T-Damer/build-and-lint-code) from [Borodutch/build-and-lint-code](https://github.com/Borodutch/build-and-lint-code)<br>
+5. ⭐ Starred [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 17th, 2023, 9:37:49 PM
+Last Updated: Friday, February 17th, 2023, 9:48:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
