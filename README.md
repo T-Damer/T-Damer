@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-2. 🎉 Merged PR [#24](https://github.com/BigWhaleLabs/constants/pull/24) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-3. 👍 Approved [#24](https://github.com/BigWhaleLabs/constants/pull/24#pullrequestreview-1304663253) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-4. ✌️ Released [Add notifications backend](https://github.com/BigWhaleLabs/constants/releases/tag/v0.1.67) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. 👍 Approved [#22](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/22#pullrequestreview-1304667584) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. ⬆️ Pushed 7 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+3. 🎉 Merged PR [#24](https://github.com/BigWhaleLabs/constants/pull/24) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. 👍 Approved [#24](https://github.com/BigWhaleLabs/constants/pull/24#pullrequestreview-1304663253) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. ✌️ Released [Add notifications backend](https://github.com/BigWhaleLabs/constants/releases/tag/v0.1.67) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 18th, 2023, 8:57:10 PM
+Last Updated: Saturday, February 18th, 2023, 9:15:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
