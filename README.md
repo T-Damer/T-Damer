@@ -72,15 +72,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [onivim/oni2](https://github.com/onivim/oni2)<br>
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-3. 🎉 Merged PR [#25](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/25) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-4. 👍 Approved [#25](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/25#pullrequestreview-1304620127) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. ⭐ Starred [pola-rs/polars](https://github.com/pola-rs/polars)<br>
+1. ⬆️ Pushed 7 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+2. 🎉 Merged PR [#24](https://github.com/BigWhaleLabs/constants/pull/24) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+3. 👍 Approved [#24](https://github.com/BigWhaleLabs/constants/pull/24#pullrequestreview-1304663253) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. ✌️ Released [Add notifications backend](https://github.com/BigWhaleLabs/constants/releases/tag/v0.1.67) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 18th, 2023, 7:57:50 PM
+Last Updated: Saturday, February 18th, 2023, 8:20:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
