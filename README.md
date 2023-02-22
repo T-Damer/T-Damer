@@ -7,7 +7,8 @@
 
 <!-- <a href="https://www.hackthebox.com/badge/image/1376915 -->
 
-<a href="https://www.codewars.com/users/T_DaMER/"><img src="https://www.codewars.com/users/T_DaMER/badges/large" alt="Daniil Pankov on Codewars" title="Daniil Pankov on Codewars"></a>
+<a href="https://www.codewars.com/users/T_DaMER/"><img src="https://www.codewars.com/users/T_DaMER/badges/large" height="28px" alt="Daniil Pankov on Codewars" title="Daniil Pankov on Codewars"></a> 
+
 [![monkeytype.badge]](https://monkeytype.com/profile/t_damer)
 
 ---
