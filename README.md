@@ -8,6 +8,7 @@
 <!-- <a href="https://www.hackthebox.com/badge/image/1376915 -->
 
 <a href="https://www.codewars.com/users/T_DaMER/"><img src="https://www.codewars.com/users/T_DaMER/badges/large" alt="Daniil Pankov on Codewars" title="Daniil Pankov on Codewars"></a>
+[![monkeytype.badge]](https://monkeytype.com/profile/t_damer)
 
 ---
 
@@ -103,3 +104,4 @@ Last Updated: Wednesday, February 22nd, 2023, 6:40:32 PM
 [instagram]: https://www.instagram.com/t_damer/
 [linkedin]: https://linkedin.com/in/t-damer
 [thisrepo]: https://github.com/T-Damer/
+[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
