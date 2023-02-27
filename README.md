@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#84](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/84) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)<br>
-2. ⭐ Starred [vlang/v](https://github.com/vlang/v)<br>
-3. ⭐ Starred [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. 🎉 Merged PR [#27](https://github.com/BigWhaleLabs/constants/pull/27) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. 💪 Opened PR [#503](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/503) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+2. ❌ Closed PR [#500](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/500) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+3. 💪 Opened PR [#199](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/199) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)<br>
+4. 💪 Opened PR [#84](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/84) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)<br>
+5. ⭐ Starred [vlang/v](https://github.com/vlang/v)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 27th, 2023, 7:12:53 PM
+Last Updated: Monday, February 27th, 2023, 7:25:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
