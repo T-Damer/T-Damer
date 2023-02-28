@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#205](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/205#discussion_r1120573599) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
-2. 💬 Commented on [#205](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/205#discussion_r1120572738) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
-3. 💬 Commented on [#205](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/205#discussion_r1120572167) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
-4. 💪 Opened PR [#101](https://github.com/BigWhaleLabs/bigwhalelabs/pull/101) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+1. 👍 Approved [#507](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/507#pullrequestreview-1318589600) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+2. 💬 Commented on [#205](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/205#discussion_r1120573599) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
+3. 💬 Commented on [#205](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/205#discussion_r1120572738) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
+4. 💬 Commented on [#205](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/205#discussion_r1120572167) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
+5. 💪 Opened PR [#101](https://github.com/BigWhaleLabs/bigwhalelabs/pull/101) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 28th, 2023, 9:18:56 PM
+Last Updated: Tuesday, February 28th, 2023, 9:29:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
