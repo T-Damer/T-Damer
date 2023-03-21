@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/BigWhaleLabs/seal-hub-kit/pull/5) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
-2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
-3. ✌️ Released [Fix imports](https://github.com/BigWhaleLabs/seal-hub-kit/releases/tag/v0.0.32) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
-5. 💪 Opened PR [#5](https://github.com/BigWhaleLabs/seal-hub-kit/pull/5) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+1. ⭐ Starred [getcursor/cursor](https://github.com/getcursor/cursor)<br>
+2. 🎉 Merged PR [#5](https://github.com/BigWhaleLabs/seal-hub-kit/pull/5) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+3. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+4. ✌️ Released [Fix imports](https://github.com/BigWhaleLabs/seal-hub-kit/releases/tag/v0.0.32) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 21st, 2023, 7:15:20 PM
+Last Updated: Tuesday, March 21st, 2023, 7:25:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
