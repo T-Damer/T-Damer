@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [enzomanuelmangano/animate-with-reanimated](https://github.com/enzomanuelmangano/animate-with-reanimated)<br>
-2. 👍 Approved [#11](https://github.com/BigWhaleLabs/ketl-allow-map-contract/pull/11#pullrequestreview-1347007037) in [BigWhaleLabs/ketl-allow-map-contract](https://github.com/BigWhaleLabs/ketl-allow-map-contract)<br>
-3. 💬 Commented on [#11](https://github.com/BigWhaleLabs/ketl-allow-map-contract/pull/11#discussion_r1141026251) in [BigWhaleLabs/ketl-allow-map-contract](https://github.com/BigWhaleLabs/ketl-allow-map-contract)<br>
-4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
-5. 🎉 Merged PR [#29](https://github.com/BigWhaleLabs/seal-hub-prover/pull/29) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
+1. ✌️ Released [Fix imports](https://github.com/BigWhaleLabs/seal-hub-kit/releases/tag/v0.0.32) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+3. 💪 Opened PR [#5](https://github.com/BigWhaleLabs/seal-hub-kit/pull/5) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+4. ⭐ Starred [enzomanuelmangano/animate-with-reanimated](https://github.com/enzomanuelmangano/animate-with-reanimated)<br>
+5. 👍 Approved [#11](https://github.com/BigWhaleLabs/ketl-allow-map-contract/pull/11#pullrequestreview-1347007037) in [BigWhaleLabs/ketl-allow-map-contract](https://github.com/BigWhaleLabs/ketl-allow-map-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 21st, 2023, 3:57:34 PM
+Last Updated: Tuesday, March 21st, 2023, 4:21:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
