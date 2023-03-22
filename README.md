@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Add peerDeps](https://github.com/BigWhaleLabs/prettier-config/releases/tag/v1.1.2) in [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
+1. ✌️ Released [Change "main" in package.json](https://github.com/BigWhaleLabs/prettier-config/releases/tag/v1.1.3) in [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
 2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
 3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
-4. ⭐ Starred [getcursor/cursor](https://github.com/getcursor/cursor)<br>
-5. 🎉 Merged PR [#5](https://github.com/BigWhaleLabs/seal-hub-kit/pull/5) in [BigWhaleLabs/seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)<br>
+4. ✌️ Released [Add peerDeps](https://github.com/BigWhaleLabs/prettier-config/releases/tag/v1.1.2) in [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 22nd, 2023, 8:17:53 PM
+Last Updated: Wednesday, March 22nd, 2023, 8:28:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
