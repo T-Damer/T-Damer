@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Change "main" in package.json](https://github.com/BigWhaleLabs/prettier-config/releases/tag/v1.1.3) in [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
-4. ✌️ Released [Add peerDeps](https://github.com/BigWhaleLabs/prettier-config/releases/tag/v1.1.2) in [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
+1. ✌️ Released [Use flat config](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.0.0) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+3. ✌️ Released [Change "main" in package.json](https://github.com/BigWhaleLabs/prettier-config/releases/tag/v1.1.3) in [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
 5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/prettier-config](https://github.com/BigWhaleLabs/prettier-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 22nd, 2023, 8:59:21 PM
+Last Updated: Wednesday, March 22nd, 2023, 9:15:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
