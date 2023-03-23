@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)<br>
-2. 🎉 Merged PR [#89](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/89) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)<br>
-3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)<br>
-5. 🎉 Merged PR [#206](https://github.com/BigWhaleLabs/seal-cred-echo-frontend/pull/206) in [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)<br>
+1. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)<br>
+3. 🎉 Merged PR [#89](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/89) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)<br>
+4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 23rd, 2023, 10:39:52 PM
+Last Updated: Thursday, March 23rd, 2023, 10:50:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
