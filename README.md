@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.1.4) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+1. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.1.5) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
 2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
 3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
-4. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.1.3) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+4. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.1.4) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
 5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 23rd, 2023, 7:36:01 PM
+Last Updated: Thursday, March 23rd, 2023, 7:46:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
