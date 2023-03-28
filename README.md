@@ -17,7 +17,7 @@
 
 - ⌨️ Right now working as a MER(N)N+Blockchain Developer at [BigWhaleLabs](https://github.com/BigWhaleLabs)
 - 🦀 Currently learning Rust and React-Native-Web
-- 🏹 2022 Goals: Contribute more to Open Source projects
+- 🏹 2023 Goals: learn React-Native animations and create cool Rust project
 - ✏️ I love to make photos and designs sometimes
 
 ## Contact me:
