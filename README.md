@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/BigWhaleLabs/bwl-eslint-config/pull/3) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
-2. 💪 Opened PR [#3](https://github.com/BigWhaleLabs/bwl-eslint-config/pull/3) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
-4. ✌️ Released [Curly rule](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.1.7) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-cli](https://github.com/BigWhaleLabs/sealcaster-cli)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+2. 🎉 Merged PR [#513](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/513) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+3. 💪 Opened PR [#513](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/513) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+4. 🎉 Merged PR [#3](https://github.com/BigWhaleLabs/bwl-eslint-config/pull/3) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+5. 💪 Opened PR [#3](https://github.com/BigWhaleLabs/bwl-eslint-config/pull/3) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 12th, 2023, 7:56:55 PM
+Last Updated: Wednesday, April 12th, 2023, 8:17:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
