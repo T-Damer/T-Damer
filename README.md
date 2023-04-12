@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-cli](https://github.com/BigWhaleLabs/sealcaster-cli)<br>
-2. 🎉 Merged PR [#2](https://github.com/BigWhaleLabs/sealcaster-cli/pull/2) in [BigWhaleLabs/sealcaster-cli](https://github.com/BigWhaleLabs/sealcaster-cli)<br>
-3. 👍 Approved [#2](https://github.com/BigWhaleLabs/sealcaster-cli/pull/2#pullrequestreview-1381046418) in [BigWhaleLabs/sealcaster-cli](https://github.com/BigWhaleLabs/sealcaster-cli)<br>
-4. 👍 Approved [#212](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/212#pullrequestreview-1380087740) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
+1. 🎉 Merged PR [#3](https://github.com/BigWhaleLabs/bwl-eslint-config/pull/3) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+2. 💪 Opened PR [#3](https://github.com/BigWhaleLabs/bwl-eslint-config/pull/3) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+4. ✌️ Released [Curly rule](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.1.7) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/sealcaster-cli](https://github.com/BigWhaleLabs/sealcaster-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 12th, 2023, 7:36:10 PM
+Last Updated: Wednesday, April 12th, 2023, 7:46:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
