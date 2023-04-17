@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.1.9) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
-4. 💪 Opened PR [#8](https://github.com/BigWhaleLabs/.github/pull/8) in [BigWhaleLabs/.github](https://github.com/BigWhaleLabs/.github)<br>
-5. 🎉 Merged PR [#33](https://github.com/BigWhaleLabs/attestor/pull/33) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+1. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)<br>
+2. 🎉 Merged PR [#11](https://github.com/BigWhaleLabs/seal-cred-email/pull/11) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)<br>
+4. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.1.9) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 17th, 2023, 5:37:21 PM
+Last Updated: Monday, April 17th, 2023, 5:48:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
