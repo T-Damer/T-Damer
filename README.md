@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-backend/releases/tag/v1.0.4) in [BigWhaleLabs/bwl-eslint-backend](https://github.com/BigWhaleLabs/bwl-eslint-backend)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-backend](https://github.com/BigWhaleLabs/bwl-eslint-backend)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-backend](https://github.com/BigWhaleLabs/bwl-eslint-backend)<br>
-4. 💪 Opened PR [#30](https://github.com/BigWhaleLabs/seal-hub-prover/pull/30) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
-5. 💪 Opened PR [#32](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/32) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)<br>
+1. 🎉 Merged PR [#4](https://github.com/BigWhaleLabs/metadata-generator/pull/4) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+3. 🎉 Merged PR [#517](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/517) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
+5. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-backend/releases/tag/v1.0.4) in [BigWhaleLabs/bwl-eslint-backend](https://github.com/BigWhaleLabs/bwl-eslint-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 17th, 2023, 3:56:51 PM
+Last Updated: Monday, April 17th, 2023, 4:22:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
