@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/BigWhaleLabs/.github/pull/8) in [BigWhaleLabs/.github](https://github.com/BigWhaleLabs/.github)<br>
-2. 🎉 Merged PR [#33](https://github.com/BigWhaleLabs/attestor/pull/33) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-4. 🎉 Merged PR [#10](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/10) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
-5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
+1. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-config/releases/tag/v2.1.9) in [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)<br>
+4. 💪 Opened PR [#8](https://github.com/BigWhaleLabs/.github/pull/8) in [BigWhaleLabs/.github](https://github.com/BigWhaleLabs/.github)<br>
+5. 🎉 Merged PR [#33](https://github.com/BigWhaleLabs/attestor/pull/33) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 17th, 2023, 5:26:55 PM
+Last Updated: Monday, April 17th, 2023, 5:37:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
