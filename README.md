@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#32](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/32) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)<br>
-2. 💪 Opened PR [#5](https://github.com/BigWhaleLabs/metadata-oracle/pull/5) in [BigWhaleLabs/metadata-oracle](https://github.com/BigWhaleLabs/metadata-oracle)<br>
-3. 👍 Approved [#517](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/517#pullrequestreview-1388196000) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
-4. 💪 Opened PR [#4](https://github.com/BigWhaleLabs/metadata-generator/pull/4) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
-5. 💪 Opened PR [#33](https://github.com/BigWhaleLabs/attestor/pull/33) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+1. ✌️ Released [](https://github.com/BigWhaleLabs/bwl-eslint-backend/releases/tag/v1.0.4) in [BigWhaleLabs/bwl-eslint-backend](https://github.com/BigWhaleLabs/bwl-eslint-backend)<br>
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-backend](https://github.com/BigWhaleLabs/bwl-eslint-backend)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/bwl-eslint-backend](https://github.com/BigWhaleLabs/bwl-eslint-backend)<br>
+4. 💪 Opened PR [#30](https://github.com/BigWhaleLabs/seal-hub-prover/pull/30) in [BigWhaleLabs/seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)<br>
+5. 💪 Opened PR [#32](https://github.com/BigWhaleLabs/seal-cred-echo-poster/pull/32) in [BigWhaleLabs/seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 17th, 2023, 2:49:18 PM
+Last Updated: Monday, April 17th, 2023, 2:59:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
