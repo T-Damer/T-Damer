@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/telegram-bot-starter](https://github.com/T-Damer/telegram-bot-starter)<br>
-2. 💪 Opened PR [#24](https://github.com/Borodutch/telegram-bot-starter/pull/24) in [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/telegram-bot-starter](https://github.com/T-Damer/telegram-bot-starter)<br>
-4. 🔱 Forked [T-Damer/telegram-bot-starter](https://github.com/T-Damer/telegram-bot-starter) from [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter)<br>
-5. 💪 Opened PR [#142](https://github.com/Borodutch/backend-starter/pull/142) in [Borodutch/backend-starter](https://github.com/Borodutch/backend-starter)<br>
+1. 💪 Opened PR [#7](https://github.com/Borodutch/frontend-starter/pull/7) in [Borodutch/frontend-starter](https://github.com/Borodutch/frontend-starter)<br>
+2. ⬆️ Pushed 84 commit(s) to [T-Damer/frontend-starter-react](https://github.com/T-Damer/frontend-starter-react)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/frontend-starter](https://github.com/BigWhaleLabs/frontend-starter)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/telegram-bot-starter](https://github.com/T-Damer/telegram-bot-starter)<br>
+5. 💪 Opened PR [#24](https://github.com/Borodutch/telegram-bot-starter/pull/24) in [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 26th, 2023, 5:58:08 PM
+Last Updated: Wednesday, April 26th, 2023, 6:23:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
