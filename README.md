@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#38](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/38#pullrequestreview-1425368092) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-2. 💬 Commented on [#38](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/38#discussion_r1192957649) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-3. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-4. 🎉 Merged PR [#34](https://github.com/BigWhaleLabs/constants/pull/34) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. 💪 Opened PR [#34](https://github.com/BigWhaleLabs/constants/pull/34) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. ⭐ Starred [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)<br>
+2. 👍 Approved [#38](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/38#pullrequestreview-1425368092) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+3. 💬 Commented on [#38](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/38#discussion_r1192957649) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+4. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. 🎉 Merged PR [#34](https://github.com/BigWhaleLabs/constants/pull/34) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 13th, 2023, 2:12:22 PM
+Last Updated: Saturday, May 13th, 2023, 2:25:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
