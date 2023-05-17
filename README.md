@@ -74,15 +74,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [clstatham/k4dos](https://github.com/clstatham/k4dos)<br>
-2. 💬 Commented on [#38](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/38#discussion_r1196528109) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-3. 💬 Commented on [#38](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/38#discussion_r1196527631) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-4. 💬 Commented on [#38](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/38#discussion_r1196525162) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. 💬 Commented on [#38](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/38#discussion_r1196524486) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+2. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.1.4) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+5. ⭐ Starred [clstatham/k4dos](https://github.com/clstatham/k4dos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 17th, 2023, 7:25:48 PM
+Last Updated: Wednesday, May 17th, 2023, 7:36:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
