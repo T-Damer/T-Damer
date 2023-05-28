@@ -20,15 +20,12 @@
 - 🏹 2023 Goals: learn React-Native animations and create cool Rust project
 - ✏️ I love to make photos and designs sometimes
 
-## Contact me:
-
+<!-- ## Contact me:
 [<img style="margin: 5px" align="left" alt="T.DaM∑R | Discord" width="50px" src="https://user-images.githubusercontent.com/49658988/147961619-e55ef10b-ac9a-42e9-b0ea-eea37e5b6674.png" />][discord]
 [<img style="margin: 5px" align="left" alt="T.DaM∑R | Twitter" width="50px" src="https://user-images.githubusercontent.com/49658988/147961429-6bf4debe-f7b7-4fc2-b5f6-34c1d72eada6.png" />][twitter]
 [<img style="margin: 5px" align="left" alt="T.DaM∑R | LinkedIn" width="50px" src="https://user-images.githubusercontent.com/49658988/147961472-41726a08-9490-4b09-b36d-65ba477e66c8.png" />][linkedin]
-[<img style="margin: 5px" align="left" alt="T.DaM∑R | Instagram" width="50px" src="https://user-images.githubusercontent.com/49658988/147961566-4a14ac13-a434-4ee6-ba95-9c0305677847.png" />][instagram]
-
-<br />
-<br />
+[<img style="margin: 5px" align="left" alt="T.DaM∑R | Instagram" width="50px" src="https://user-images.githubusercontent.com/49658988/147961566-4a14ac13-a434-4ee6-ba95-9c0305677847.png" />][instagram
+ -->
 
 ## Languages and Tools:
 
