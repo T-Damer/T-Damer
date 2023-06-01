@@ -71,15 +71,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#pullrequestreview-1455298822) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-2. 💬 Commented on [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#discussion_r1213043461) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-3. 💬 Commented on [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#discussion_r1213042704) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-4. 💬 Commented on [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#discussion_r1213040705) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+1. 👍 Approved [#36](https://github.com/BigWhaleLabs/attestor/pull/36#pullrequestreview-1455485919) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+2. 👍 Approved [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#pullrequestreview-1455298822) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+3. 💬 Commented on [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#discussion_r1213043461) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+4. 💬 Commented on [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#discussion_r1213042704) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+5. 💬 Commented on [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#discussion_r1213040705) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 1st, 2023, 1:35:54 PM
+Last Updated: Thursday, June 1st, 2023, 1:46:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
