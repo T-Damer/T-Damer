@@ -71,15 +71,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#35](https://github.com/BigWhaleLabs/constants/pull/35#pullrequestreview-1455548720) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-2. 👍 Approved [#36](https://github.com/BigWhaleLabs/attestor/pull/36#pullrequestreview-1455485919) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-3. 👍 Approved [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#pullrequestreview-1455298822) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-4. 💬 Commented on [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#discussion_r1213043461) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-5. 💬 Commented on [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#discussion_r1213042704) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. 🎉 Merged PR [#8](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/8) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. 👍 Approved [#8](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/8#pullrequestreview-1458354421) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 👍 Approved [#35](https://github.com/BigWhaleLabs/constants/pull/35#pullrequestreview-1455548720) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. 👍 Approved [#36](https://github.com/BigWhaleLabs/attestor/pull/36#pullrequestreview-1455485919) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 2nd, 2023, 7:12:23 PM
+Last Updated: Friday, June 2nd, 2023, 7:25:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
