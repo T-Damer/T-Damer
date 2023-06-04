@@ -9,6 +9,8 @@
 
 <a href="https://www.codewars.com/users/T_DaMER/"><img src="https://www.codewars.com/users/T_DaMER/badges/large" height="28px" alt="Daniil Pankov on Codewars" title="Daniil Pankov on Codewars"></a> 
 
+<a href="https://leetcode.com/T-Damer/" ><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FT-Damer&logo=leetcode&logoColor=yellow" alt="Daniil Pankov on LeetCode" title="Daniil Pankov on LeetCode" /> </a>
+
 [![monkeytype.badge]](https://monkeytype.com/profile/t_damer)
 
 ---
