@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#10](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/10) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. 👍 Approved [#10](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/10#pullrequestreview-1468078064) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-4. 🎉 Merged PR [#30](https://github.com/BigWhaleLabs/obss-storage-contract/pull/30) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. 🎉 Merged PR [#43](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/43) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+3. 👍 Approved [#43](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/43#pullrequestreview-1468506284) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+4. 🎉 Merged PR [#10](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/10) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 7th, 2023, 11:29:18 PM
+Last Updated: Wednesday, June 7th, 2023, 11:39:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
