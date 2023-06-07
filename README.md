@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#30](https://github.com/BigWhaleLabs/obss-storage-contract/pull/30) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-3. 👍 Approved [#30](https://github.com/BigWhaleLabs/obss-storage-contract/pull/30#pullrequestreview-1467935674) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-4. 💬 Commented on [#21](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/21#discussion_r1221750050) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+1. 🎉 Merged PR [#10](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/10) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. 👍 Approved [#10](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/10#pullrequestreview-1468078064) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 🎉 Merged PR [#30](https://github.com/BigWhaleLabs/obss-storage-contract/pull/30) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
 5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 7th, 2023, 6:46:26 PM
+Last Updated: Wednesday, June 7th, 2023, 6:56:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
