@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#28](https://github.com/BigWhaleLabs/obss-storage-contract/pull/28) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-2. ⬆️ Pushed 45 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-3. 👍 Approved [#41](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/41#pullrequestreview-1467547674) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+1. 🎉 Merged PR [#36](https://github.com/BigWhaleLabs/constants/pull/36) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+2. ⬆️ Pushed 6 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+3. 👍 Approved [#36](https://github.com/BigWhaleLabs/constants/pull/36#pullrequestreview-1467749513) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. 🎉 Merged PR [#28](https://github.com/BigWhaleLabs/obss-storage-contract/pull/28) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+5. ⬆️ Pushed 45 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 7th, 2023, 3:29:52 PM
+Last Updated: Wednesday, June 7th, 2023, 3:40:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
