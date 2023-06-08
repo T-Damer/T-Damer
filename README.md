@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-2. 🎉 Merged PR [#43](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/43) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-3. 👍 Approved [#43](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/43#pullrequestreview-1468506284) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-4. 🎉 Merged PR [#10](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/10) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. 👍 Approved [#11](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/11#pullrequestreview-1468588556) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+3. 🎉 Merged PR [#43](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/43) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+4. 👍 Approved [#43](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/43#pullrequestreview-1468506284) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+5. 🎉 Merged PR [#10](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/10) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 7th, 2023, 11:50:09 PM
+Last Updated: Thursday, June 8th, 2023, 12:31:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
