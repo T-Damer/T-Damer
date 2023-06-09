@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#39](https://github.com/BigWhaleLabs/attestor/pull/39) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-2. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.1.8) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+2. 🎉 Merged PR [#39](https://github.com/BigWhaleLabs/attestor/pull/39) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+3. 💪 Opened PR [#39](https://github.com/BigWhaleLabs/attestor/pull/39) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+4. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.1.8) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 9th, 2023, 2:50:14 PM
+Last Updated: Friday, June 9th, 2023, 3:13:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
