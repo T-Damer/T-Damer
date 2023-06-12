@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [edgarssilva/relentless-revenge](https://github.com/edgarssilva/relentless-revenge)<br>
-2. 💬 Commented on [#20843](https://github.com/expo/expo/issues/20843#issuecomment-1584833203) in [expo/expo](https://github.com/expo/expo)<br>
-3. 💪 Opened PR [#40](https://github.com/BigWhaleLabs/attestor/pull/40) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-4. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.1.9) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+1. 👍 Approved [#48](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/48#pullrequestreview-1474813127) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. ⭐ Starred [edgarssilva/relentless-revenge](https://github.com/edgarssilva/relentless-revenge)<br>
+3. 💬 Commented on [#20843](https://github.com/expo/expo/issues/20843#issuecomment-1584833203) in [expo/expo](https://github.com/expo/expo)<br>
+4. 💪 Opened PR [#40](https://github.com/BigWhaleLabs/attestor/pull/40) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+5. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.1.9) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 12th, 2023, 11:57:05 AM
+Last Updated: Monday, June 12th, 2023, 12:32:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
