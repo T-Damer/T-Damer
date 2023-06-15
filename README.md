@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#42](https://github.com/BigWhaleLabs/constants/pull/42) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-3. 👍 Approved [#42](https://github.com/BigWhaleLabs/constants/pull/42#pullrequestreview-1481050491) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-4. ⬆️ Pushed 6 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. 🎉 Merged PR [#54](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/54) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+1. 🎉 Merged PR [#23](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/23) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+3. 👍 Approved [#23](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/23#pullrequestreview-1481066378) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+5. 🎉 Merged PR [#32](https://github.com/BigWhaleLabs/obss-storage-contract/pull/32) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 15th, 2023, 8:56:49 AM
+Last Updated: Thursday, June 15th, 2023, 9:15:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
