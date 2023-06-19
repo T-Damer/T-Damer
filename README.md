@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. 🎉 Merged PR [#59](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/59) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+1. ⬆️ Pushed 10 commit(s) to [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
+2. 🎉 Merged PR [#3](https://github.com/BigWhaleLabs/backend-utils/pull/3) in [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
+3. 👍 Approved [#3](https://github.com/BigWhaleLabs/backend-utils/pull/3#pullrequestreview-1486726268) in [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
+4. ✌️ Released [](https://github.com/BigWhaleLabs/backend-utils/releases/tag/v0.0.18) in [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 19th, 2023, 7:56:47 PM
+Last Updated: Monday, June 19th, 2023, 8:16:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
