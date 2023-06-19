@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-2. 🎉 Merged PR [#11](https://github.com/BigWhaleLabs/ketl-landing/pull/11) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-3. 👍 Approved [#11](https://github.com/BigWhaleLabs/ketl-landing/pull/11#pullrequestreview-1486605214) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. 🎉 Merged PR [#59](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/59) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+3. 👍 Approved [#59](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/59#pullrequestreview-1486634521) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
 4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-5. 🎉 Merged PR [#10](https://github.com/BigWhaleLabs/ketl-landing/pull/10) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+5. 🎉 Merged PR [#11](https://github.com/BigWhaleLabs/ketl-landing/pull/11) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 19th, 2023, 7:12:25 PM
+Last Updated: Monday, June 19th, 2023, 7:25:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
