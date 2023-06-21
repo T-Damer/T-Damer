@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JonLatane/jonline](https://github.com/JonLatane/jonline)<br>
-2. 👍 Approved [#12](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/12#pullrequestreview-1491068428) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. 💬 Commented on [#12](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/12#discussion_r1237193281) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-4. 💬 Commented on [#12](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/12#discussion_r1237070599) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-5. 💬 Commented on [#12](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/12#discussion_r1237068964) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. 👍 Approved [#60](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/60#pullrequestreview-1491870986) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. ⭐ Starred [JonLatane/jonline](https://github.com/JonLatane/jonline)<br>
+3. 👍 Approved [#12](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/12#pullrequestreview-1491068428) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 💬 Commented on [#12](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/12#discussion_r1237193281) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. 💬 Commented on [#12](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/12#discussion_r1237070599) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 21st, 2023, 8:58:38 PM
+Last Updated: Wednesday, June 21st, 2023, 9:17:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
