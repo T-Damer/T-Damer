@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. 💪 Opened PR [#13](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/13) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. ⬆️ Pushed 18 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. 💪 Opened PR [#66](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/66) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
 3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-4. ⭐ Starred [janhohenheim/foxtrot](https://github.com/janhohenheim/foxtrot)<br>
-5. ❗️ Opened issue [#8950](https://github.com/bevyengine/bevy/issues/8950) in [bevyengine/bevy](https://github.com/bevyengine/bevy)<br>
+4. 💪 Opened PR [#13](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/13) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 26th, 2023, 9:21:45 AM
+Last Updated: Monday, June 26th, 2023, 9:36:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
