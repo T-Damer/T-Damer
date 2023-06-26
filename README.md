@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8950](https://github.com/bevyengine/bevy/issues/8950) in [bevyengine/bevy](https://github.com/bevyengine/bevy)<br>
-2. ⭐ Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)<br>
-3. ⭐ Starred [bytecodealliance/javy](https://github.com/bytecodealliance/javy)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. 🎉 Merged PR [#65](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/65) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+1. ⭐ Starred [janhohenheim/foxtrot](https://github.com/janhohenheim/foxtrot)<br>
+2. ❗️ Opened issue [#8950](https://github.com/bevyengine/bevy/issues/8950) in [bevyengine/bevy](https://github.com/bevyengine/bevy)<br>
+3. ⭐ Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)<br>
+4. ⭐ Starred [bytecodealliance/javy](https://github.com/bytecodealliance/javy)<br>
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 26th, 2023, 7:48:20 AM
+Last Updated: Monday, June 26th, 2023, 7:58:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
