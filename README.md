@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. 💪 Opened PR [#15](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/15) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. 🎉 Merged PR [#2](https://github.com/BigWhaleLabs/ketl-pfp-generator/pull/2) in [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
-4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
-5. 👍 Approved [#2](https://github.com/BigWhaleLabs/ketl-pfp-generator/pull/2#pullrequestreview-1502620944) in [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
+1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. 🎉 Merged PR [#15](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/15) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 💪 Opened PR [#15](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/15) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. 🎉 Merged PR [#2](https://github.com/BigWhaleLabs/ketl-pfp-generator/pull/2) in [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 28th, 2023, 6:45:46 PM
+Last Updated: Wednesday, June 28th, 2023, 6:56:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
