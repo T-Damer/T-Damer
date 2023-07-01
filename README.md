@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8950](https://github.com/bevyengine/bevy/issues/8950#issuecomment-1615890220) in [bevyengine/bevy](https://github.com/bevyengine/bevy)<br>
-2. 💬 Commented on [#2876](https://github.com/rust-windowing/winit/issues/2876#issuecomment-1615889286) in [rust-windowing/winit](https://github.com/rust-windowing/winit)<br>
-3. ⭐ Starred [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher)<br>
-4. 💬 Commented on [#1272](https://github.com/thirdweb-dev/js/issues/1272#issuecomment-1613583840) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)<br>
-5. ⭐ Starred [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit)<br>
+1. ⭐ Starred [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template)<br>
+2. 💬 Commented on [#8950](https://github.com/bevyengine/bevy/issues/8950#issuecomment-1615890220) in [bevyengine/bevy](https://github.com/bevyengine/bevy)<br>
+3. 💬 Commented on [#2876](https://github.com/rust-windowing/winit/issues/2876#issuecomment-1615889286) in [rust-windowing/winit](https://github.com/rust-windowing/winit)<br>
+4. ⭐ Starred [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher)<br>
+5. 💬 Commented on [#1272](https://github.com/thirdweb-dev/js/issues/1272#issuecomment-1613583840) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 1st, 2023, 1:46:12 PM
+Last Updated: Saturday, July 1st, 2023, 1:56:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
