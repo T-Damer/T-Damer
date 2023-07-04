@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow)<br>
-2. ⭐ Starred [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template)<br>
-3. 💬 Commented on [#8950](https://github.com/bevyengine/bevy/issues/8950#issuecomment-1615890220) in [bevyengine/bevy](https://github.com/bevyengine/bevy)<br>
-4. 💬 Commented on [#2876](https://github.com/rust-windowing/winit/issues/2876#issuecomment-1615889286) in [rust-windowing/winit](https://github.com/rust-windowing/winit)<br>
-5. ⭐ Starred [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher)<br>
+1. 💬 Commented on [#1272](https://github.com/thirdweb-dev/js/issues/1272#issuecomment-1620530494) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)<br>
+2. ⭐ Starred [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow)<br>
+3. ⭐ Starred [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template)<br>
+4. 💬 Commented on [#8950](https://github.com/bevyengine/bevy/issues/8950#issuecomment-1615890220) in [bevyengine/bevy](https://github.com/bevyengine/bevy)<br>
+5. 💬 Commented on [#2876](https://github.com/rust-windowing/winit/issues/2876#issuecomment-1615889286) in [rust-windowing/winit](https://github.com/rust-windowing/winit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 4th, 2023, 4:44:09 PM
+Last Updated: Tuesday, July 4th, 2023, 4:55:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
