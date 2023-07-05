@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-2. 🎉 Merged PR [#14](https://github.com/BigWhaleLabs/ketl-landing/pull/14) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-3. 💪 Opened PR [#14](https://github.com/BigWhaleLabs/ketl-landing/pull/14) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-4. 🎉 Merged PR [#13](https://github.com/BigWhaleLabs/ketl-landing/pull/13) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+1. ❗️ Opened issue [#1291](https://github.com/thirdweb-dev/js/issues/1291) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)<br>
+2. ❗️ Opened issue [#1290](https://github.com/thirdweb-dev/js/issues/1290) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)<br>
+3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+4. 🎉 Merged PR [#14](https://github.com/BigWhaleLabs/ketl-landing/pull/14) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+5. 💪 Opened PR [#14](https://github.com/BigWhaleLabs/ketl-landing/pull/14) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 5th, 2023, 6:20:19 PM
+Last Updated: Wednesday, July 5th, 2023, 6:40:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
