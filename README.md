@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Match dark theme of gmail](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.1.15) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-5. 🎉 Merged PR [#16](https://github.com/BigWhaleLabs/ketl-landing/pull/16) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+2. 🎉 Merged PR [#45](https://github.com/BigWhaleLabs/attestor/pull/45) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+3. 💪 Opened PR [#45](https://github.com/BigWhaleLabs/attestor/pull/45) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+4. ✌️ Released [Match dark theme of gmail](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.1.15) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 7th, 2023, 7:46:51 PM
+Last Updated: Friday, July 7th, 2023, 7:57:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
