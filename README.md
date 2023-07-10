@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jjant/runty8-game-template](https://github.com/jjant/runty8-game-template)<br>
-2. ⭐ Starred [jjant/runty8](https://github.com/jjant/runty8)<br>
-3. ⭐ Starred [Gigoteur/UnicornConsole](https://github.com/Gigoteur/UnicornConsole)<br>
-4. ⭐ Starred [f9-w/Free_PICO-8](https://github.com/f9-w/Free_PICO-8)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+1. ⭐ Starred [ftsf/nico](https://github.com/ftsf/nico)<br>
+2. ⭐ Starred [jjant/runty8-game-template](https://github.com/jjant/runty8-game-template)<br>
+3. ⭐ Starred [jjant/runty8](https://github.com/jjant/runty8)<br>
+4. ⭐ Starred [Gigoteur/UnicornConsole](https://github.com/Gigoteur/UnicornConsole)<br>
+5. ⭐ Starred [f9-w/Free_PICO-8](https://github.com/f9-w/Free_PICO-8)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 10th, 2023, 8:42:03 AM
+Last Updated: Monday, July 10th, 2023, 8:55:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
