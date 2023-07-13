@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#21](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/21) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. 🎉 Merged PR [#43](https://github.com/BigWhaleLabs/constants/pull/43) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+2. 🎉 Merged PR [#44](https://github.com/BigWhaleLabs/constants/pull/44) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+3. 🎉 Merged PR [#21](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/21) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 13th, 2023, 3:57:15 PM
+Last Updated: Thursday, July 13th, 2023, 4:24:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
