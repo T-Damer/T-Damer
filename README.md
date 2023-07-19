@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#960](https://github.com/opengsn/gsn/issues/960#issuecomment-1642658647) in [opengsn/gsn](https://github.com/opengsn/gsn)<br>
-2. 💬 Commented on [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#discussion_r1268280035) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-3. 💬 Commented on [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#discussion_r1268279486) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-4. 💬 Commented on [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#discussion_r1268278145) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-5. 💬 Commented on [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#discussion_r1268276974) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+1. 👍 Approved [#44](https://github.com/BigWhaleLabs/obss-storage-contract/pull/44#pullrequestreview-1537953842) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+2. 💬 Commented on [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#discussion_r1268621974) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+3. 👍 Approved [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#pullrequestreview-1537949218) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+4. 👍 Approved [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#pullrequestreview-1537949218) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+5. 💬 Commented on [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#discussion_r1268616977) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 19th, 2023, 7:56:55 PM
+Last Updated: Wednesday, July 19th, 2023, 8:16:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
