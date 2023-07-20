@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#27](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/27) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-3. 🎉 Merged PR [#47](https://github.com/BigWhaleLabs/obss-storage-contract/pull/47) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-4. 👍 Approved [#47](https://github.com/BigWhaleLabs/obss-storage-contract/pull/47#pullrequestreview-1539877805) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-5. 👍 Approved [#46](https://github.com/BigWhaleLabs/obss-storage-contract/pull/46#pullrequestreview-1539816429) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. 🎉 Merged PR [#29](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/29) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 💪 Opened PR [#29](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/29) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. ❌ Closed PR [#27](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/27) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 20th, 2023, 8:47:47 PM
+Last Updated: Thursday, July 20th, 2023, 8:58:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
