@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#26](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/26#pullrequestreview-1539309870) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. 👍 Approved [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#pullrequestreview-1537949218) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-3. 👍 Approved [#43](https://github.com/BigWhaleLabs/obss-storage-contract/pull/43#pullrequestreview-1537960118) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-4. 👍 Approved [#44](https://github.com/BigWhaleLabs/obss-storage-contract/pull/44#pullrequestreview-1537953842) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
-5. 💬 Commented on [#40](https://github.com/BigWhaleLabs/obss-storage-contract/pull/40#discussion_r1268621974) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+1. 💬 Commented on [#45](https://github.com/BigWhaleLabs/obss-storage-contract/pull/45#discussion_r1269697782) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+2. 💬 Commented on [#45](https://github.com/BigWhaleLabs/obss-storage-contract/pull/45#discussion_r1269697487) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+3. 💬 Commented on [#45](https://github.com/BigWhaleLabs/obss-storage-contract/pull/45#discussion_r1269696632) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+4. 💬 Commented on [#45](https://github.com/BigWhaleLabs/obss-storage-contract/pull/45#discussion_r1269695840) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
+5. 💬 Commented on [#45](https://github.com/BigWhaleLabs/obss-storage-contract/pull/45#discussion_r1269695796) in [BigWhaleLabs/obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 20th, 2023, 4:24:18 PM
+Last Updated: Thursday, July 20th, 2023, 4:38:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
