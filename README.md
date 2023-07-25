@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#22](https://github.com/BigWhaleLabs/ketl-landing/pull/22) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-2. ❗️ Opened issue [#49](https://github.com/FormidableLabs/react-native-zephyr/issues/49) in [FormidableLabs/react-native-zephyr](https://github.com/FormidableLabs/react-native-zephyr)<br>
-3. ⭐ Starred [vyperlang/vyper](https://github.com/vyperlang/vyper)<br>
-4. ⭐ Starred [immunefi-team/Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library)<br>
-5. ⭐ Starred [andreabergia/rjvm](https://github.com/andreabergia/rjvm)<br>
+1. 💪 Opened PR [#32](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/32) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. 💪 Opened PR [#22](https://github.com/BigWhaleLabs/ketl-landing/pull/22) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+3. ❗️ Opened issue [#49](https://github.com/FormidableLabs/react-native-zephyr/issues/49) in [FormidableLabs/react-native-zephyr](https://github.com/FormidableLabs/react-native-zephyr)<br>
+4. ⭐ Starred [vyperlang/vyper](https://github.com/vyperlang/vyper)<br>
+5. ⭐ Starred [immunefi-team/Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 25th, 2023, 7:25:41 PM
+Last Updated: Tuesday, July 25th, 2023, 7:36:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
