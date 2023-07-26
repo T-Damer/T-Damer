@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275239395) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275238061) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275237238) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-4. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275236795) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-5. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275235926) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. 💬 Commented on [#70](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/70#discussion_r1275388396) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275239395) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275238061) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275237238) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275236795) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 26th, 2023, 7:12:08 PM
+Last Updated: Wednesday, July 26th, 2023, 7:25:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
