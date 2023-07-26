@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#36](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/36) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. 💪 Opened PR [#36](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/36) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-5. 🎉 Merged PR [#35](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/35) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275219511) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275216637) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275216224) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275215338) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1275214650) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 26th, 2023, 4:26:57 PM
+Last Updated: Wednesday, July 26th, 2023, 4:39:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
