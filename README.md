@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6](https://github.com/BigWhaleLabs/backend-utils/pull/6#pullrequestreview-1552284012) in [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-3. 🎉 Merged PR [#33](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/33) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-4. 👍 Approved [#33](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/33#pullrequestreview-1550554591) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. 👍 Approved [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#pullrequestreview-1552678600) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1277927627) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1277927090) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1277926022) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1277925506) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 28th, 2023, 5:58:13 PM
+Last Updated: Friday, July 28th, 2023, 6:20:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
