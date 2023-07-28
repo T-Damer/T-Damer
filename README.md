@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. 💪 Opened PR [#40](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/40) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. 👍 Approved [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#pullrequestreview-1552678600) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-4. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1277927627) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-5. 💬 Commented on [#33](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/33#discussion_r1277927090) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. 💪 Opened PR [#41](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/41) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 🎉 Merged PR [#40](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/40) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 28th, 2023, 9:25:40 PM
+Last Updated: Friday, July 28th, 2023, 9:36:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
