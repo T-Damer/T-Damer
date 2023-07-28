@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-2. 🎉 Merged PR [#33](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/33) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-3. 👍 Approved [#33](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/33#pullrequestreview-1550554591) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-5. 🎉 Merged PR [#39](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/39) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. 👍 Approved [#6](https://github.com/BigWhaleLabs/backend-utils/pull/6#pullrequestreview-1552284012) in [BigWhaleLabs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+3. 🎉 Merged PR [#33](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/33) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+4. 👍 Approved [#33](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/33#pullrequestreview-1550554591) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 28th, 2023, 2:48:09 PM
+Last Updated: Friday, July 28th, 2023, 2:58:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
