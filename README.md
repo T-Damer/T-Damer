@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GosuDRM/nsfw-roop](https://github.com/GosuDRM/nsfw-roop)<br>
-2. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. 🎉 Merged PR [#41](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/41) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-5. 💪 Opened PR [#41](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/41) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. 👍 Approved [#71](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/71#pullrequestreview-1565151666) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. ⭐ Starred [GosuDRM/nsfw-roop](https://github.com/GosuDRM/nsfw-roop)<br>
+3. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+4. 🎉 Merged PR [#41](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/41) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 7th, 2023, 11:36:08 AM
+Last Updated: Monday, August 7th, 2023, 11:46:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
