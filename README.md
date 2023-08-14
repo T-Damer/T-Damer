@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1290](https://github.com/thirdweb-dev/js/issues/1290#issuecomment-1677227009) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)<br>
-2. 💬 Commented on [#1272](https://github.com/thirdweb-dev/js/issues/1272#issuecomment-1677181947) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)<br>
-3. ⭐ Starred [paranim/parakeet](https://github.com/paranim/parakeet)<br>
-4. ⭐ Starred [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)<br>
-5. 👍 Approved [#71](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/71#pullrequestreview-1565151666) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+1. ❌ Closed PR [#22](https://github.com/BigWhaleLabs/ketl-landing/pull/22) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+2. 💬 Commented on [#1290](https://github.com/thirdweb-dev/js/issues/1290#issuecomment-1677227009) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)<br>
+3. 💬 Commented on [#1272](https://github.com/thirdweb-dev/js/issues/1272#issuecomment-1677181947) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)<br>
+4. ⭐ Starred [paranim/parakeet](https://github.com/paranim/parakeet)<br>
+5. ⭐ Starred [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 14th, 2023, 1:15:11 PM
+Last Updated: Monday, August 14th, 2023, 1:26:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
