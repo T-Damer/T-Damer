@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [redox-os/redox](https://github.com/redox-os/redox)<br>
-2. ⭐ Starred [flosse/rust-os-comparison](https://github.com/flosse/rust-os-comparison)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/crzyKitchen](https://github.com/T-Damer/crzyKitchen)<br>
+1. 👍 Approved [#50](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/50#pullrequestreview-1593296668) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. ⭐ Starred [redox-os/redox](https://github.com/redox-os/redox)<br>
+3. ⭐ Starred [flosse/rust-os-comparison](https://github.com/flosse/rust-os-comparison)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/crzyKitchen](https://github.com/T-Damer/crzyKitchen)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/crzyKitchen](https://github.com/T-Damer/crzyKitchen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 24th, 2023, 10:29:46 AM
+Last Updated: Thursday, August 24th, 2023, 10:40:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
