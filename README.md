@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token/pull/1) in [BigWhaleLabs/seal-hub-memorabilia-token](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token)<br>
-2. 💪 Opened PR [#53](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/53) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-5. 🎉 Merged PR [#52](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/52) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-memorabilia-token](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token)<br>
+2. 👍 Approved [#2](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token/pull/2#pullrequestreview-1605649111) in [BigWhaleLabs/seal-hub-memorabilia-token](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token)<br>
+3. 💪 Opened PR [#1](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token/pull/1) in [BigWhaleLabs/seal-hub-memorabilia-token](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token)<br>
+4. 💪 Opened PR [#53](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/53) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 31st, 2023, 8:26:01 PM
+Last Updated: Thursday, August 31st, 2023, 8:36:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
