@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#47](https://github.com/BigWhaleLabs/attestor/pull/47#pullrequestreview-1606991005) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-2. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313052659) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-3. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313052083) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-4. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313051831) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-5. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313050573) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+1. 💬 Commented on [#11305](https://github.com/react-navigation/react-navigation/issues/11305#issuecomment-1703076764) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)<br>
+2. 👍 Approved [#47](https://github.com/BigWhaleLabs/attestor/pull/47#pullrequestreview-1606991005) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+3. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313052659) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+4. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313052083) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+5. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313051831) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 1st, 2023, 5:16:00 PM
+Last Updated: Friday, September 1st, 2023, 5:26:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
