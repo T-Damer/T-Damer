@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token/pull/1) in [BigWhaleLabs/seal-hub-memorabilia-token](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/seal-hub-memorabilia-token](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token)<br>
-3. 👍 Approved [#2](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token/pull/2#pullrequestreview-1605649111) in [BigWhaleLabs/seal-hub-memorabilia-token](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token)<br>
-4. 💪 Opened PR [#1](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token/pull/1) in [BigWhaleLabs/seal-hub-memorabilia-token](https://github.com/BigWhaleLabs/seal-hub-memorabilia-token)<br>
-5. 💪 Opened PR [#53](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/53) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+1. 👍 Approved [#47](https://github.com/BigWhaleLabs/attestor/pull/47#pullrequestreview-1606991005) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+2. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313052659) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+3. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313052083) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+4. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313051831) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+5. 💬 Commented on [#47](https://github.com/BigWhaleLabs/attestor/pull/47#discussion_r1313050573) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 1st, 2023, 1:37:22 PM
+Last Updated: Friday, September 1st, 2023, 1:47:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
