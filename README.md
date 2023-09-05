@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-2. 🎉 Merged PR [#35](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/35) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-4. 👍 Approved [#35](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/35#pullrequestreview-1609913136) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+2. 🎉 Merged PR [#51](https://github.com/BigWhaleLabs/attestor/pull/51) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+3. 👍 Approved [#51](https://github.com/BigWhaleLabs/attestor/pull/51#pullrequestreview-1611115018) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+4. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+5. 🎉 Merged PR [#35](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/35) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 5th, 2023, 1:58:29 PM
+Last Updated: Tuesday, September 5th, 2023, 2:17:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
