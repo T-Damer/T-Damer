@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-2. 💪 Opened PR [#49](https://github.com/BigWhaleLabs/constants/pull/49) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-3. ✌️ Released [](https://github.com/BigWhaleLabs/constants/releases/tag/v0.2.16) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-5. 🎉 Merged PR [#51](https://github.com/BigWhaleLabs/attestor/pull/51) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+2. 🎉 Merged PR [#49](https://github.com/BigWhaleLabs/constants/pull/49) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. 💪 Opened PR [#49](https://github.com/BigWhaleLabs/constants/pull/49) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. ✌️ Released [](https://github.com/BigWhaleLabs/constants/releases/tag/v0.2.16) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 7th, 2023, 2:12:56 PM
+Last Updated: Thursday, September 7th, 2023, 2:28:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
