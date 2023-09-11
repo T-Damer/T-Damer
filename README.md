@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#58](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/58#pullrequestreview-1620298176) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. ⭐ Starred [stephancill/opencast](https://github.com/stephancill/opencast)<br>
-3. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-4. 🎉 Merged PR [#49](https://github.com/BigWhaleLabs/constants/pull/49) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/backend-starter](https://github.com/BigWhaleLabs/backend-starter)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/backend-starter](https://github.com/BigWhaleLabs/backend-starter)<br>
+3. 🎉 Merged PR [#1](https://github.com/BigWhaleLabs/backend-starter/pull/1) in [BigWhaleLabs/backend-starter](https://github.com/BigWhaleLabs/backend-starter)<br>
+4. 💪 Opened PR [#1](https://github.com/BigWhaleLabs/backend-starter/pull/1) in [BigWhaleLabs/backend-starter](https://github.com/BigWhaleLabs/backend-starter)<br>
+5. ❌ Closed PR [#147](https://github.com/Borodutch/backend-starter/pull/147) in [Borodutch/backend-starter](https://github.com/Borodutch/backend-starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 11th, 2023, 6:56:26 PM
+Last Updated: Monday, September 11th, 2023, 7:11:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
