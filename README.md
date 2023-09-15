@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [paulmillr/noble-secp256k1](https://github.com/paulmillr/noble-secp256k1)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/backend-starter](https://github.com/BigWhaleLabs/backend-starter)<br>
-3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/backend-starter](https://github.com/BigWhaleLabs/backend-starter)<br>
-4. 🎉 Merged PR [#1](https://github.com/BigWhaleLabs/backend-starter/pull/1) in [BigWhaleLabs/backend-starter](https://github.com/BigWhaleLabs/backend-starter)<br>
-5. 💪 Opened PR [#1](https://github.com/BigWhaleLabs/backend-starter/pull/1) in [BigWhaleLabs/backend-starter](https://github.com/BigWhaleLabs/backend-starter)<br>
+1. 🎉 Merged PR [#53](https://github.com/BigWhaleLabs/attestor/pull/53) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+3. 👍 Approved [#53](https://github.com/BigWhaleLabs/attestor/pull/53#pullrequestreview-1628865664) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+4. ⭐ Starred [paulmillr/noble-secp256k1](https://github.com/paulmillr/noble-secp256k1)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/backend-starter](https://github.com/BigWhaleLabs/backend-starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 15th, 2023, 12:29:58 PM
+Last Updated: Friday, September 15th, 2023, 12:52:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
