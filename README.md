@@ -1,4 +1,4 @@
-<h1 align="center">Hi there&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24"> I'm Daniil Pankov - aka <a href="https://taplink.cc/1_damer">T_DaMER:godmode:</a></h1> 
+<h1 align="center">Hi there 👋 I'm Daniil Pankov - aka <a href="https://taplink.cc/1_damer">T_DaMER:godmode:</a></h1> 
 
 
 <!-- [![Website](https://img.shields.io/website?label=https://github.com/T-Damer/myPortfolio&style=for-the-badge&url=https%3A%2F%2Fhttps://github.com/T-Damer/myPortfolio)](https://github.com/T-Damer/myPortfolio) -->
@@ -88,7 +88,7 @@ Last Updated: Thursday, September 21st, 2023, 9:57:37 AM
 
 <details>
   <summary>GitHub Stats</summary>
-<img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=T-Damer&&show_icons=true&title_color=ffffff&icon_color=ffcc33&text_color=ffcc33&bg_color=151515" />
+  <img align="left" alt="T.DaM∑R's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=T-Damer&&show_icons=true&title_color=ffffff&icon_color=ffcc33&text_color=ffcc33&bg_color=151515" />
 </details>
 
 ---
@@ -96,7 +96,7 @@ Last Updated: Thursday, September 21st, 2023, 9:57:37 AM
 <a href='https://www.buymeacoffee.com/tdamer' target='_blank'><img width='125' src='https://user-images.githubusercontent.com/49658988/160226554-5b151b02-50d3-4889-b92c-189c608dcd0d.png' alt='Buy me a coffee' style="margin: 5px" align="left" /></a>
 
 <a href='https://ko-fi.com/L4L27UGGE' target='_blank'><img width='125' src='https://user-images.githubusercontent.com/49658988/160226750-01f3ff68-7fce-47ec-9ff5-cec270029351.png' alt='Buy Me a Coffee at ko-fi.com' style="margin: 5px" align="left"/></a>
-</div>
+
 
 [website]: https://t-damer.github.io/myPortfolio/#/
 [discord]: https://discord.com/users/287475060493516810
