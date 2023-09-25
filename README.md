@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/BigWhaleLabs/ketl-email/pull/1) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-2. ⬆️ Pushed 8 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-3. 👍 Approved [#1](https://github.com/BigWhaleLabs/ketl-email/pull/1#pullrequestreview-1642305905) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-4. 💬 Commented on [#55](https://github.com/BigWhaleLabs/attestor/pull/55#discussion_r1335954124) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-5. 👍 Approved [#55](https://github.com/BigWhaleLabs/attestor/pull/55#pullrequestreview-1642267066) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+4. 💪 Opened PR [#26](https://github.com/BigWhaleLabs/ketl-landing/pull/26) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+5. ❌ Closed PR [#25](https://github.com/BigWhaleLabs/ketl-landing/pull/25) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 25th, 2023, 2:55:51 PM
+Last Updated: Monday, September 25th, 2023, 3:15:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
