@@ -51,8 +51,8 @@
 <br />
 [<img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/49658988/147962068-0df2df18-b71d-43ab-b493-eb68dd92976b.png" />][thisrepo]
 [<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/49658988/147961396-9758386d-92e0-4ee3-8903-9c6e3856f495.png"/>][thisrepo]
-[<img align="left" alt="Terminal" width="30px" src="https://user-images.githubusercontent.com/49658988/147962041-c7cf07dd-9041-448e-8ca6-9d7421619cfa.png" />][thisrepo]
 
+<br />
 <br />
 
 ---
