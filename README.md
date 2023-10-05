@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#44](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/44#pullrequestreview-1658104078) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-4. ⬆️ Pushed 4 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. 🎉 Merged PR [#53](https://github.com/BigWhaleLabs/constants/pull/53) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. 💬 Commented on [#44](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/44#discussion_r1347538282) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+2. 💬 Commented on [#44](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/44#discussion_r1347536474) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+3. 💬 Commented on [#44](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/44#discussion_r1347536288) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+4. 👍 Approved [#44](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/44#pullrequestreview-1658104078) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 5th, 2023, 2:45:33 PM
+Last Updated: Thursday, October 5th, 2023, 2:55:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
