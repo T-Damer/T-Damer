@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#57](https://github.com/BigWhaleLabs/attestor/pull/57#discussion_r1352470466) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-2. 💬 Commented on [#57](https://github.com/BigWhaleLabs/attestor/pull/57#discussion_r1352469819) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-3. 💬 Commented on [#57](https://github.com/BigWhaleLabs/attestor/pull/57#discussion_r1352466894) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-4. 💬 Commented on [#57](https://github.com/BigWhaleLabs/attestor/pull/57#discussion_r1352456500) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-5. ⭐ Starred [xtruan/FlipBIP](https://github.com/xtruan/FlipBIP)<br>
+1. 👍 Approved [#57](https://github.com/BigWhaleLabs/attestor/pull/57#pullrequestreview-1667653007) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+2. 💬 Commented on [#57](https://github.com/BigWhaleLabs/attestor/pull/57#discussion_r1352482714) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+3. 💬 Commented on [#57](https://github.com/BigWhaleLabs/attestor/pull/57#discussion_r1352478679) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+4. 💬 Commented on [#57](https://github.com/BigWhaleLabs/attestor/pull/57#discussion_r1352470466) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+5. 💬 Commented on [#57](https://github.com/BigWhaleLabs/attestor/pull/57#discussion_r1352469819) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 10th, 2023, 12:56:08 PM
+Last Updated: Tuesday, October 10th, 2023, 1:18:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
