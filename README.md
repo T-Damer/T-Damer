@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#47](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/47) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-2. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-3. 👍 Approved [#47](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/47#pullrequestreview-1673676407) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-5. 💬 Commented on [#47](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/47#discussion_r1356520016) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+1. 👍 Approved [#66](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/66#pullrequestreview-1674736303) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. 🎉 Merged PR [#47](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/47) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+3. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+4. 👍 Approved [#47](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/47#pullrequestreview-1673676407) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 12th, 2023, 4:59:31 PM
+Last Updated: Thursday, October 12th, 2023, 5:17:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
