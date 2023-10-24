@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-3. ✌️ Released [](https://github.com/BigWhaleLabs/constants/releases/tag/v0.2.26) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. ✌️ Released [](https://github.com/BigWhaleLabs/constants/releases/tag/v0.2.25) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+2. 🎉 Merged PR [#28](https://github.com/BigWhaleLabs/ketl-landing/pull/28) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+3. 💪 Opened PR [#28](https://github.com/BigWhaleLabs/ketl-landing/pull/28) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 24th, 2023, 3:36:14 PM
+Last Updated: Tuesday, October 24th, 2023, 3:46:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
