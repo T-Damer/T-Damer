@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. 🎉 Merged PR [#70](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/70) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-4. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.2.5) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+1. 🎉 Merged PR [#29](https://github.com/BigWhaleLabs/ketl-landing/pull/29) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+3. 💪 Opened PR [#29](https://github.com/BigWhaleLabs/ketl-landing/pull/29) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+5. 🎉 Merged PR [#70](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/70) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 26th, 2023, 5:58:09 PM
+Last Updated: Thursday, October 26th, 2023, 6:21:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
