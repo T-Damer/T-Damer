@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#48](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/48#pullrequestreview-1698233002) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-2. 💬 Commented on [#48](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/48#discussion_r1372313088) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-3. 💬 Commented on [#48](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/48#discussion_r1372310789) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
-4. 👍 Approved [#59](https://github.com/BigWhaleLabs/attestor/pull/59#pullrequestreview-1695764257) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+2. 🎉 Merged PR [#70](https://github.com/BigWhaleLabs/ketl-attestation-token/pull/70) in [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+4. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.2.5) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 26th, 2023, 2:28:27 PM
+Last Updated: Thursday, October 26th, 2023, 2:38:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
