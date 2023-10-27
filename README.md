@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-2. 🎉 Merged PR [#6](https://github.com/BigWhaleLabs/ketl-email/pull/6) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-3. 💪 Opened PR [#6](https://github.com/BigWhaleLabs/ketl-email/pull/6) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-5. 🎉 Merged PR [#5](https://github.com/BigWhaleLabs/ketl-email/pull/5) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+2. 💪 Opened PR [#7](https://github.com/BigWhaleLabs/ketl-email/pull/7) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+3. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.3.1) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+4. ❌ Closed PR [#13](https://github.com/BigWhaleLabs/seal-cred-email/pull/13) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)<br>
+5. 💪 Opened PR [#13](https://github.com/BigWhaleLabs/seal-cred-email/pull/13) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 27th, 2023, 2:14:17 PM
+Last Updated: Friday, October 27th, 2023, 2:27:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
