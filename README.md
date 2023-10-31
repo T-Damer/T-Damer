@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.3.2) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-3. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-4. 🎉 Merged PR [#80](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/80) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. 👍 Approved [#80](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/80#pullrequestreview-1706433255) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+1. 👍 Approved [#8](https://github.com/BigWhaleLabs/ketl-email/pull/8#pullrequestreview-1707270818) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+2. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.3.2) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+5. 🎉 Merged PR [#80](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/80) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 31st, 2023, 9:25:36 PM
+Last Updated: Tuesday, October 31st, 2023, 9:36:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
