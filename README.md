@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
-2. 🎉 Merged PR [#5](https://github.com/BigWhaleLabs/ketl-pfp-generator/pull/5) in [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
-3. 👍 Approved [#5](https://github.com/BigWhaleLabs/ketl-pfp-generator/pull/5#pullrequestreview-1711793309) in [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
-4. 👍 Approved [#31](https://github.com/BigWhaleLabs/ketl-landing/pull/31#pullrequestreview-1710434970) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-5. 💬 Commented on [#31](https://github.com/BigWhaleLabs/ketl-landing/pull/31#discussion_r1380230034) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+1. 👍 Approved [#81](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/81#pullrequestreview-1712501888) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
+3. 🎉 Merged PR [#5](https://github.com/BigWhaleLabs/ketl-pfp-generator/pull/5) in [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
+4. 👍 Approved [#5](https://github.com/BigWhaleLabs/ketl-pfp-generator/pull/5#pullrequestreview-1711793309) in [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
+5. 👍 Approved [#31](https://github.com/BigWhaleLabs/ketl-landing/pull/31#pullrequestreview-1710434970) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 3rd, 2023, 11:56:32 AM
+Last Updated: Friday, November 3rd, 2023, 12:30:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
