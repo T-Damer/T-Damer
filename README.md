@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
-2. 🎉 Merged PR [#106](https://github.com/BigWhaleLabs/bigwhalelabs/pull/106) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
-3. 💪 Opened PR [#106](https://github.com/BigWhaleLabs/bigwhalelabs/pull/106) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
-4. ⬆️ Pushed 11 commit(s) to [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
-5. 🎉 Merged PR [#105](https://github.com/BigWhaleLabs/bigwhalelabs/pull/105) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+2. 🎉 Merged PR [#9](https://github.com/BigWhaleLabs/metadata-generator/pull/9) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+3. 👍 Approved [#9](https://github.com/BigWhaleLabs/metadata-generator/pull/9#pullrequestreview-1714637365) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
+5. 🎉 Merged PR [#106](https://github.com/BigWhaleLabs/bigwhalelabs/pull/106) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 6th, 2023, 9:29:29 AM
+Last Updated: Monday, November 6th, 2023, 9:39:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
