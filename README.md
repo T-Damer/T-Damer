@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#11](https://github.com/BigWhaleLabs/metadata-generator/pull/11) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
-3. 👍 Approved [#11](https://github.com/BigWhaleLabs/metadata-generator/pull/11#pullrequestreview-1721695931) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
-4. 💬 Commented on [#34](https://github.com/BigWhaleLabs/ketl-landing/pull/34#discussion_r1386763122) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-5. 💬 Commented on [#34](https://github.com/BigWhaleLabs/ketl-landing/pull/34#discussion_r1386762867) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+2. 🎉 Merged PR [#51](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/51) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+3. 👍 Approved [#51](https://github.com/BigWhaleLabs/ketl-notifications-backend/pull/51#pullrequestreview-1722461196) in [BigWhaleLabs/ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)<br>
+4. 🎉 Merged PR [#11](https://github.com/BigWhaleLabs/metadata-generator/pull/11) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 9th, 2023, 12:30:59 PM
+Last Updated: Thursday, November 9th, 2023, 12:54:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
