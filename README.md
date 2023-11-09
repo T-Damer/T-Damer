@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#34](https://github.com/BigWhaleLabs/ketl-landing/pull/34#discussion_r1386763122) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-2. 💬 Commented on [#34](https://github.com/BigWhaleLabs/ketl-landing/pull/34#discussion_r1386762867) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-3. ⬆️ Pushed 6 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-4. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-5. 🎉 Merged PR [#33](https://github.com/BigWhaleLabs/ketl-landing/pull/33) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+1. 🎉 Merged PR [#11](https://github.com/BigWhaleLabs/metadata-generator/pull/11) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+3. 👍 Approved [#11](https://github.com/BigWhaleLabs/metadata-generator/pull/11#pullrequestreview-1721695931) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+4. 💬 Commented on [#34](https://github.com/BigWhaleLabs/ketl-landing/pull/34#discussion_r1386763122) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+5. 💬 Commented on [#34](https://github.com/BigWhaleLabs/ketl-landing/pull/34#discussion_r1386762867) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 9th, 2023, 4:57:00 AM
+Last Updated: Thursday, November 9th, 2023, 5:15:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
