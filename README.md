@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#9](https://github.com/BigWhaleLabs/ketl-email/pull/9) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-2. 💪 Opened PR [#14](https://github.com/BigWhaleLabs/seal-cred-email/pull/14) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)<br>
-3. 💪 Opened PR [#35](https://github.com/BigWhaleLabs/ketl-landing/pull/35) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
+1. 💪 Opened PR [#82](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/82) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. 💬 Commented on [#73](https://github.com/iden3/snarkjs/issues/73#issuecomment-1806849452) in [iden3/snarkjs](https://github.com/iden3/snarkjs)<br>
+3. 💪 Opened PR [#9](https://github.com/BigWhaleLabs/ketl-email/pull/9) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+4. 💪 Opened PR [#14](https://github.com/BigWhaleLabs/seal-cred-email/pull/14) in [BigWhaleLabs/seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)<br>
+5. 💪 Opened PR [#35](https://github.com/BigWhaleLabs/ketl-landing/pull/35) in [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 11th, 2023, 3:46:26 PM
+Last Updated: Saturday, November 11th, 2023, 3:56:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
