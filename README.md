@@ -74,14 +74,14 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-2. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.3.8) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
 3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-4. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.3.7) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+4. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.3.8) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
 5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 13th, 2023, 6:31:25 PM
+Last Updated: Monday, November 13th, 2023, 6:45:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
