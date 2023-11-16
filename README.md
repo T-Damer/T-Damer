@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#93](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/93) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)<br>
-2. 💪 Opened PR [#218](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/218) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
-3. 💪 Opened PR [#523](https://github.com/BigWhaleLabs/seal-cred-frontend/pull/523) in [BigWhaleLabs/seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
-5. ✌️ Released [](https://github.com/BigWhaleLabs/ketl-email/releases/tag/v0.4.3) in [BigWhaleLabs/ketl-email](https://github.com/BigWhaleLabs/ketl-email)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+2. 🎉 Merged PR [#83](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/83) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+3. 👍 Approved [#83](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/83#pullrequestreview-1735517785) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+4. 💪 Opened PR [#93](https://github.com/BigWhaleLabs/seal-hub-frontend/pull/93) in [BigWhaleLabs/seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)<br>
+5. 💪 Opened PR [#218](https://github.com/BigWhaleLabs/sealcaster-frontend/pull/218) in [BigWhaleLabs/sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 16th, 2023, 8:59:18 PM
+Last Updated: Thursday, November 16th, 2023, 9:16:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
