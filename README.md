@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
-2. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
-3. 💪 Opened PR [#13](https://github.com/BigWhaleLabs/metadata-generator/pull/13) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
-4. 💬 Commented on [#84](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/84#discussion_r1397375173) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
-5. 💬 Commented on [#84](https://github.com/BigWhaleLabs/ketl-zk-frontend/pull/84#discussion_r1397374706) in [BigWhaleLabs/ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)<br>
+1. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+2. 🎉 Merged PR [#13](https://github.com/BigWhaleLabs/metadata-generator/pull/13) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+3. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+5. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 17th, 2023, 9:16:17 PM
+Last Updated: Friday, November 17th, 2023, 9:26:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
