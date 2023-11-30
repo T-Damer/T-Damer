@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
-2. 🎉 Merged PR [#14](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/14) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
-3. 💪 Opened PR [#61](https://github.com/BigWhaleLabs/constants/pull/61) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-4. ⬆️ Pushed 1 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. ✌️ Released [](https://github.com/BigWhaleLabs/constants/releases/tag/v0.3.5) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+2. 🎉 Merged PR [#14](https://github.com/BigWhaleLabs/metadata-generator/pull/14) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+3. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. 🎉 Merged PR [#61](https://github.com/BigWhaleLabs/constants/pull/61) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 30th, 2023, 6:57:51 PM
+Last Updated: Thursday, November 30th, 2023, 7:13:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
