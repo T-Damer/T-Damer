@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
-2. 🎉 Merged PR [#14](https://github.com/BigWhaleLabs/metadata-generator/pull/14) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
-3. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-4. 🎉 Merged PR [#61](https://github.com/BigWhaleLabs/constants/pull/61) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
+1. 👍 Approved [#21](https://github.com/BigWhaleLabs/ketl-pfp-generator/pull/21#pullrequestreview-1759833723) in [BigWhaleLabs/ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)<br>
+2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+3. 🎉 Merged PR [#14](https://github.com/BigWhaleLabs/metadata-generator/pull/14) in [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+4. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. 🎉 Merged PR [#61](https://github.com/BigWhaleLabs/constants/pull/61) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 1st, 2023, 1:39:53 PM
+Last Updated: Friday, December 1st, 2023, 1:50:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
