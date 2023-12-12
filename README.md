@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#16](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/16#pullrequestreview-1777445365) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
-2. 💬 Commented on [#16](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/16#discussion_r1423976955) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
-3. 💬 Commented on [#16](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/16#discussion_r1423975851) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
-4. 💬 Commented on [#16](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/16#discussion_r1423974393) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
-5. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+1. ⬆️ Pushed 3 commit(s) to [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
+2. 🎉 Merged PR [#17](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/17) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
+3. 👍 Approved [#17](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/17#pullrequestreview-1777758122) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
+4. 👍 Approved [#16](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/16#pullrequestreview-1777445365) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
+5. 💬 Commented on [#16](https://github.com/BigWhaleLabs/obss-ipfs-uploader/pull/16#discussion_r1423976955) in [BigWhaleLabs/obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 12th, 2023, 3:17:16 PM
+Last Updated: Tuesday, December 12th, 2023, 3:28:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
