@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/neuro-tectonic](https://github.com/T-Damer/neuro-tectonic)<br>
-2. 📔 Created new repository [T-Damer/neuro-tectonic](https://github.com/T-Damer/neuro-tectonic)<br>
-3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-4. 🎉 Merged PR [#64](https://github.com/BigWhaleLabs/attestor/pull/64) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-5. 💪 Opened PR [#64](https://github.com/BigWhaleLabs/attestor/pull/64) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+1. ⬆️ Pushed 5 commit(s) to [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/neuro-tectonic](https://github.com/T-Damer/neuro-tectonic)<br>
+3. 📔 Created new repository [T-Damer/neuro-tectonic](https://github.com/T-Damer/neuro-tectonic)<br>
+4. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
+5. 🎉 Merged PR [#64](https://github.com/BigWhaleLabs/attestor/pull/64) in [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 14th, 2023, 6:17:42 PM
+Last Updated: Thursday, December 14th, 2023, 6:31:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
