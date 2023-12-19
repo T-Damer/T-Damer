@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)<br>
-2. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)<br>
-3. 🎉 Merged PR [#23](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/23) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)<br>
-4. ❌ Closed PR [#20](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/20) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)<br>
-5. 💪 Opened PR [#23](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/23) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)<br>
+1. ⭐ Starred [krthush/link-preview](https://github.com/krthush/link-preview)<br>
+2. ⭐ Starred [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)<br>
+3. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)<br>
+4. 🎉 Merged PR [#23](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/23) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)<br>
+5. ❌ Closed PR [#20](https://github.com/BigWhaleLabs/seal-cred-peek-frontend/pull/20) in [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 19th, 2023, 8:46:10 PM
+Last Updated: Tuesday, December 19th, 2023, 8:56:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
