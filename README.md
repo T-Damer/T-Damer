@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#65](https://github.com/BigWhaleLabs/constants/pull/65) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-2. ✌️ Released [](https://github.com/BigWhaleLabs/constants/releases/tag/v0.3.8) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
-3. ⭐ Starred [krthush/link-preview](https://github.com/krthush/link-preview)<br>
-4. ⭐ Starred [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)<br>
-5. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)<br>
+1. ⬆️ Pushed 2 commit(s) to [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+2. 🎉 Merged PR [#65](https://github.com/BigWhaleLabs/constants/pull/65) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+3. 💪 Opened PR [#65](https://github.com/BigWhaleLabs/constants/pull/65) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+4. ✌️ Released [](https://github.com/BigWhaleLabs/constants/releases/tag/v0.3.8) in [BigWhaleLabs/constants](https://github.com/BigWhaleLabs/constants)<br>
+5. ⭐ Starred [krthush/link-preview](https://github.com/krthush/link-preview)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 24th, 2023, 12:32:18 PM
+Last Updated: Sunday, December 24th, 2023, 12:52:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
