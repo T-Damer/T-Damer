@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [STJr/SRB2](https://github.com/STJr/SRB2)<br>
-2. ⬆️ Pushed 1 commit(s) to [noteraCR/todo_react_ts](https://github.com/noteraCR/todo_react_ts)<br>
-3. ⬆️ Pushed 2 commit(s) to [noteraCR/todo_react_ts](https://github.com/noteraCR/todo_react_ts)<br>
-4. ⭐ Starred [id-Software/DOOM](https://github.com/id-Software/DOOM)<br>
-5. 💬 Commented on [#931](https://github.com/Shopify/flash-list/pull/931#discussion_r1444236538) in [Shopify/flash-list](https://github.com/Shopify/flash-list)<br>
+1. ⭐ Starred [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
+3. ⭐ Starred [STJr/SRB2](https://github.com/STJr/SRB2)<br>
+4. ⬆️ Pushed 1 commit(s) to [noteraCR/todo_react_ts](https://github.com/noteraCR/todo_react_ts)<br>
+5. ⬆️ Pushed 2 commit(s) to [noteraCR/todo_react_ts](https://github.com/noteraCR/todo_react_ts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 14th, 2024, 9:16:06 PM
+Last Updated: Sunday, January 14th, 2024, 9:26:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
