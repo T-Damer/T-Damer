@@ -13,6 +13,8 @@
 
 [![monkeytype.badge]](https://monkeytype.com/profile/t_damer)
 
+<!-- ![visits.badge](https://komarev.com/ghpvc/?T-Damer&color=ffcc33&style=flat-square&base=42) -->
+
 ---
 
 ## I'm Developer 💻
@@ -105,3 +107,4 @@ Last Updated: Friday, January 26th, 2024, 10:55:56 AM
 [linkedin]: https://linkedin.com/in/t-damer
 [thisrepo]: https://github.com/T-Damer/
 [monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh?message=90wpm
+![](https://hit.yhype.me/github/profile?user_id=49658988)
