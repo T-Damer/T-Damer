@@ -77,11 +77,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-5. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)<br>
+1. ⭐ Starred [wasmerio/wasmer](https://github.com/wasmerio/wasmer)<br>
+2. ⭐ Starred [wez/wezterm](https://github.com/wez/wezterm)<br>
+3. ⭐ Starred [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app)<br>
+4. ⭐ Starred [raphamorim/rio](https://github.com/raphamorim/rio)<br>
+5. ⭐ Starred [rust-lang/mdBook](https://github.com/rust-lang/mdBook)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
