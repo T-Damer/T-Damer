@@ -73,15 +73,15 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spieglt/Cloaker](https://github.com/spieglt/Cloaker)<br>
-2. ⭐ Starred [sbrin/lopaka](https://github.com/sbrin/lopaka)<br>
-3. ⭐ Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)<br>
-4. ⭐ Starred [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)<br>
-5. ⭐ Starred [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
+1. ⭐ Starred [Phazorknight/Cogito](https://github.com/Phazorknight/Cogito)<br>
+2. ⭐ Starred [spieglt/Cloaker](https://github.com/spieglt/Cloaker)<br>
+3. ⭐ Starred [sbrin/lopaka](https://github.com/sbrin/lopaka)<br>
+4. ⭐ Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)<br>
+5. ⭐ Starred [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 26th, 2024, 10:18:44 AM
+Last Updated: Friday, January 26th, 2024, 10:31:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
