@@ -77,11 +77,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rwf2/Rocket](https://github.com/rwf2/Rocket)<br>
-2. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)<br>
-3. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
-4. ⭐ Starred [obhq/obliteration](https://github.com/obhq/obliteration)<br>
-5. ⭐ Starred [hikari-no-yume/touchHLE](https://github.com/hikari-no-yume/touchHLE)<br>
+1. ⭐ Starred [olegos2/mobox](https://github.com/olegos2/mobox)<br>
+2. ⭐ Starred [rwf2/Rocket](https://github.com/rwf2/Rocket)<br>
+3. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)<br>
+4. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
+5. ⭐ Starred [obhq/obliteration](https://github.com/obhq/obliteration)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
