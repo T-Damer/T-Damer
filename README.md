@@ -77,11 +77,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
-2. ⭐ Starred [koekeishiya/yabai](https://github.com/koekeishiya/yabai)<br>
-3. ⭐ Starred [olegos2/mobox](https://github.com/olegos2/mobox)<br>
-4. ⭐ Starred [rwf2/Rocket](https://github.com/rwf2/Rocket)<br>
-5. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)<br>
+1. ⭐ Starred [illacloud/illa-builder](https://github.com/illacloud/illa-builder)<br>
+2. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
+3. ⭐ Starred [koekeishiya/yabai](https://github.com/koekeishiya/yabai)<br>
+4. ⭐ Starred [olegos2/mobox](https://github.com/olegos2/mobox)<br>
+5. ⭐ Starred [rwf2/Rocket](https://github.com/rwf2/Rocket)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
