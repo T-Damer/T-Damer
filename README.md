@@ -77,11 +77,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [illacloud/illa-builder](https://github.com/illacloud/illa-builder)<br>
-2. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
-3. ⭐ Starred [koekeishiya/yabai](https://github.com/koekeishiya/yabai)<br>
-4. ⭐ Starred [olegos2/mobox](https://github.com/olegos2/mobox)<br>
-5. ⭐ Starred [rwf2/Rocket](https://github.com/rwf2/Rocket)<br>
+1. ⭐ Starred [xenova/transformers.js](https://github.com/xenova/transformers.js)<br>
+2. ⭐ Starred [illacloud/illa-builder](https://github.com/illacloud/illa-builder)<br>
+3. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
+4. ⭐ Starred [koekeishiya/yabai](https://github.com/koekeishiya/yabai)<br>
+5. ⭐ Starred [olegos2/mobox](https://github.com/olegos2/mobox)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
