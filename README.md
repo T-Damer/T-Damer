@@ -104,5 +104,5 @@
 [instagram]: https://www.instagram.com/t_damer/
 [linkedin]: https://linkedin.com/in/t-damer
 [thisrepo]: https://github.com/T-Damer/
-[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh?message=90wpm
+[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh?message=100wpm
 ![](https://hit.yhype.me/github/profile?user_id=49658988)
