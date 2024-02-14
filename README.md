@@ -77,11 +77,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AkhilSharma90/Rust-Compress](https://github.com/AkhilSharma90/Rust-Compress)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-3. ⭐ Starred [xenova/transformers.js](https://github.com/xenova/transformers.js)<br>
-4. ⭐ Starred [illacloud/illa-builder](https://github.com/illacloud/illa-builder)<br>
-5. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
+1. ⭐ Starred [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap)<br>
+2. ⭐ Starred [AkhilSharma90/Rust-Compress](https://github.com/AkhilSharma90/Rust-Compress)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
+4. ⭐ Starred [xenova/transformers.js](https://github.com/xenova/transformers.js)<br>
+5. ⭐ Starred [illacloud/illa-builder](https://github.com/illacloud/illa-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
