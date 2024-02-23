@@ -78,11 +78,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Hillobar/Rope](https://github.com/Hillobar/Rope)<br>
-2. ⭐ Starred [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap)<br>
-3. ⭐ Starred [AkhilSharma90/Rust-Compress](https://github.com/AkhilSharma90/Rust-Compress)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-5. ⭐ Starred [xenova/transformers.js](https://github.com/xenova/transformers.js)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
+2. ⭐ Starred [Hillobar/Rope](https://github.com/Hillobar/Rope)<br>
+3. ⭐ Starred [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap)<br>
+4. ⭐ Starred [AkhilSharma90/Rust-Compress](https://github.com/AkhilSharma90/Rust-Compress)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
