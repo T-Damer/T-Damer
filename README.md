@@ -78,11 +78,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
+1. 📔 Created new repository [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
+2. ⭐ Starred [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
-4. 📔 Created new repository [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
-5. ⭐ Starred [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
+5. 📔 Created new repository [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
