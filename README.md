@@ -78,11 +78,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pa1nki113r/Project_Brutality](https://github.com/pa1nki113r/Project_Brutality)<br>
-2. ⭐ Starred [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)<br>
-3. 📔 Created new repository [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
-4. ⭐ Starred [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
+3. ⭐ Starred [pa1nki113r/Project_Brutality](https://github.com/pa1nki113r/Project_Brutality)<br>
+4. ⭐ Starred [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)<br>
+5. 📔 Created new repository [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
