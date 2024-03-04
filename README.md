@@ -78,11 +78,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Vaneshik/AI-Challenge-2023](https://github.com/Vaneshik/AI-Challenge-2023)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
-4. ⭐ Starred [pa1nki113r/Project_Brutality](https://github.com/pa1nki113r/Project_Brutality)<br>
-5. ⭐ Starred [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
+2. ⭐ Starred [Vaneshik/AI-Challenge-2023](https://github.com/Vaneshik/AI-Challenge-2023)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
+5. ⭐ Starred [pa1nki113r/Project_Brutality](https://github.com/pa1nki113r/Project_Brutality)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
