@@ -78,11 +78,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
-3. ⭐ Starred [Vaneshik/AI-Challenge-2023](https://github.com/Vaneshik/AI-Challenge-2023)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
+4. ⭐ Starred [Vaneshik/AI-Challenge-2023](https://github.com/Vaneshik/AI-Challenge-2023)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
