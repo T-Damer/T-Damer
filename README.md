@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [not-fl3/macroquad](https://github.com/not-fl3/macroquad)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
+2. ⭐ Starred [not-fl3/macroquad](https://github.com/not-fl3/macroquad)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
-4. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
+5. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
