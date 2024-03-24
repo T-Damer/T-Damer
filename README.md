@@ -20,10 +20,13 @@
 
 ## I'm Developer 💻
 
-- ⌨️ I am MERN+RN+Blockchain Developer
-- 🦀 Learning Rust and improving React-Native-Web skills
-- 🏹 2024 Goals: learn React-Native animations and create cool Rust project
-- ✏️ I love to make photos and designs sometimes
+⌨️ I am MERN+RN+Blockchain Developer
+
+🦀 Learning Rust and improving React-Native-Web skills
+
+🏹 2024 Goals: learn React-Native animations and create cool Rust project
+
+✏️ I love to make photos and designs sometimes
 
 <!-- ## Contact me:
 <img style="margin: 5px" align="left" alt="T.DaM∑R | Discord" width="50px" src="https://user-images.githubusercontent.com/49658988/147961619-e55ef10b-ac9a-42e9-b0ea-eea37e5b6674.png" />][discord]
