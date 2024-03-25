@@ -84,8 +84,8 @@
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
-4. 📔 Created new repository [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
