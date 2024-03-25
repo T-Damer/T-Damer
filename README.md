@@ -81,10 +81,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-3. ⭐ Starred [not-fl3/macroquad](https://github.com/not-fl3/macroquad)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+2. 📔 Created new repository [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
+4. ⭐ Starred [not-fl3/macroquad](https://github.com/not-fl3/macroquad)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/expo-starter](https://github.com/T-Damer/expo-starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
