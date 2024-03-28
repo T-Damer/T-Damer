@@ -81,7 +81,7 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+1. ⬆️ Pushed 2 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
