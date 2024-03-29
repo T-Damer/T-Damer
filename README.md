@@ -81,10 +81,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+1. ❌ Closed PR [#1](https://github.com/T-Damer/vac-calendar/pull/1) in [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+2. ❌ Closed PR [#4](https://github.com/T-Damer/vac-calendar/pull/4) in [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+3. ❌ Closed PR [#2](https://github.com/T-Damer/vac-calendar/pull/2) in [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+4. ❌ Closed PR [#3](https://github.com/T-Damer/vac-calendar/pull/3) in [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
 <!--RECENT_ACTIVITY:end-->
 
