@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gyf304/ethminer-m1](https://github.com/gyf304/ethminer-m1)<br>
-2. ⭐ Starred [Chainfire/UselethMiner](https://github.com/Chainfire/UselethMiner)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
-4. ❌ Closed PR [#1](https://github.com/T-Damer/vac-calendar/pull/1) in [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
-5. ❌ Closed PR [#4](https://github.com/T-Damer/vac-calendar/pull/4) in [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+1. ⭐ Starred [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)<br>
+2. ⭐ Starred [gyf304/ethminer-m1](https://github.com/gyf304/ethminer-m1)<br>
+3. ⭐ Starred [Chainfire/UselethMiner](https://github.com/Chainfire/UselethMiner)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+5. ❌ Closed PR [#1](https://github.com/T-Damer/vac-calendar/pull/1) in [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
