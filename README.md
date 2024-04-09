@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot)<br>
-2. ⭐ Starred [backmeupplz/conspiracy-contract](https://github.com/backmeupplz/conspiracy-contract)<br>
-3. ⭐ Starred [7rulnik/gtlb-job-log-viewer](https://github.com/7rulnik/gtlb-job-log-viewer)<br>
-4. ⭐ Starred [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)<br>
-5. ⭐ Starred [gyf304/ethminer-m1](https://github.com/gyf304/ethminer-m1)<br>
+1. ⭐ Starred [tapexyz/tape](https://github.com/tapexyz/tape)<br>
+2. ⭐ Starred [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot)<br>
+3. ⭐ Starred [backmeupplz/conspiracy-contract](https://github.com/backmeupplz/conspiracy-contract)<br>
+4. ⭐ Starred [7rulnik/gtlb-job-log-viewer](https://github.com/7rulnik/gtlb-job-log-viewer)<br>
+5. ⭐ Starred [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
