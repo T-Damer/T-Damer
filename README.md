@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [guildxyz/guild.xyz](https://github.com/guildxyz/guild.xyz)<br>
-2. ⭐ Starred [tapexyz/tape](https://github.com/tapexyz/tape)<br>
-3. ⭐ Starred [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot)<br>
-4. ⭐ Starred [backmeupplz/conspiracy-contract](https://github.com/backmeupplz/conspiracy-contract)<br>
-5. ⭐ Starred [7rulnik/gtlb-job-log-viewer](https://github.com/7rulnik/gtlb-job-log-viewer)<br>
+1. ⭐ Starred [thirdweb-dev/thirdweb-engine-farcaster-frame](https://github.com/thirdweb-dev/thirdweb-engine-farcaster-frame)<br>
+2. ⭐ Starred [guildxyz/guild.xyz](https://github.com/guildxyz/guild.xyz)<br>
+3. ⭐ Starred [tapexyz/tape](https://github.com/tapexyz/tape)<br>
+4. ⭐ Starred [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot)<br>
+5. ⭐ Starred [backmeupplz/conspiracy-contract](https://github.com/backmeupplz/conspiracy-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
