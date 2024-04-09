@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [7rulnik/gtlb-job-log-viewer](https://github.com/7rulnik/gtlb-job-log-viewer)<br>
-2. ⭐ Starred [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)<br>
-3. ⭐ Starred [gyf304/ethminer-m1](https://github.com/gyf304/ethminer-m1)<br>
-4. ⭐ Starred [Chainfire/UselethMiner](https://github.com/Chainfire/UselethMiner)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/vac-calendar](https://github.com/T-Damer/vac-calendar)<br>
+1. ⭐ Starred [backmeupplz/conspiracy-contract](https://github.com/backmeupplz/conspiracy-contract)<br>
+2. ⭐ Starred [7rulnik/gtlb-job-log-viewer](https://github.com/7rulnik/gtlb-job-log-viewer)<br>
+3. ⭐ Starred [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)<br>
+4. ⭐ Starred [gyf304/ethminer-m1](https://github.com/gyf304/ethminer-m1)<br>
+5. ⭐ Starred [Chainfire/UselethMiner](https://github.com/Chainfire/UselethMiner)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
