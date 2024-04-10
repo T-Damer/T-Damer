@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Borodutch/smart-contract-starter](https://github.com/Borodutch/smart-contract-starter)<br>
-2. ⭐ Starred [thirdweb-dev/thirdweb-engine-farcaster-frame](https://github.com/thirdweb-dev/thirdweb-engine-farcaster-frame)<br>
-3. ⭐ Starred [guildxyz/guild.xyz](https://github.com/guildxyz/guild.xyz)<br>
-4. ⭐ Starred [tapexyz/tape](https://github.com/tapexyz/tape)<br>
-5. ⭐ Starred [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot)<br>
+1. ⭐ Starred [japaric/syscall.rs](https://github.com/japaric/syscall.rs)<br>
+2. ⭐ Starred [SteveLauC/fs](https://github.com/SteveLauC/fs)<br>
+3. ⭐ Starred [framesjs/frames.js](https://github.com/framesjs/frames.js)<br>
+4. ⭐ Starred [Borodutch/smart-contract-starter](https://github.com/Borodutch/smart-contract-starter)<br>
+5. ⭐ Starred [thirdweb-dev/thirdweb-engine-farcaster-frame](https://github.com/thirdweb-dev/thirdweb-engine-farcaster-frame)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
