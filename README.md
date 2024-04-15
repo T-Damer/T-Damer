@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BigWhaleLabs/botcaster](https://github.com/BigWhaleLabs/botcaster)<br>
-2. ⭐ Starred [japaric/syscall.rs](https://github.com/japaric/syscall.rs)<br>
-3. ⭐ Starred [SteveLauC/fs](https://github.com/SteveLauC/fs)<br>
-4. ⭐ Starred [framesjs/frames.js](https://github.com/framesjs/frames.js)<br>
-5. ⭐ Starred [Borodutch/smart-contract-starter](https://github.com/Borodutch/smart-contract-starter)<br>
+1. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
+2. ⭐ Starred [BigWhaleLabs/botcaster](https://github.com/BigWhaleLabs/botcaster)<br>
+3. ⭐ Starred [japaric/syscall.rs](https://github.com/japaric/syscall.rs)<br>
+4. ⭐ Starred [SteveLauC/fs](https://github.com/SteveLauC/fs)<br>
+5. ⭐ Starred [framesjs/frames.js](https://github.com/framesjs/frames.js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
