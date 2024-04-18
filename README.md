@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
-2. ⭐ Starred [BigWhaleLabs/botcaster](https://github.com/BigWhaleLabs/botcaster)<br>
-3. ⭐ Starred [japaric/syscall.rs](https://github.com/japaric/syscall.rs)<br>
-4. ⭐ Starred [SteveLauC/fs](https://github.com/SteveLauC/fs)<br>
-5. ⭐ Starred [framesjs/frames.js](https://github.com/framesjs/frames.js)<br>
+1. ⭐ Starred [xenia-project/xenia](https://github.com/xenia-project/xenia)<br>
+2. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
+3. ⭐ Starred [BigWhaleLabs/botcaster](https://github.com/BigWhaleLabs/botcaster)<br>
+4. ⭐ Starred [japaric/syscall.rs](https://github.com/japaric/syscall.rs)<br>
+5. ⭐ Starred [SteveLauC/fs](https://github.com/SteveLauC/fs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
