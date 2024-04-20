@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hyperbx/Unleashed-Mod-Manager](https://github.com/hyperbx/Unleashed-Mod-Manager)<br>
-2. ⭐ Starred [strato-emu/strato](https://github.com/strato-emu/strato)<br>
-3. ⭐ Starred [xenia-project/xenia](https://github.com/xenia-project/xenia)<br>
-4. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
-5. ⭐ Starred [BigWhaleLabs/botcaster](https://github.com/BigWhaleLabs/botcaster)<br>
+1. ⭐ Starred [a16z/awesome-farcaster](https://github.com/a16z/awesome-farcaster)<br>
+2. ⭐ Starred [hyperbx/Unleashed-Mod-Manager](https://github.com/hyperbx/Unleashed-Mod-Manager)<br>
+3. ⭐ Starred [strato-emu/strato](https://github.com/strato-emu/strato)<br>
+4. ⭐ Starred [xenia-project/xenia](https://github.com/xenia-project/xenia)<br>
+5. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
