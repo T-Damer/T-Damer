@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 33 commit(s) to [T-Damer/birth-helper](https://github.com/T-Damer/birth-helper)<br>
-2. ⬆️ Pushed 32 commit(s) to [T-Damer/birth-helper](https://github.com/T-Damer/birth-helper)<br>
-3. 📔 Created new repository [T-Damer/birth-helper](https://github.com/T-Damer/birth-helper)<br>
-4. ⭐ Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)<br>
-5. ⭐ Starred [a16z/awesome-farcaster](https://github.com/a16z/awesome-farcaster)<br>
+1. ⬆️ Pushed 0 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+2. ⬆️ Pushed 2 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+3. 🎉 Merged PR [#7](https://github.com/T-Damer/birth-history/pull/7) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+4. 💪 Opened PR [#7](https://github.com/T-Damer/birth-history/pull/7) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+5. ⬆️ Pushed 34 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
