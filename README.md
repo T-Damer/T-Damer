@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#931](https://github.com/Shopify/flash-list/pull/931#pullrequestreview-2021457752) in [Shopify/flash-list](https://github.com/Shopify/flash-list)<br>
-2. ⬆️ Pushed 0 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-3. ⬆️ Pushed 2 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-4. 🎉 Merged PR [#7](https://github.com/T-Damer/birth-history/pull/7) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-5. 💪 Opened PR [#7](https://github.com/T-Damer/birth-history/pull/7) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+2. 👍 Approved [#931](https://github.com/Shopify/flash-list/pull/931#pullrequestreview-2021457752) in [Shopify/flash-list](https://github.com/Shopify/flash-list)<br>
+3. ⬆️ Pushed 0 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+4. ⬆️ Pushed 2 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+5. 🎉 Merged PR [#7](https://github.com/T-Damer/birth-history/pull/7) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
