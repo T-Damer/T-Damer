@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [personaelabs/efficient-zk-ecdsa](https://github.com/personaelabs/efficient-zk-ecdsa)<br>
-2. ⬆️ Pushed 33 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
-3. ⬆️ Pushed 32 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
-4. 📔 Created new repository [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
-5. ⭐ Starred [KartKrewDev/RingRacers](https://github.com/KartKrewDev/RingRacers)<br>
+1. ⭐ Starred [backmeupplz/mintit-backend](https://github.com/backmeupplz/mintit-backend)<br>
+2. ⭐ Starred [personaelabs/efficient-zk-ecdsa](https://github.com/personaelabs/efficient-zk-ecdsa)<br>
+3. ⬆️ Pushed 33 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+4. ⬆️ Pushed 32 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+5. 📔 Created new repository [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
