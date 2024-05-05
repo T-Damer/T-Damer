@@ -84,8 +84,8 @@
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
-4. ⭐ Starred [backmeupplz/mintit-backend](https://github.com/backmeupplz/mintit-backend)<br>
-5. ⭐ Starred [personaelabs/efficient-zk-ecdsa](https://github.com/personaelabs/efficient-zk-ecdsa)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+5. ⭐ Starred [backmeupplz/mintit-backend](https://github.com/backmeupplz/mintit-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
