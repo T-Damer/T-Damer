@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+1. ⭐ Starred [KodyJKing/hello-threejs](https://github.com/KodyJKing/hello-threejs)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
-5. ⭐ Starred [backmeupplz/mintit-backend](https://github.com/backmeupplz/mintit-backend)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
