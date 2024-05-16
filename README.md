@@ -81,10 +81,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rt64/rt64](https://github.com/rt64/rt64)<br>
-2. ⭐ Starred [Mr-Wiseguy/Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp)<br>
-3. ⭐ Starred [KodyJKing/hello-threejs](https://github.com/KodyJKing/hello-threejs)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+2. ⭐ Starred [rt64/rt64](https://github.com/rt64/rt64)<br>
+3. ⭐ Starred [Mr-Wiseguy/Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp)<br>
+4. ⭐ Starred [KodyJKing/hello-threejs](https://github.com/KodyJKing/hello-threejs)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 <!--RECENT_ACTIVITY:end-->
 
