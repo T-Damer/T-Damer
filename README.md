@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/neged](https://github.com/T-Damer/neged)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
-3. ⭐ Starred [rt64/rt64](https://github.com/rt64/rt64)<br>
-4. ⭐ Starred [Mr-Wiseguy/Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp)<br>
-5. ⭐ Starred [KodyJKing/hello-threejs](https://github.com/KodyJKing/hello-threejs)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/neged](https://github.com/T-Damer/neged)<br>
+2. 📔 Created new repository [T-Damer/neged](https://github.com/T-Damer/neged)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+4. ⭐ Starred [rt64/rt64](https://github.com/rt64/rt64)<br>
+5. ⭐ Starred [Mr-Wiseguy/Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
