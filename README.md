@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/neged](https://github.com/T-Damer/neged)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+2. ⭐ Starred [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/neged](https://github.com/T-Damer/neged)<br>
-4. 📔 Created new repository [T-Damer/neged](https://github.com/T-Damer/neged)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/neged](https://github.com/T-Damer/neged)<br>
+5. 📔 Created new repository [T-Damer/neged](https://github.com/T-Damer/neged)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
