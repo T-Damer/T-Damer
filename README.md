@@ -83,8 +83,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
-3. ⭐ Starred [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/neged](https://github.com/T-Damer/neged)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+4. ⭐ Starred [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/neged](https://github.com/T-Damer/neged)<br>
 <!--RECENT_ACTIVITY:end-->
 
