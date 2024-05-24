@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ivcained/CastVivaldi-Farcaster-Cast-to-Song-Action](https://github.com/ivcained/CastVivaldi-Farcaster-Cast-to-Song-Action)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+1. ⭐ Starred [Priler/csgobot](https://github.com/Priler/csgobot)<br>
+2. ⭐ Starred [ivcained/CastVivaldi-Farcaster-Cast-to-Song-Action](https://github.com/ivcained/CastVivaldi-Farcaster-Cast-to-Song-Action)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
-5. ⭐ Starred [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
