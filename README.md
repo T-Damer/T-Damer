@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers)<br>
-2. 💪 Opened PR [#3](https://github.com/MrSaints/base-camp/pull/3) in [MrSaints/base-camp](https://github.com/MrSaints/base-camp)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers)<br>
-4. 🔱 Forked [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers) from [MrSaints/base-camp](https://github.com/MrSaints/base-camp)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers)<br>
+1. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers)<br>
+3. 💪 Opened PR [#3](https://github.com/MrSaints/base-camp/pull/3) in [MrSaints/base-camp](https://github.com/MrSaints/base-camp)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers)<br>
+5. 🔱 Forked [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers) from [MrSaints/base-camp](https://github.com/MrSaints/base-camp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
