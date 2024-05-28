@@ -82,10 +82,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers)<br>
-2. 🔱 Forked [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers) from [MrSaints/base-camp](https://github.com/MrSaints/base-camp)<br>
+2. 💪 Opened PR [#3](https://github.com/MrSaints/base-camp/pull/3) in [MrSaints/base-camp](https://github.com/MrSaints/base-camp)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers)<br>
-4. ⭐ Starred [MrSaints/base-camp](https://github.com/MrSaints/base-camp)<br>
-5. ⭐ Starred [emilkowalski/sonner](https://github.com/emilkowalski/sonner)<br>
+4. 🔱 Forked [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers) from [MrSaints/base-camp](https://github.com/MrSaints/base-camp)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/base-camp-answers](https://github.com/T-Damer/base-camp-answers)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
