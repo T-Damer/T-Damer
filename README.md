@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
-2. 💪 Opened PR [#109](https://github.com/BigWhaleLabs/bigwhalelabs/pull/109) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
-4. 🔱 Forked [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs) from [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
-5. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)<br>
+1. ⭐ Starred [backmeupplz/castles-contract](https://github.com/backmeupplz/castles-contract)<br>
+2. ⭐ Starred [backmeupplz/castles-frontend](https://github.com/backmeupplz/castles-frontend)<br>
+3. ⭐ Starred [backmeupplz/castles-backend](https://github.com/backmeupplz/castles-backend)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
+5. 💪 Opened PR [#109](https://github.com/BigWhaleLabs/bigwhalelabs/pull/109) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
