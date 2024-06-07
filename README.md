@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [backmeupplz/castles-contract](https://github.com/backmeupplz/castles-contract)<br>
-2. ⭐ Starred [backmeupplz/castles-frontend](https://github.com/backmeupplz/castles-frontend)<br>
-3. ⭐ Starred [backmeupplz/castles-backend](https://github.com/backmeupplz/castles-backend)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
-5. 💪 Opened PR [#109](https://github.com/BigWhaleLabs/bigwhalelabs/pull/109) in [BigWhaleLabs/bigwhalelabs](https://github.com/BigWhaleLabs/bigwhalelabs)<br>
+1. ⭐ Starred [BigWhaleLabs/lunchbreak-seats-contract](https://github.com/BigWhaleLabs/lunchbreak-seats-contract)<br>
+2. ⭐ Starred [backmeupplz/castles-contract](https://github.com/backmeupplz/castles-contract)<br>
+3. ⭐ Starred [backmeupplz/castles-frontend](https://github.com/backmeupplz/castles-frontend)<br>
+4. ⭐ Starred [backmeupplz/castles-backend](https://github.com/backmeupplz/castles-backend)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
