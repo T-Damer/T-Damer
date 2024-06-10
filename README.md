@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)<br>
-2. ⭐ Starred [BigWhaleLabs/lunchbreak-seats-contract](https://github.com/BigWhaleLabs/lunchbreak-seats-contract)<br>
-3. ⭐ Starred [backmeupplz/castles-contract](https://github.com/backmeupplz/castles-contract)<br>
-4. ⭐ Starred [backmeupplz/castles-frontend](https://github.com/backmeupplz/castles-frontend)<br>
-5. ⭐ Starred [backmeupplz/castles-backend](https://github.com/backmeupplz/castles-backend)<br>
+1. ⭐ Starred [efstathiosntonas/react-native-style-libraries-benchmark](https://github.com/efstathiosntonas/react-native-style-libraries-benchmark)<br>
+2. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)<br>
+3. ⭐ Starred [BigWhaleLabs/lunchbreak-seats-contract](https://github.com/BigWhaleLabs/lunchbreak-seats-contract)<br>
+4. ⭐ Starred [backmeupplz/castles-contract](https://github.com/backmeupplz/castles-contract)<br>
+5. ⭐ Starred [backmeupplz/castles-frontend](https://github.com/backmeupplz/castles-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
