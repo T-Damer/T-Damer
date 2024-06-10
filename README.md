@@ -101,6 +101,8 @@
 
 <a href='https://ko-fi.com/L4L27UGGE' target='_blank'><img width='125' src='https://user-images.githubusercontent.com/49658988/160226750-01f3ff68-7fce-47ec-9ff5-cec270029351.png' alt='Buy Me a Coffee at ko-fi.com' style="margin: 5px" align="left"/></a>
 
+<a href='https://app.payflow.me/0x6c9e4f9e8ca34743c3926131dff919bd9d934c9e?pay' target='_blank'><img width='123' src='https://github.com/T-Damer/T-Damer/assets/49658988/fd5bb1ec-b26f-49b6-9a0e-729610c27286.png' alt='Donate via WEB3' /></a>
+
 
 [website]: https://t-damer.github.io/myPortfolio/#/
 [discord]: https://discord.com/users/287475060493516810
