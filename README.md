@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/buildFuture](https://github.com/T-Damer/buildFuture)<br>
-2. ⭐ Starred [yandex/YaFSDP](https://github.com/yandex/YaFSDP)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-4. ⭐ Starred [efstathiosntonas/react-native-style-libraries-benchmark](https://github.com/efstathiosntonas/react-native-style-libraries-benchmark)<br>
-5. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)<br>
+1. 📔 Created new repository [T-Damer/build-future](https://github.com/T-Damer/build-future)<br>
+2. 📔 Created new repository [T-Damer/buildFuture](https://github.com/T-Damer/buildFuture)<br>
+3. ⭐ Starred [yandex/YaFSDP](https://github.com/yandex/YaFSDP)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
+5. ⭐ Starred [efstathiosntonas/react-native-style-libraries-benchmark](https://github.com/efstathiosntonas/react-native-style-libraries-benchmark)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
