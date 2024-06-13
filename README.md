@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Daniil Pankov - aka <a href="https://taplink.cc/1_damer">T_DaMER :godmode:</a></h1> 
+<h1 align="center">Hi 👋 I'm Daniil Pankov - aka <a href="https://taplink.cc/1_damer">T_DaMER :godmode:</a></h1> 
 
 <a href="https://www.producthunt.com/posts/ketl?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ketl" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=425326&theme=dark" alt="ketl - Exclusive&#0032;anonymous&#0032;app&#0032;for&#0032;founders&#0032;and&#0032;VCs | Product Hunt" style="width: 125px; height: 27px;" width="125" height="27" /></a>
 
@@ -8,25 +8,26 @@
 
 <!-- <a href="https://www.hackthebox.com/badge/image/1376915 -->
 
-<a href="https://www.codewars.com/users/T_DaMER/"><img src="https://www.codewars.com/users/T_DaMER/badges/large" height="28px" alt="Daniil Pankov on Codewars" title="Daniil Pankov on Codewars"></a> 
+<!-- <a href="https://www.codewars.com/users/T_DaMER/"><img src="https://www.codewars.com/users/T_DaMER/badges/large" height="28px" alt="Daniil Pankov on Codewars" title="Daniil Pankov on Codewars"></a> -->
 
-<a href="https://leetcode.com/T-Damer/" ><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FT-Damer&logo=leetcode&logoColor=yellow" alt="Daniil Pankov on LeetCode" title="Daniil Pankov on LeetCode" /> </a>
+<!-- <a href="https://leetcode.com/T-Damer/" ><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FT-Damer&logo=leetcode&logoColor=yellow" alt="Daniil Pankov on LeetCode" title="Daniil Pankov on LeetCode" /> </a> -->
 
-[![monkeytype.badge]](https://monkeytype.com/profile/t_damer)
+<!-- [![monkeytype.badge]](https://monkeytype.com/profile/t_damer) -->
 
 <!-- ![visits.badge](https://komarev.com/ghpvc/?T-Damer&color=ffcc33&style=flat-square&base=42) -->
 
----
+## DEV route 🛣
 
-## I'm Developer 💻
+🟠 Worked at [Borodutch Labs](borodutch.com)
 
-⌨️ I am MERN+RN+Blockchain Developer
+🟠🟠 Made [dosu.io](dosu.io) - a web3 social network with invite system build on Merkle Trees
 
-🦀 Learning Rust and improving React-Native-Web skills
+🟣 Worked at [Big Whale Labs](bwl.gg) for 3 years
 
-🏹 2024 Goals: learn React-Native animations and create cool Rust project
+🟣🟣 Worked on ZK solutions to proff ownership of NFTs and post anonymously to Farcaster and Twitter (with a proof of ownage): [sealcred.xyz](sealcred.xyz), [sealcaster.xyz](sealcaster.xyz), [echo.sealcred.xyz](echo.sealcred.xyz)
 
-✏️ I love to make photos and designs sometimes
+🟣🟣 Worked on WEB3 social app for VCs, YCs and Founders: [ketl.xyz](ketl.xyz). Used React-Native with Expo to create mobile-native expirience with a [web version](app.ketl.xyz/1/1) for desktops. Launched it on [ProducHunt](https://www.producthunt.com/posts/ketl?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ketl)
+
 
 <!-- ## Contact me:
 <img style="margin: 5px" align="left" alt="T.DaM∑R | Discord" width="50px" src="https://user-images.githubusercontent.com/49658988/147961619-e55ef10b-ac9a-42e9-b0ea-eea37e5b6674.png" />][discord]
