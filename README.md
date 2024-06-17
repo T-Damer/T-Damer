@@ -82,11 +82,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-2. ⭐ Starred [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-4. ⭐ Starred [gopasspw/gopass](https://github.com/gopasspw/gopass)<br>
-5. ⭐ Starred [farcasterxyz/fc-polls](https://github.com/farcasterxyz/fc-polls)<br>
+1. ⭐ Starred [mcgrizzz/Cstrike.bet-](https://github.com/mcgrizzz/Cstrike.bet-)<br>
+2. ⭐ Starred [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
+3. ⭐ Starred [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
+5. ⭐ Starred [gopasspw/gopass](https://github.com/gopasspw/gopass)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
