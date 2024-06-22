@@ -18,15 +18,15 @@
 
 ## DEV route 🛣
 
-🟠 Worked at [Borodutch Labs](borodutch.com)
+🟠 Worked at [Borodutch Labs](https://borodutch.com)
 
-🟠🟠 Made [dosu.io](dosu.io) - a web3 social network with invite system build on Merkle Trees
+🟠🟠 Made [dosu.io](https://dosu.io) - a web3 social network with invite system build on Merkle Trees
 
-🟣 Worked at [Big Whale Labs](bwl.gg) for 3 years
+🟣 Worked at [Big Whale Labs](https://bwl.gg) for 3 years
 
-🟣🟣 Worked on ZK solutions to proff ownership of NFTs and post anonymously to Farcaster and Twitter (with a proof of ownage): [sealcred.xyz](sealcred.xyz), [sealcaster.xyz](sealcaster.xyz), [echo.sealcred.xyz](echo.sealcred.xyz)
+🟣🟣 Worked on ZK solutions to proff ownership of NFTs and post anonymously to Farcaster and Twitter (with a proof of ownage): [sealcred.xyz](https://sealcred.xyz), [sealcaster.xyz](https://sealcaster.xyz), [echo.sealcred.xyz](https://echo.sealcred.xyz)
 
-🟣🟣 Worked on WEB3 social app for VCs, YCs and Founders: [ketl.xyz](ketl.xyz). Used React-Native with Expo to create mobile-native expirience with a [web version](app.ketl.xyz/1/1) for desktops. Launched it on [ProducHunt](https://www.producthunt.com/posts/ketl?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ketl)
+🟣🟣 Worked on WEB3 social app for VCs, YCs and Founders: [ketl.xyz](https://ketl.xyz). Used React-Native with Expo to create mobile-native expirience with a [web version](https://app.ketl.xyz/1/1) for desktops. Launched it on [ProducHunt](https://www.producthunt.com/posts/ketl?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ketl)
 
 
 <!-- ## Contact me:
