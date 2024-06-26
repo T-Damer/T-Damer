@@ -82,11 +82,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
-2. 💬 Commented on [#550](https://github.com/Shopify/flash-list/pull/550#issuecomment-2177520395) in [Shopify/flash-list](https://github.com/Shopify/flash-list)<br>
-3. ⭐ Starred [mcgrizzz/Cstrike.bet-](https://github.com/mcgrizzz/Cstrike.bet-)<br>
-4. ⭐ Starred [BigWhaleLabs/ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)<br>
-5. ⭐ Starred [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer)<br>
+1. ⭐ Starred [vacekj/wagmi-permit](https://github.com/vacekj/wagmi-permit)<br>
+2. ⭐ Starred [smakosh/wagmi-hooks](https://github.com/smakosh/wagmi-hooks)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
+4. 💬 Commented on [#550](https://github.com/Shopify/flash-list/pull/550#issuecomment-2177520395) in [Shopify/flash-list](https://github.com/Shopify/flash-list)<br>
+5. ⭐ Starred [mcgrizzz/Cstrike.bet-](https://github.com/mcgrizzz/Cstrike.bet-)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
