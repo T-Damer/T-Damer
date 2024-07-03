@@ -82,11 +82,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [prisma/prisma](https://github.com/prisma/prisma)<br>
-2. ⭐ Starred [DamiTheHuman/quill-framework](https://github.com/DamiTheHuman/quill-framework)<br>
-3. ⭐ Starred [IvanAdmaers/react-roulette-pro](https://github.com/IvanAdmaers/react-roulette-pro)<br>
-4. ⭐ Starred [kaantoprakk/roulette-animation](https://github.com/kaantoprakk/roulette-animation)<br>
-5. ⭐ Starred [vacekj/wagmi-permit](https://github.com/vacekj/wagmi-permit)<br>
+1. ⭐ Starred [skorolevskiy/neged-hat-claim](https://github.com/skorolevskiy/neged-hat-claim)<br>
+2. ⭐ Starred [prisma/prisma](https://github.com/prisma/prisma)<br>
+3. ⭐ Starred [DamiTheHuman/quill-framework](https://github.com/DamiTheHuman/quill-framework)<br>
+4. ⭐ Starred [IvanAdmaers/react-roulette-pro](https://github.com/IvanAdmaers/react-roulette-pro)<br>
+5. ⭐ Starred [kaantoprakk/roulette-animation](https://github.com/kaantoprakk/roulette-animation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
