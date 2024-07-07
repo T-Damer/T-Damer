@@ -28,6 +28,8 @@
 
 🟣🟣 Worked on WEB3 social app for VCs, YCs and Founders: [ketl.xyz](https://ketl.xyz). Used React-Native with Expo to create mobile-native expirience with a [web version](https://app.ketl.xyz/1/1) for desktops. Launched it on [ProducHunt](https://www.producthunt.com/posts/ketl?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ketl)
 
+🔄🎩 Worked with [@neged](https://warpcast.com/neged) to build Fullstack Web3 roulette service as solo developer - [neged-hat](https://neged-hat.app)
+
 
 <!-- ## Contact me:
 <img style="margin: 5px" align="left" alt="T.DaM∑R | Discord" width="50px" src="https://user-images.githubusercontent.com/49658988/147961619-e55ef10b-ac9a-42e9-b0ea-eea37e5b6674.png" />][discord]
