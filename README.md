@@ -84,11 +84,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-2. 🎉 Merged PR [#3](https://github.com/0xneged/neged-roulette-frontend/pull/3) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-3. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-4. ⭐ Starred [gayatrigt/cryptocoffee](https://github.com/gayatrigt/cryptocoffee)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/T-Damer](https://github.com/T-Damer/T-Damer)<br>
+1. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+2. ⬆️ Pushed 4 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+3. 🎉 Merged PR [#3](https://github.com/0xneged/neged-roulette-frontend/pull/3) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+4. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+5. ⭐ Starred [gayatrigt/cryptocoffee](https://github.com/gayatrigt/cryptocoffee)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
