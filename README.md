@@ -84,11 +84,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-2. 💪 Opened PR [#5](https://github.com/0xneged/neged-roulette-frontend/pull/5) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-3. ⭐ Starred [jakim929/ocs-safaricaster](https://github.com/jakim929/ocs-safaricaster)<br>
-4. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-5. ⬆️ Pushed 3 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+1. 💪 Opened PR [#12](https://github.com/Uniswap/widgets-demo/pull/12) in [Uniswap/widgets-demo](https://github.com/Uniswap/widgets-demo)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/widgets-demo](https://github.com/T-Damer/widgets-demo)<br>
+3. 🔱 Forked [T-Damer/widgets-demo](https://github.com/T-Damer/widgets-demo) from [Uniswap/widgets-demo](https://github.com/Uniswap/widgets-demo)<br>
+4. 💬 Commented on [#3343](https://github.com/Uniswap/interface/issues/3343#issuecomment-2237061981) in [Uniswap/interface](https://github.com/Uniswap/interface)<br>
+5. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
