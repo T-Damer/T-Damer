@@ -84,11 +84,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](https://github.com/Uniswap/widgets-demo/pull/12) in [Uniswap/widgets-demo](https://github.com/Uniswap/widgets-demo)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/widgets-demo](https://github.com/T-Damer/widgets-demo)<br>
-3. 🔱 Forked [T-Damer/widgets-demo](https://github.com/T-Damer/widgets-demo) from [Uniswap/widgets-demo](https://github.com/Uniswap/widgets-demo)<br>
-4. 💬 Commented on [#3343](https://github.com/Uniswap/interface/issues/3343#issuecomment-2237061981) in [Uniswap/interface](https://github.com/Uniswap/interface)<br>
-5. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+1. ⭐ Starred [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+2. 💪 Opened PR [#12](https://github.com/Uniswap/widgets-demo/pull/12) in [Uniswap/widgets-demo](https://github.com/Uniswap/widgets-demo)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/widgets-demo](https://github.com/T-Damer/widgets-demo)<br>
+4. 🔱 Forked [T-Damer/widgets-demo](https://github.com/T-Damer/widgets-demo) from [Uniswap/widgets-demo](https://github.com/Uniswap/widgets-demo)<br>
+5. 💬 Commented on [#3343](https://github.com/Uniswap/interface/issues/3343#issuecomment-2237061981) in [Uniswap/interface](https://github.com/Uniswap/interface)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
