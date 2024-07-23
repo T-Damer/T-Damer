@@ -84,10 +84,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-2. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-3. ⬆️ Pushed 2 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/hunt-town](https://github.com/T-Damer/hunt-town)<br>
+2. 💪 Opened PR [#9](https://github.com/Steemhunt/hunt-town/pull/9) in [Steemhunt/hunt-town](https://github.com/Steemhunt/hunt-town)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/hunt-town](https://github.com/T-Damer/hunt-town)<br>
+4. 🔱 Forked [T-Damer/hunt-town](https://github.com/T-Damer/hunt-town) from [Steemhunt/hunt-town](https://github.com/Steemhunt/hunt-town)<br>
 5. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
