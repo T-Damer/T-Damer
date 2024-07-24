@@ -84,11 +84,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ronin-rb/ronin-app](https://github.com/ronin-rb/ronin-app)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/hunt-town](https://github.com/T-Damer/hunt-town)<br>
-3. 💪 Opened PR [#9](https://github.com/Steemhunt/hunt-town/pull/9) in [Steemhunt/hunt-town](https://github.com/Steemhunt/hunt-town)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/hunt-town](https://github.com/T-Damer/hunt-town)<br>
-5. 🔱 Forked [T-Damer/hunt-town](https://github.com/T-Damer/hunt-town) from [Steemhunt/hunt-town](https://github.com/Steemhunt/hunt-town)<br>
+1. 💪 Opened PR [#7](https://github.com/0xneged/neged-roulette-frontend/pull/7) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+2. ⭐ Starred [ronin-rb/ronin-app](https://github.com/ronin-rb/ronin-app)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/hunt-town](https://github.com/T-Damer/hunt-town)<br>
+4. 💪 Opened PR [#9](https://github.com/Steemhunt/hunt-town/pull/9) in [Steemhunt/hunt-town](https://github.com/Steemhunt/hunt-town)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/hunt-town](https://github.com/T-Damer/hunt-town)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
