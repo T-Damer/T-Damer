@@ -84,11 +84,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/0xneged/neged-roulette-frontend/pull/8) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/d](https://github.com/T-Damer/d)<br>
+1. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+2. 💪 Opened PR [#8](https://github.com/0xneged/neged-roulette-frontend/pull/8) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/d](https://github.com/T-Damer/d)<br>
-4. 📔 Created new repository [T-Damer/d](https://github.com/T-Damer/d)<br>
-5. 💬 Commented on [#11](https://github.com/Steemhunt/hunt-town/issues/11#issuecomment-2254232953) in [Steemhunt/hunt-town](https://github.com/Steemhunt/hunt-town)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/d](https://github.com/T-Damer/d)<br>
+5. 📔 Created new repository [T-Damer/d](https://github.com/T-Damer/d)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
