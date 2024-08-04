@@ -84,9 +84,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EvanBacon/pillar-valley](https://github.com/EvanBacon/pillar-valley)<br>
-2. ⭐ Starred [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot)<br>
-3. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+1. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)<br>
+2. ⭐ Starred [EvanBacon/pillar-valley](https://github.com/EvanBacon/pillar-valley)<br>
+3. ⭐ Starred [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot)<br>
 4. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
 5. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
