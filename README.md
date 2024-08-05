@@ -84,11 +84,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#22](https://github.com/base-org/brand-kit/pull/22#discussion_r1703668078) in [base-org/brand-kit](https://github.com/base-org/brand-kit)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/brand-kit](https://github.com/T-Damer/brand-kit)<br>
-3. 💬 Commented on [#22](https://github.com/base-org/brand-kit/pull/22#discussion_r1703666824) in [base-org/brand-kit](https://github.com/base-org/brand-kit)<br>
-4. 💬 Commented on [#22](https://github.com/base-org/brand-kit/pull/22#discussion_r1703665652) in [base-org/brand-kit](https://github.com/base-org/brand-kit)<br>
-5. 💬 Commented on [#22](https://github.com/base-org/brand-kit/pull/22#discussion_r1703664506) in [base-org/brand-kit](https://github.com/base-org/brand-kit)<br>
+1. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+2. 💬 Commented on [#22](https://github.com/base-org/brand-kit/pull/22#discussion_r1703668078) in [base-org/brand-kit](https://github.com/base-org/brand-kit)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/brand-kit](https://github.com/T-Damer/brand-kit)<br>
+4. 💬 Commented on [#22](https://github.com/base-org/brand-kit/pull/22#discussion_r1703666824) in [base-org/brand-kit](https://github.com/base-org/brand-kit)<br>
+5. 💬 Commented on [#22](https://github.com/base-org/brand-kit/pull/22#discussion_r1703665652) in [base-org/brand-kit](https://github.com/base-org/brand-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
