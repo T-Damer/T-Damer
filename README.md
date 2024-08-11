@@ -84,9 +84,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)<br>
-2. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-3. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+1. ❗️ Opened issue [#4](https://github.com/jakearchibald/stacked-alpha-video/issues/4) in [jakearchibald/stacked-alpha-video](https://github.com/jakearchibald/stacked-alpha-video)<br>
+2. ⭐ Starred [jakearchibald/stacked-alpha-video](https://github.com/jakearchibald/stacked-alpha-video)<br>
+3. ⭐ Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)<br>
 4. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
 5. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
