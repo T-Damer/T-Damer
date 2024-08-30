@@ -84,11 +84,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#247](https://github.com/ton-connect/sdk/issues/247#issuecomment-2321657720) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
-2. ❗️ Opened issue [#247](https://github.com/ton-connect/sdk/issues/247) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
-3. 💬 Commented on [#324](https://github.com/sanniassin/react-input-mask/issues/324#issuecomment-2314942114) in [sanniassin/react-input-mask](https://github.com/sanniassin/react-input-mask)<br>
-4. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
-5. ⭐ Starred [barvian/motion-number](https://github.com/barvian/motion-number)<br>
+1. 💬 Commented on [#247](https://github.com/ton-connect/sdk/issues/247#issuecomment-2321745584) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+2. 💬 Commented on [#247](https://github.com/ton-connect/sdk/issues/247#issuecomment-2321657720) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+3. ❗️ Opened issue [#247](https://github.com/ton-connect/sdk/issues/247) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+4. 💬 Commented on [#324](https://github.com/sanniassin/react-input-mask/issues/324#issuecomment-2314942114) in [sanniassin/react-input-mask](https://github.com/sanniassin/react-input-mask)<br>
+5. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
