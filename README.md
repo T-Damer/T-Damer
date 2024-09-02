@@ -84,11 +84,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
-2. 💪 Opened PR [#248](https://github.com/ton-connect/sdk/pull/248) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/sdk](https://github.com/T-Damer/sdk)<br>
-4. 🔱 Forked [T-Damer/sdk](https://github.com/T-Damer/sdk) from [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
-5. 💬 Commented on [#247](https://github.com/ton-connect/sdk/issues/247#issuecomment-2321875731) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+1. ⭐ Starred [Recol/DLSS-Updater](https://github.com/Recol/DLSS-Updater)<br>
+2. ⭐ Starred [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+3. 💪 Opened PR [#248](https://github.com/ton-connect/sdk/pull/248) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/sdk](https://github.com/T-Damer/sdk)<br>
+5. 🔱 Forked [T-Damer/sdk](https://github.com/T-Damer/sdk) from [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
