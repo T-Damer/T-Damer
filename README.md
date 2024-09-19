@@ -84,11 +84,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#24](https://github.com/scalr-dex/scalr-frontend/pull/24) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-2. ⬆️ Pushed 10 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-3. 🎉 Merged PR [#27](https://github.com/scalr-dex/scalr-frontend/pull/27) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⬆️ Pushed 3 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+1. ⬆️ Pushed 23 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+3. 🎉 Merged PR [#24](https://github.com/scalr-dex/scalr-frontend/pull/24) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+4. ⬆️ Pushed 10 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+5. 🎉 Merged PR [#27](https://github.com/scalr-dex/scalr-frontend/pull/27) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
