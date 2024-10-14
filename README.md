@@ -30,6 +30,8 @@
 
 🔄🎩 Worked with [@neged](https://warpcast.com/neged) to build Fullstack Web3 roulette service as solo developer - [neged-hat](https://neged-hat.app)
 
+🌑 Worked with [scalr.trade](scalr.trade) as fullstack dev
+
 
 <!-- ## Contact me:
 <img style="margin: 5px" align="left" alt="T.DaM∑R | Discord" width="50px" src="https://user-images.githubusercontent.com/49658988/147961619-e55ef10b-ac9a-42e9-b0ea-eea37e5b6674.png" />][discord]
