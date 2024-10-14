@@ -29,9 +29,11 @@
 🟣🟣 Worked on WEB3 social app for VCs, YCs and Founders: [ketl.xyz](https://ketl.xyz). Used React-Native with Expo to create mobile-native expirience with a [web version](https://app.ketl.xyz/1/1) for desktops. Launched it on [ProducHunt](https://www.producthunt.com/posts/ketl?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ketl)
 
 🎩 Worked with [@neged](https://warpcast.com/neged)
+
 🎩🔄 Built Fullstack Web3 casino-like games (roulette, tower, coin-flip) as solo developer - [neged-hat](https://neged-hat.app)
 
 🌑 Worked with [scalr.trade](scalr.trade) as fullstack dev
+
 🌑🌑 Made [telegram mini app](https://t.me/ScalrBot/app?startapp=395659658) with payments (stars + TON), token price chart (echarts), telegram bot notifications, ton-wallet airdrop
 
 
