@@ -32,7 +32,7 @@
 
 🎩🔄 Built Fullstack Web3 casino-like games (roulette, tower, coin-flip) as solo developer - [neged-hat](https://neged-hat.app)
 
-🌑 Worked with [scalr.trade](scalr.trade) as fullstack dev
+🌑 Worked with [scalr.trade](https://scalr.trade) as fullstack dev
 
 🌑🌑 Made [telegram mini app](https://t.me/ScalrBot/app?startapp=395659658) with payments (stars + TON), token price chart (echarts), telegram bot notifications, ton-wallet airdrop
 
