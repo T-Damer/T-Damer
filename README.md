@@ -90,8 +90,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [danmarshall/google-font-to-svg-path](https://github.com/danmarshall/google-font-to-svg-path)<br>
-2. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+1. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. ⭐ Starred [danmarshall/google-font-to-svg-path](https://github.com/danmarshall/google-font-to-svg-path)<br>
 3. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 4. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
