@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#272](https://github.com/ton-connect/sdk/issues/272#issuecomment-2420143378) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
-2. ✔️ Closed issue [#272](https://github.com/ton-connect/sdk/issues/272) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
-3. ⭐ Starred [Telegram-Mini-Apps/reactjs-template](https://github.com/Telegram-Mini-Apps/reactjs-template)<br>
-4. ❗️ Opened issue [#272](https://github.com/ton-connect/sdk/issues/272) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+1. ⬆️ Pushed 2 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. 🎉 Merged PR [#63](https://github.com/scalr-dex/scalr-frontend/pull/63) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+3. 💪 Opened PR [#63](https://github.com/scalr-dex/scalr-frontend/pull/63) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+4. 💬 Commented on [#272](https://github.com/ton-connect/sdk/issues/272#issuecomment-2420143378) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+5. ✔️ Closed issue [#272](https://github.com/ton-connect/sdk/issues/272) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
