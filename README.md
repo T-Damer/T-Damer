@@ -91,10 +91,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-2. ⬆️ Pushed 2 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-3. 🎉 Merged PR [#63](https://github.com/scalr-dex/scalr-frontend/pull/63) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. 💪 Opened PR [#63](https://github.com/scalr-dex/scalr-frontend/pull/63) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-5. 💬 Commented on [#272](https://github.com/ton-connect/sdk/issues/272#issuecomment-2420143378) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+3. ⬆️ Pushed 2 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+4. 🎉 Merged PR [#63](https://github.com/scalr-dex/scalr-frontend/pull/63) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+5. 💪 Opened PR [#63](https://github.com/scalr-dex/scalr-frontend/pull/63) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
