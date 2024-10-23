@@ -91,9 +91,9 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-2. 💬 Commented on [#248](https://github.com/ton-connect/sdk/pull/248#issuecomment-2429669969) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
-3. ⬆️ Pushed 7 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+3. 💬 Commented on [#248](https://github.com/ton-connect/sdk/pull/248#issuecomment-2429669969) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+4. ⬆️ Pushed 7 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
