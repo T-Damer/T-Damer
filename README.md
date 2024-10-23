@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-2. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+1. 💬 Commented on [#248](https://github.com/ton-connect/sdk/pull/248#issuecomment-2429669969) in [ton-connect/sdk](https://github.com/ton-connect/sdk)<br>
+2. ⬆️ Pushed 7 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 3. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 4. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-5. 💪 Opened PR [#66](https://github.com/scalr-dex/scalr-frontend/pull/66) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
