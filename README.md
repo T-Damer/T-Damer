@@ -94,7 +94,7 @@
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-5. ⬆️ Pushed 9 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
