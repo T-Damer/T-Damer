@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/T-Damer/birth-history/pull/8) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+2. 💪 Opened PR [#8](https://github.com/T-Damer/birth-history/pull/8) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-4. ⬆️ Pushed 2 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-5. ⭐ Starred [emilkowalski/vaul](https://github.com/emilkowalski/vaul)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+5. ⬆️ Pushed 2 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
