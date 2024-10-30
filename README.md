@@ -91,10 +91,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-2. ❌ Closed PR [#3](https://github.com/T-Damer/birth-history/pull/3) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-3. ❌ Closed PR [#5](https://github.com/T-Damer/birth-history/pull/5) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-4. ❌ Closed PR [#4](https://github.com/T-Damer/birth-history/pull/4) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-5. ❌ Closed PR [#2](https://github.com/T-Damer/birth-history/pull/2) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+3. ❌ Closed PR [#3](https://github.com/T-Damer/birth-history/pull/3) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+4. ❌ Closed PR [#5](https://github.com/T-Damer/birth-history/pull/5) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+5. ❌ Closed PR [#4](https://github.com/T-Damer/birth-history/pull/4) in [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
