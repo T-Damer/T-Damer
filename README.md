@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [upacyxou/anywatch](https://github.com/upacyxou/anywatch)<br>
-2. ⭐ Starred [upacyxou/ethereum-boilerplate](https://github.com/upacyxou/ethereum-boilerplate)<br>
-3. ⭐ Starred [upacyxou/zku](https://github.com/upacyxou/zku)<br>
-4. ⭐ Starred [upacyxou/week1](https://github.com/upacyxou/week1)<br>
-5. ⭐ Starred [upacyxou/seal-hub-prover](https://github.com/upacyxou/seal-hub-prover)<br>
+1. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. 💪 Opened PR [#69](https://github.com/scalr-dex/scalr-frontend/pull/69) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+3. ⭐ Starred [upacyxou/anywatch](https://github.com/upacyxou/anywatch)<br>
+4. ⭐ Starred [upacyxou/ethereum-boilerplate](https://github.com/upacyxou/ethereum-boilerplate)<br>
+5. ⭐ Starred [upacyxou/zku](https://github.com/upacyxou/zku)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
