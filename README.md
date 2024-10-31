@@ -92,9 +92,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 2. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-3. 💪 Opened PR [#69](https://github.com/scalr-dex/scalr-frontend/pull/69) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⭐ Starred [upacyxou/anywatch](https://github.com/upacyxou/anywatch)<br>
-5. ⭐ Starred [upacyxou/ethereum-boilerplate](https://github.com/upacyxou/ethereum-boilerplate)<br>
+3. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+4. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+5. 💪 Opened PR [#69](https://github.com/scalr-dex/scalr-frontend/pull/69) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
