@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+1. ⭐ Starred [upacyxou/anywatch](https://github.com/upacyxou/anywatch)<br>
+2. ⭐ Starred [upacyxou/ethereum-boilerplate](https://github.com/upacyxou/ethereum-boilerplate)<br>
+3. ⭐ Starred [upacyxou/zku](https://github.com/upacyxou/zku)<br>
+4. ⭐ Starred [upacyxou/week1](https://github.com/upacyxou/week1)<br>
+5. ⭐ Starred [upacyxou/seal-hub-prover](https://github.com/upacyxou/seal-hub-prover)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
