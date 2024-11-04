@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rcoopr/number-flow](https://github.com/rcoopr/number-flow)<br>
-2. 💬 Commented on [#43](https://github.com/barvian/number-flow/pull/43#issuecomment-2454365867) in [barvian/number-flow](https://github.com/barvian/number-flow)<br>
-3. ❌ Closed PR [#53](https://github.com/scalr-dex/scalr-frontend/pull/53) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+1. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. ⭐ Starred [rcoopr/number-flow](https://github.com/rcoopr/number-flow)<br>
+3. 💬 Commented on [#43](https://github.com/barvian/number-flow/pull/43#issuecomment-2454365867) in [barvian/number-flow](https://github.com/barvian/number-flow)<br>
+4. ❌ Closed PR [#53](https://github.com/scalr-dex/scalr-frontend/pull/53) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
