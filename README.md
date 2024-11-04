@@ -93,8 +93,8 @@
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-4. ⭐ Starred [upacyxou/react-native-draggable-flatlist](https://github.com/upacyxou/react-native-draggable-flatlist)<br>
-5. ⭐ Starred [upacyxou/WatermelonDB](https://github.com/upacyxou/WatermelonDB)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+5. ⭐ Starred [upacyxou/react-native-draggable-flatlist](https://github.com/upacyxou/react-native-draggable-flatlist)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
