@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [upacyxou/react-native-draggable-flatlist](https://github.com/upacyxou/react-native-draggable-flatlist)<br>
-2. ⭐ Starred [upacyxou/WatermelonDB](https://github.com/upacyxou/WatermelonDB)<br>
-3. ⭐ Starred [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
-4. ⭐ Starred [BigWhaleLabs/attestor](https://github.com/BigWhaleLabs/attestor)<br>
-5. ⭐ Starred [BigWhaleLabs/metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+3. ⭐ Starred [upacyxou/react-native-draggable-flatlist](https://github.com/upacyxou/react-native-draggable-flatlist)<br>
+4. ⭐ Starred [upacyxou/WatermelonDB](https://github.com/upacyxou/WatermelonDB)<br>
+5. ⭐ Starred [BigWhaleLabs/ketl-landing](https://github.com/BigWhaleLabs/ketl-landing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
