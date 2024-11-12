@@ -90,10 +90,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [0xneged/nega-frame](https://github.com/0xneged/nega-frame)<br>
-2. ⭐ Starred [dockur/macos](https://github.com/dockur/macos)<br>
-3. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⬆️ Pushed 4 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+1. 📔 Created new repository [0xneged/neged-site](https://github.com/0xneged/neged-site)<br>
+2. ⬆️ Pushed 1 commit(s) to [0xneged/nega-frame](https://github.com/0xneged/nega-frame)<br>
+3. ⬆️ Pushed 1 commit(s) to [0xneged/nega-frame](https://github.com/0xneged/nega-frame)<br>
+4. ⭐ Starred [dockur/macos](https://github.com/dockur/macos)<br>
 5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
