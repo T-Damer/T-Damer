@@ -92,8 +92,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [0xneged/nega-frame](https://github.com/0xneged/nega-frame)<br>
 2. ⬆️ Pushed 1 commit(s) to [0xneged/nega-frame](https://github.com/0xneged/nega-frame)<br>
-3. 📔 Created new repository [0xneged/neged-site](https://github.com/0xneged/neged-site)<br>
-4. ⬆️ Pushed 1 commit(s) to [0xneged/nega-frame](https://github.com/0xneged/nega-frame)<br>
+3. ⬆️ Pushed 1 commit(s) to [0xneged/nega-frame](https://github.com/0xneged/nega-frame)<br>
+4. 📔 Created new repository [0xneged/neged-site](https://github.com/0xneged/neged-site)<br>
 5. ⬆️ Pushed 1 commit(s) to [0xneged/nega-frame](https://github.com/0xneged/nega-frame)<br>
 <!--RECENT_ACTIVITY:end-->
 
