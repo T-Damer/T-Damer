@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-2. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-3. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-5. ⭐ Starred [lovasoa/react-contenteditable](https://github.com/lovasoa/react-contenteditable)<br>
+1. ❌ Closed PR [#11](https://github.com/0xneged/neged-roulette-frontend/pull/11) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+2. 🎉 Merged PR [#13](https://github.com/0xneged/neged-roulette-frontend/pull/13) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+3. ⬆️ Pushed 2 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+4. 💪 Opened PR [#13](https://github.com/0xneged/neged-roulette-frontend/pull/13) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+5. ⬆️ Pushed 3 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
