@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-2. ❌ Closed PR [#11](https://github.com/0xneged/neged-roulette-frontend/pull/11) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-3. 🎉 Merged PR [#13](https://github.com/0xneged/neged-roulette-frontend/pull/13) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-4. ⬆️ Pushed 2 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
-5. 💪 Opened PR [#13](https://github.com/0xneged/neged-roulette-frontend/pull/13) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+1. 💪 Opened PR [#80](https://github.com/scalr-dex/scalr-frontend/pull/80) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. ❌ Closed PR [#78](https://github.com/scalr-dex/scalr-frontend/pull/78) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+3. ⬆️ Pushed 1 commit(s) to [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+4. ❌ Closed PR [#11](https://github.com/0xneged/neged-roulette-frontend/pull/11) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
+5. 🎉 Merged PR [#13](https://github.com/0xneged/neged-roulette-frontend/pull/13) in [0xneged/neged-roulette-frontend](https://github.com/0xneged/neged-roulette-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
