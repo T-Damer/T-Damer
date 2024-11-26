@@ -90,11 +90,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)<br>
-2. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+1. ⭐ Starred [base-org/basenames](https://github.com/base-org/basenames)<br>
+2. ⭐ Starred [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)<br>
 3. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⬆️ Pushed 3 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-5. 🎉 Merged PR [#80](https://github.com/scalr-dex/scalr-frontend/pull/80) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+4. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+5. ⬆️ Pushed 3 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
