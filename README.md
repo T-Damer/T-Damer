@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
-2. 📔 Created new repository [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
-3. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+1. ⬆️ Pushed 8 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. 🎉 Merged PR [#76](https://github.com/scalr-dex/scalr-frontend/pull/76) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+3. ⬆️ Pushed 53 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
+5. 📔 Created new repository [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
