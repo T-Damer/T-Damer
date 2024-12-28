@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
+1. ⬆️ Pushed 1 commit(s) to [0xneged/printit](https://github.com/0xneged/printit)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
-4. ⬆️ Pushed 4 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-5. 🎉 Merged PR [#85](https://github.com/scalr-dex/scalr-frontend/pull/85) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
+5. ⬆️ Pushed 4 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
