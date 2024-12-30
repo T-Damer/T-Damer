@@ -93,9 +93,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [0xneged/printit](https://github.com/0xneged/printit)<br>
+1. ⭐ Starred [glanceapp/glance](https://github.com/glanceapp/glance)<br>
 2. ⬆️ Pushed 1 commit(s) to [0xneged/printit](https://github.com/0xneged/printit)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
+3. ⬆️ Pushed 1 commit(s) to [0xneged/printit](https://github.com/0xneged/printit)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/neo-n](https://github.com/T-Damer/neo-n)<br>
 <!--RECENT_ACTIVITY:end-->
