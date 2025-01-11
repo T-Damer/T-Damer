@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Onchain-Computer-International/computer-interface](https://github.com/Onchain-Computer-International/computer-interface)<br>
-2. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-3. 💪 Opened PR [#89](https://github.com/scalr-dex/scalr-frontend/pull/89) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⭐ Starred [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)<br>
-5. ⭐ Starred [elizaOS/eliza](https://github.com/elizaOS/eliza)<br>
+1. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. ⭐ Starred [Onchain-Computer-International/computer-interface](https://github.com/Onchain-Computer-International/computer-interface)<br>
+3. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+4. 💪 Opened PR [#89](https://github.com/scalr-dex/scalr-frontend/pull/89) in [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+5. ⭐ Starred [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
