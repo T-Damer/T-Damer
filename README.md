@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [brunoooost/payloads_flipperZero](https://github.com/brunoooost/payloads_flipperZero)<br>
-2. ⭐ Starred [densumesh/broccoli](https://github.com/densumesh/broccoli)<br>
-3. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
-4. ⭐ Starred [Onchain-Computer-International/computer-interface](https://github.com/Onchain-Computer-International/computer-interface)<br>
-5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+1. ⭐ Starred [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)<br>
+2. ⭐ Starred [brunoooost/payloads_flipperZero](https://github.com/brunoooost/payloads_flipperZero)<br>
+3. ⭐ Starred [densumesh/broccoli](https://github.com/densumesh/broccoli)<br>
+4. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+5. ⭐ Starred [Onchain-Computer-International/computer-interface](https://github.com/Onchain-Computer-International/computer-interface)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
