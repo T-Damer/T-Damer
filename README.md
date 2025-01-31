@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Rymedy/hearthstone-web](https://github.com/Rymedy/hearthstone-web)<br>
-2. ⭐ Starred [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)<br>
-3. ⭐ Starred [brunoooost/payloads_flipperZero](https://github.com/brunoooost/payloads_flipperZero)<br>
-4. ⭐ Starred [densumesh/broccoli](https://github.com/densumesh/broccoli)<br>
-5. ⬆️ Pushed 1 commit(s) to [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
+3. ⭐ Starred [Rymedy/hearthstone-web](https://github.com/Rymedy/hearthstone-web)<br>
+4. ⭐ Starred [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)<br>
+5. ⭐ Starred [brunoooost/payloads_flipperZero](https://github.com/brunoooost/payloads_flipperZero)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
