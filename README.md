@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
-4. ⭐ Starred [Rymedy/hearthstone-web](https://github.com/Rymedy/hearthstone-web)<br>
-5. ⭐ Starred [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
