@@ -96,8 +96,8 @@
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/yourCV](https://github.com/T-Damer/yourCV)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
