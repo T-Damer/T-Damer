@@ -93,10 +93,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wambugu71/resumeio2pdf_download](https://github.com/wambugu71/resumeio2pdf_download)<br>
-2. ⭐ Starred [abdibrokhim/notlink-ui](https://github.com/abdibrokhim/notlink-ui)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
+1. ⭐ Starred [scalr-dex/scalr-frontend](https://github.com/scalr-dex/scalr-frontend)<br>
+2. ⭐ Starred [T-Damer/expo-starter-backend](https://github.com/T-Damer/expo-starter-backend)<br>
+3. ⭐ Starred [wambugu71/resumeio2pdf_download](https://github.com/wambugu71/resumeio2pdf_download)<br>
+4. ⭐ Starred [abdibrokhim/notlink-ui](https://github.com/abdibrokhim/notlink-ui)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/bigwhalelabs](https://github.com/T-Damer/bigwhalelabs)<br>
 <!--RECENT_ACTIVITY:end-->
 
