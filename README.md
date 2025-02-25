@@ -95,9 +95,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/mene](https://github.com/T-Damer/mene)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/mene](https://github.com/T-Damer/mene)<br>
-3. 📔 Created new repository [T-Damer/mene](https://github.com/T-Damer/mene)<br>
-4. ⭐ Starred [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)<br>
-5. ⭐ Starred [ekmas/cs16.css](https://github.com/ekmas/cs16.css)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/mene](https://github.com/T-Damer/mene)<br>
+4. 📔 Created new repository [T-Damer/mene](https://github.com/T-Damer/mene)<br>
+5. ⭐ Starred [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
