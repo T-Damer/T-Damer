@@ -94,10 +94,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/mene](https://github.com/T-Damer/mene)<br>
-2. ⭐ Starred [BigWhaleLabs/gql-backend-starter](https://github.com/BigWhaleLabs/gql-backend-starter)<br>
-3. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
-4. ⭐ Starred [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/mene](https://github.com/T-Damer/mene)<br>
+3. ⭐ Starred [BigWhaleLabs/gql-backend-starter](https://github.com/BigWhaleLabs/gql-backend-starter)<br>
+4. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
+5. ⭐ Starred [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
