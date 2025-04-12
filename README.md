@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)<br>
-2. ⭐ Starred [goldfinch-eng/mono](https://github.com/goldfinch-eng/mono)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/mene](https://github.com/T-Damer/mene)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/mene-tracker](https://github.com/T-Damer/mene-tracker)<br>
+2. ⭐ Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)<br>
+3. ⭐ Starred [goldfinch-eng/mono](https://github.com/goldfinch-eng/mono)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/mene](https://github.com/T-Damer/mene)<br>
-5. 📔 Created new repository [T-Damer/mene](https://github.com/T-Damer/mene)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/mene](https://github.com/T-Damer/mene)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
