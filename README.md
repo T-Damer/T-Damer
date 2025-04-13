@@ -97,7 +97,7 @@
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/mene-tracker](https://github.com/T-Damer/mene-tracker)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/mene-tracker](https://github.com/T-Damer/mene-tracker)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/mene-tracker](https://github.com/T-Damer/mene-tracker)<br>
-5. 💬 Commented on [#87](https://github.com/primary-theme/obsidian/issues/87#issuecomment-2799896401) in [primary-theme/obsidian](https://github.com/primary-theme/obsidian)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/mene-tracker](https://github.com/T-Damer/mene-tracker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
