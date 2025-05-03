@@ -93,9 +93,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-2. ⭐ Starred [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+2. 📔 Created new repository [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+3. ⭐ Starred [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
 <!--RECENT_ACTIVITY:end-->
