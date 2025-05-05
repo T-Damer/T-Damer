@@ -93,10 +93,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/T-Damer/nika/issues/3) in [T-Damer/nika](https://github.com/T-Damer/nika)<br>
-2. ❗️ Opened issue [#2](https://github.com/T-Damer/nika/issues/2) in [T-Damer/nika](https://github.com/T-Damer/nika)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+1. ❗️ Opened issue [#5](https://github.com/T-Damer/nika/issues/5) in [T-Damer/nika](https://github.com/T-Damer/nika)<br>
+2. ❗️ Opened issue [#4](https://github.com/T-Damer/nika/issues/4) in [T-Damer/nika](https://github.com/T-Damer/nika)<br>
+3. ❗️ Opened issue [#3](https://github.com/T-Damer/nika/issues/3) in [T-Damer/nika](https://github.com/T-Damer/nika)<br>
+4. ❗️ Opened issue [#2](https://github.com/T-Damer/nika/issues/2) in [T-Damer/nika](https://github.com/T-Damer/nika)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 <!--RECENT_ACTIVITY:end-->
 
