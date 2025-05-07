@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-2. ⭐ Starred [joeycastillo/libros](https://github.com/joeycastillo/libros)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/fetal-move](https://github.com/T-Damer/fetal-move)<br>
+1. ⭐ Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+3. ⭐ Starred [joeycastillo/libros](https://github.com/joeycastillo/libros)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/fetal-move](https://github.com/T-Damer/fetal-move)<br>
-5. 📔 Created new repository [T-Damer/fetal-move](https://github.com/T-Damer/fetal-move)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/fetal-move](https://github.com/T-Damer/fetal-move)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
