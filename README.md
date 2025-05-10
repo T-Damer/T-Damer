@@ -95,9 +95,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/nika](https://github.com/T-Damer/nika)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/nika](https://github.com/T-Damer/nika)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/nika](https://github.com/T-Damer/nika)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/birth-history](https://github.com/T-Damer/birth-history)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
