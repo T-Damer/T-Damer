@@ -93,8 +93,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/fetal-move](https://github.com/T-Damer/fetal-move)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+1. ⭐ Starred [samirdjelal/mail-dev](https://github.com/samirdjelal/mail-dev)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/fetal-move](https://github.com/T-Damer/fetal-move)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
