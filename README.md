@@ -93,9 +93,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [0xneged/rich-rekt-frontend](https://github.com/0xneged/rich-rekt-frontend)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+1. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt](https://github.com/0xneged/rich-rekt)<br>
+2. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt](https://github.com/0xneged/rich-rekt)<br>
+3. 📔 Created new repository [0xneged/rich-rekt-frontend](https://github.com/0xneged/rich-rekt-frontend)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 <!--RECENT_ACTIVITY:end-->
