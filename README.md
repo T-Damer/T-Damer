@@ -97,7 +97,7 @@
 2. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
 3. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
 4. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
-5. ⬆️ Pushed 2 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
+5. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
