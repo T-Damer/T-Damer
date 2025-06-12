@@ -96,8 +96,8 @@
 1. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
 2. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
-4. ⬆️ Pushed 2 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
+5. ⬆️ Pushed 2 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
