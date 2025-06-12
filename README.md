@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt](https://github.com/0xneged/rich-rekt)<br>
-2. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
-3. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
-4. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt](https://github.com/0xneged/rich-rekt)<br>
-5. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt](https://github.com/0xneged/rich-rekt)<br>
+1. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt](https://github.com/0xneged/rich-rekt)<br>
+3. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt](https://github.com/0xneged/rich-rekt)<br>
+4. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
+5. ⬆️ Pushed 1 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
