@@ -93,7 +93,7 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
+1. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)<br>
 2. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
 4. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
