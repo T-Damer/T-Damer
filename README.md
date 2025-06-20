@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-4. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)<br>
-5. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
+1. ⬆️ Pushed 3 commit(s) to [0xneged/rich-rekt-contract](https://github.com/0xneged/rich-rekt-contract)<br>
+2. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [0xneged/0xneged.github.io](https://github.com/0xneged/0xneged.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
