@@ -96,8 +96,8 @@
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
-4. 📔 Created new repository [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
-5. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
+5. 📔 Created new repository [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
