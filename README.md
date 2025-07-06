@@ -93,8 +93,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [davedbase/solid-slider](https://github.com/davedbase/solid-slider)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
+1. ⭐ Starred [FBalint/button](https://github.com/FBalint/button)<br>
+2. ⭐ Starred [davedbase/solid-slider](https://github.com/davedbase/solid-slider)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
