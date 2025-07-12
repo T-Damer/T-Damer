@@ -93,10 +93,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)<br>
-2. ⭐ Starred [FBalint/button](https://github.com/FBalint/button)<br>
-3. ⭐ Starred [davedbase/solid-slider](https://github.com/davedbase/solid-slider)<br>
-4. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
+2. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)<br>
+3. ⭐ Starred [FBalint/button](https://github.com/FBalint/button)<br>
+4. ⭐ Starred [davedbase/solid-slider](https://github.com/davedbase/solid-slider)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
 <!--RECENT_ACTIVITY:end-->
 
