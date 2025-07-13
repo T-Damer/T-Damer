@@ -96,8 +96,8 @@
 1. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
 2. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
 3. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
-4. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)<br>
-5. ⭐ Starred [FBalint/button](https://github.com/FBalint/button)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
+5. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
