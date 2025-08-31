@@ -96,8 +96,6 @@
 1. 📔 Created new repository [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
 2. ⭐ Starred [denizsafak/abogen](https://github.com/denizsafak/abogen)<br>
 3. ⭐ Starred [LunarTides/Hearthstone.js](https://github.com/LunarTides/Hearthstone.js)<br>
-4. 💬 Commented on [#1864](https://github.com/DrKLO/Telegram/pull/1864#issuecomment-3143791214) in [DrKLO/Telegram](https://github.com/DrKLO/Telegram)<br>
-5. 💬 Commented on [#20](https://github.com/Telegram-Mini-Apps/issues/issues/20#issuecomment-3143787634) in [Telegram-Mini-Apps/issues](https://github.com/Telegram-Mini-Apps/issues)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
