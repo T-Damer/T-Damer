@@ -93,9 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
-2. ⭐ Starred [denizsafak/abogen](https://github.com/denizsafak/abogen)<br>
-3. ⭐ Starred [LunarTides/Hearthstone.js](https://github.com/LunarTides/Hearthstone.js)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+4. 📔 Created new repository [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+5. ⭐ Starred [denizsafak/abogen](https://github.com/denizsafak/abogen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
