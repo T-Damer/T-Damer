@@ -93,9 +93,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-2. 💬 Commented on [#452](https://github.com/image-size/image-size/issues/452#issuecomment-3245851260) in [image-size/image-size](https://github.com/image-size/image-size)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+3. 💬 Commented on [#452](https://github.com/image-size/image-size/issues/452#issuecomment-3245851260) in [image-size/image-size](https://github.com/image-size/image-size)<br>
 4. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
 5. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
 <!--RECENT_ACTIVITY:end-->
