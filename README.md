@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
-2. ⭐ Starred [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+1. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+2. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+3. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+4. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
+5. ⬆️ Pushed 1 commit(s) to [T-Damer/ps-indexes](https://github.com/T-Damer/ps-indexes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
