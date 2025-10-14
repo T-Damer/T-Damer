@@ -94,10 +94,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [missive/emoji-mart](https://github.com/missive/emoji-mart)<br>
-2. ⬆️ Pushed 1 commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
-3. ⬆️ Pushed 1 commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
 4. ⭐ Starred [nellimonix/ClashXRule](https://github.com/nellimonix/ClashXRule)<br>
-5. ⬆️ Pushed 2 commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
