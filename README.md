@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-2. ⭐ Starred [missive/emoji-mart](https://github.com/missive/emoji-mart)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
-5. ⭐ Starred [nellimonix/ClashXRule](https://github.com/nellimonix/ClashXRule)<br>
+1. ⭐ Starred [vriteio/tiptap-solid](https://github.com/vriteio/tiptap-solid)<br>
+2. ⭐ Starred [lxsmnsyc/solid-tiptap](https://github.com/lxsmnsyc/solid-tiptap)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+4. ⭐ Starred [missive/emoji-mart](https://github.com/missive/emoji-mart)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
