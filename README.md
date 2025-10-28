@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+1. ⭐ Starred [telegraf/entity](https://github.com/telegraf/entity)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
-3. ⭐ Starred [MouseLand/cellpose](https://github.com/MouseLand/cellpose)<br>
-4. ⭐ Starred [vriteio/tiptap-solid](https://github.com/vriteio/tiptap-solid)<br>
-5. ⭐ Starred [lxsmnsyc/solid-tiptap](https://github.com/lxsmnsyc/solid-tiptap)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+4. ⭐ Starred [MouseLand/cellpose](https://github.com/MouseLand/cellpose)<br>
+5. ⭐ Starred [vriteio/tiptap-solid](https://github.com/vriteio/tiptap-solid)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
