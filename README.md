@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
-3. ⭐ Starred [mosheduminer/lexical-solid](https://github.com/mosheduminer/lexical-solid)<br>
-4. ⭐ Starred [telegraf/entity](https://github.com/telegraf/entity)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/mom-helper](https://github.com/T-Damer/mom-helper)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
+4. ⭐ Starred [mosheduminer/lexical-solid](https://github.com/mosheduminer/lexical-solid)<br>
+5. ⭐ Starred [telegraf/entity](https://github.com/telegraf/entity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
