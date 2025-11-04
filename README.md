@@ -94,10 +94,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
-4. ⭐ Starred [mosheduminer/lexical-solid](https://github.com/mosheduminer/lexical-solid)<br>
-5. ⭐ Starred [telegraf/entity](https://github.com/telegraf/entity)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
