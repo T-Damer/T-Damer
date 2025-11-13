@@ -96,8 +96,8 @@
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/tulip](https://github.com/T-Damer/tulip)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
