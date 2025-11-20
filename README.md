@@ -97,7 +97,7 @@
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
