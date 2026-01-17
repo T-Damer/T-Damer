@@ -97,7 +97,6 @@
 2. ⭐ Starred [rommapp/romm](https://github.com/rommapp/romm)<br>
 3. ⭐ Starred [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone)<br>
 4. ⭐ Starred [iamdustan/smoothscroll](https://github.com/iamdustan/smoothscroll)<br>
-5. ⭐ Starred [rembound/Match-3-Game-HTML5](https://github.com/rembound/Match-3-Game-HTML5)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
