@@ -93,10 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [databasus/databasus](https://github.com/databasus/databasus)<br>
-2. ⭐ Starred [rommapp/romm](https://github.com/rommapp/romm)<br>
-3. ⭐ Starred [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone)<br>
-4. ⭐ Starred [iamdustan/smoothscroll](https://github.com/iamdustan/smoothscroll)<br>
+1. ⭐ Starred [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux)<br>
+2. ⭐ Starred [databasus/databasus](https://github.com/databasus/databasus)<br>
+3. ⭐ Starred [rommapp/romm](https://github.com/rommapp/romm)<br>
+4. ⭐ Starred [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone)<br>
+5. ⭐ Starred [iamdustan/smoothscroll](https://github.com/iamdustan/smoothscroll)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
