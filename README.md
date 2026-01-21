@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux)<br>
-2. ⭐ Starred [databasus/databasus](https://github.com/databasus/databasus)<br>
-3. ⭐ Starred [rommapp/romm](https://github.com/rommapp/romm)<br>
-4. ⭐ Starred [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone)<br>
-5. ⭐ Starred [iamdustan/smoothscroll](https://github.com/iamdustan/smoothscroll)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
+2. ⭐ Starred [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux)<br>
+3. ⭐ Starred [databasus/databasus](https://github.com/databasus/databasus)<br>
+4. ⭐ Starred [rommapp/romm](https://github.com/rommapp/romm)<br>
+5. ⭐ Starred [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
