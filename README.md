@@ -97,7 +97,6 @@
 2. ⭐ Starred [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux)<br>
 3. ⭐ Starred [databasus/databasus](https://github.com/databasus/databasus)<br>
 4. ⭐ Starred [rommapp/romm](https://github.com/rommapp/romm)<br>
-5. ⭐ Starred [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
