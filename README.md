@@ -97,7 +97,6 @@
 2. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
 4. ⭐ Starred [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux)<br>
-5. ⭐ Starred [databasus/databasus](https://github.com/databasus/databasus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
