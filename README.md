@@ -97,7 +97,7 @@
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
-5. ⭐ Starred [CiaranMcCann/Worms-Armageddon-HTML5-Clone](https://github.com/CiaranMcCann/Worms-Armageddon-HTML5-Clone)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
