@@ -93,8 +93,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SAT-R/sa2](https://github.com/SAT-R/sa2)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
+1. ⭐ Starred [JHDev2006/Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)<br>
+2. ⭐ Starred [SAT-R/sa2](https://github.com/SAT-R/sa2)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
