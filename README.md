@@ -93,10 +93,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zeldaret/tp](https://github.com/zeldaret/tp)<br>
-2. ⭐ Starred [JHDev2006/Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)<br>
-3. ⭐ Starred [SAT-R/sa2](https://github.com/SAT-R/sa2)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
+1. ⭐ Starred [jonobr1/equalizer.js](https://github.com/jonobr1/equalizer.js)<br>
+2. ⭐ Starred [zeldaret/tp](https://github.com/zeldaret/tp)<br>
+3. ⭐ Starred [JHDev2006/Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)<br>
+4. ⭐ Starred [SAT-R/sa2](https://github.com/SAT-R/sa2)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/granat](https://github.com/T-Damer/granat)<br>
 <!--RECENT_ACTIVITY:end-->
 
