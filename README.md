@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ddevalco/CodeRelay](https://github.com/ddevalco/CodeRelay)<br>
-2. ⭐ Starred [jonobr1/equalizer.js](https://github.com/jonobr1/equalizer.js)<br>
-3. ⭐ Starred [zeldaret/tp](https://github.com/zeldaret/tp)<br>
-4. ⭐ Starred [JHDev2006/Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)<br>
-5. ⭐ Starred [SAT-R/sa2](https://github.com/SAT-R/sa2)<br>
+1. ⭐ Starred [drake7707/paintbynumbersgenerator](https://github.com/drake7707/paintbynumbersgenerator)<br>
+2. ⭐ Starred [ethan-grinberg/paint-by-number](https://github.com/ethan-grinberg/paint-by-number)<br>
+3. ⭐ Starred [ddevalco/CodeRelay](https://github.com/ddevalco/CodeRelay)<br>
+4. ⭐ Starred [jonobr1/equalizer.js](https://github.com/jonobr1/equalizer.js)<br>
+5. ⭐ Starred [zeldaret/tp](https://github.com/zeldaret/tp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
