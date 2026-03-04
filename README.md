@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5](https://github.com/friuns2/codex-web-ui/issues/5) in [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
-2. ⭐ Starred [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
-3. 💬 Commented on [#10](https://github.com/achimala/farfield/pull/10#issuecomment-3971836983) in [achimala/farfield](https://github.com/achimala/farfield)<br>
-4. ⭐ Starred [drake7707/paintbynumbersgenerator](https://github.com/drake7707/paintbynumbersgenerator)<br>
-5. ⭐ Starred [ethan-grinberg/paint-by-number](https://github.com/ethan-grinberg/paint-by-number)<br>
+1. ⭐ Starred [openinary/openinary](https://github.com/openinary/openinary)<br>
+2. ❗️ Opened issue [#5](https://github.com/friuns2/codex-web-ui/issues/5) in [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
+3. ⭐ Starred [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
+4. 💬 Commented on [#10](https://github.com/achimala/farfield/pull/10#issuecomment-3971836983) in [achimala/farfield](https://github.com/achimala/farfield)<br>
+5. ⭐ Starred [drake7707/paintbynumbersgenerator](https://github.com/drake7707/paintbynumbersgenerator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
