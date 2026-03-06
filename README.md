@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](undefined) in [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
-2. 🔱 Forked [T-Damer/codex-web-ui](https://github.com/T-Damer/codex-web-ui) from [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
-3. ⭐ Starred [openinary/openinary](https://github.com/openinary/openinary)<br>
-4. ❗️ Opened issue [#5](https://github.com/friuns2/codex-web-ui/issues/5) in [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
-5. ⭐ Starred [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
+1. ❗️ Opened issue [#1](https://github.com/friuns2/codexUI/issues/1) in [friuns2/codexUI](https://github.com/friuns2/codexUI)<br>
+2. 💪 Opened PR [#6](undefined) in [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
+3. 🔱 Forked [T-Damer/codex-web-ui](https://github.com/T-Damer/codex-web-ui) from [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
+4. ⭐ Starred [openinary/openinary](https://github.com/openinary/openinary)<br>
+5. ❗️ Opened issue [#5](https://github.com/friuns2/codex-web-ui/issues/5) in [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
