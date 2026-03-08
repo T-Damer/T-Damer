@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)<br>
-2. 💪 Opened PR [#22](undefined) in [wobsoriano/solid-sonner](https://github.com/wobsoriano/solid-sonner)<br>
-3. 🔱 Forked [T-Damer/solid-sonner](https://github.com/T-Damer/solid-sonner) from [wobsoriano/solid-sonner](https://github.com/wobsoriano/solid-sonner)<br>
-4. ❗️ Opened issue [#1](https://github.com/friuns2/codexUI/issues/1) in [friuns2/codexUI](https://github.com/friuns2/codexUI)<br>
-5. 💪 Opened PR [#6](undefined) in [friuns2/codex-web-ui](https://github.com/friuns2/codex-web-ui)<br>
+1. ⭐ Starred [vtosters/lite](https://github.com/vtosters/lite)<br>
+2. ⭐ Starred [PurpleHorrorRus/MeridiusNova](https://github.com/PurpleHorrorRus/MeridiusNova)<br>
+3. ⭐ Starred [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)<br>
+4. 💪 Opened PR [#22](undefined) in [wobsoriano/solid-sonner](https://github.com/wobsoriano/solid-sonner)<br>
+5. 🔱 Forked [T-Damer/solid-sonner](https://github.com/T-Damer/solid-sonner) from [wobsoriano/solid-sonner](https://github.com/wobsoriano/solid-sonner)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
