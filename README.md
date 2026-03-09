@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vtosters/lite](https://github.com/vtosters/lite)<br>
-2. ⭐ Starred [PurpleHorrorRus/MeridiusNova](https://github.com/PurpleHorrorRus/MeridiusNova)<br>
-3. ⭐ Starred [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)<br>
-4. 💪 Opened PR [#22](undefined) in [wobsoriano/solid-sonner](https://github.com/wobsoriano/solid-sonner)<br>
-5. 🔱 Forked [T-Damer/solid-sonner](https://github.com/T-Damer/solid-sonner) from [wobsoriano/solid-sonner](https://github.com/wobsoriano/solid-sonner)<br>
+1. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)<br>
+2. ⭐ Starred [vtosters/lite](https://github.com/vtosters/lite)<br>
+3. ⭐ Starred [PurpleHorrorRus/MeridiusNova](https://github.com/PurpleHorrorRus/MeridiusNova)<br>
+4. ⭐ Starred [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)<br>
+5. 💪 Opened PR [#22](undefined) in [wobsoriano/solid-sonner](https://github.com/wobsoriano/solid-sonner)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
