@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
-2. ⭐ Starred [NVIDIA-RTX/godot](https://github.com/NVIDIA-RTX/godot)<br>
-3. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)<br>
-4. ⭐ Starred [vtosters/lite](https://github.com/vtosters/lite)<br>
-5. ⭐ Starred [PurpleHorrorRus/MeridiusNova](https://github.com/PurpleHorrorRus/MeridiusNova)<br>
+1. ⭐ Starred [friuns2/codexUI](https://github.com/friuns2/codexUI)<br>
+2. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
+3. ⭐ Starred [NVIDIA-RTX/godot](https://github.com/NVIDIA-RTX/godot)<br>
+4. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)<br>
+5. ⭐ Starred [vtosters/lite](https://github.com/vtosters/lite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
