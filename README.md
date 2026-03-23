@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bagusindrayana/ews-concept-new](https://github.com/bagusindrayana/ews-concept-new)<br>
-2. ⭐ Starred [friuns2/codexUI](https://github.com/friuns2/codexUI)<br>
-3. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
-4. ⭐ Starred [NVIDIA-RTX/godot](https://github.com/NVIDIA-RTX/godot)<br>
-5. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)<br>
+1. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)<br>
+2. ⭐ Starred [jacktuck/unfurl](https://github.com/jacktuck/unfurl)<br>
+3. ⭐ Starred [bagusindrayana/ews-concept-new](https://github.com/bagusindrayana/ews-concept-new)<br>
+4. ⭐ Starred [friuns2/codexUI](https://github.com/friuns2/codexUI)<br>
+5. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
