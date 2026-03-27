@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1947](undefined) in [DrKLO/Telegram](https://github.com/DrKLO/Telegram)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/Telegram-WebView-Camera-Permission-Fix](https://github.com/T-Damer/Telegram-WebView-Camera-Permission-Fix)<br>
-3. 🔱 Forked [T-Damer/Telegram-WebView-Camera-Permission-Fix](https://github.com/T-Damer/Telegram-WebView-Camera-Permission-Fix) from [DrKLO/Telegram](https://github.com/DrKLO/Telegram)<br>
-4. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)<br>
-5. ⭐ Starred [jacktuck/unfurl](https://github.com/jacktuck/unfurl)<br>
+1. 💪 Opened PR [#997](undefined) in [flipperdevices/flipper-application-catalog](https://github.com/flipperdevices/flipper-application-catalog)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/flipper-ai-dashboard](https://github.com/T-Damer/flipper-ai-dashboard)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/flipper-ai-dashboard](https://github.com/T-Damer/flipper-ai-dashboard)<br>
+4. 🔱 Forked [T-Damer/flipper-application-catalog](https://github.com/T-Damer/flipper-application-catalog) from [flipperdevices/flipper-application-catalog](https://github.com/flipperdevices/flipper-application-catalog)<br>
+5. 💪 Opened PR [#1947](undefined) in [DrKLO/Telegram](https://github.com/DrKLO/Telegram)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
