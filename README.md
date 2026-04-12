@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#997](undefined) in [flipperdevices/flipper-application-catalog](https://github.com/flipperdevices/flipper-application-catalog)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/flipper-ai-dashboard](https://github.com/T-Damer/flipper-ai-dashboard)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/flipper-ai-dashboard](https://github.com/T-Damer/flipper-ai-dashboard)<br>
-4. 🔱 Forked [T-Damer/flipper-application-catalog](https://github.com/T-Damer/flipper-application-catalog) from [flipperdevices/flipper-application-catalog](https://github.com/flipperdevices/flipper-application-catalog)<br>
-5. 💪 Opened PR [#1947](undefined) in [DrKLO/Telegram](https://github.com/DrKLO/Telegram)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
