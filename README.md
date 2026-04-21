@@ -95,8 +95,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
-3. ⭐ Starred [inokawa/virtua](https://github.com/inokawa/virtua)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
+4. ⭐ Starred [inokawa/virtua](https://github.com/inokawa/virtua)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
 <!--RECENT_ACTIVITY:end-->
 
