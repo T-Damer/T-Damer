@@ -93,8 +93,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
+1. ⭐ Starred [SirDiabo/N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
