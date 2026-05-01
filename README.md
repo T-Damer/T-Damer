@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RadzPrower/Zelda-3-Launcher](https://github.com/RadzPrower/Zelda-3-Launcher)<br>
-2. ⭐ Starred [snesrev/zelda3](https://github.com/snesrev/zelda3)<br>
-3. 💬 Commented on [#61](https://github.com/SirDiabo/N64RecompLauncher/issues/61#issuecomment-4355184928) in [SirDiabo/N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)<br>
-4. ⭐ Starred [SirDiabo/N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/gorgon](https://github.com/T-Damer/gorgon)<br>
+1. ⭐ Starred [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)<br>
+2. ⭐ Starred [RadzPrower/Zelda-3-Launcher](https://github.com/RadzPrower/Zelda-3-Launcher)<br>
+3. ⭐ Starred [snesrev/zelda3](https://github.com/snesrev/zelda3)<br>
+4. 💬 Commented on [#61](https://github.com/SirDiabo/N64RecompLauncher/issues/61#issuecomment-4355184928) in [SirDiabo/N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)<br>
+5. ⭐ Starred [SirDiabo/N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
