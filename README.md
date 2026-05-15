@@ -93,11 +93,6 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [encounter/aurora](https://github.com/encounter/aurora)<br>
-2. ⭐ Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)<br>
-3. ⭐ Starred [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)<br>
-4. ⭐ Starred [RadzPrower/Zelda-3-Launcher](https://github.com/RadzPrower/Zelda-3-Launcher)<br>
-5. ⭐ Starred [snesrev/zelda3](https://github.com/snesrev/zelda3)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
