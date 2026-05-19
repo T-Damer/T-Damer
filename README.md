@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
-2. ⭐ Starred [encounter/aurora](https://github.com/encounter/aurora)<br>
-3. ⭐ Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)<br>
-4. ⭐ Starred [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)<br>
-5. ⭐ Starred [RadzPrower/Zelda-3-Launcher](https://github.com/RadzPrower/Zelda-3-Launcher)<br>
+1. ⭐ Starred [emjjkk/beat-detection](https://github.com/emjjkk/beat-detection)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
+3. ⭐ Starred [encounter/aurora](https://github.com/encounter/aurora)<br>
+4. ⭐ Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)<br>
+5. ⭐ Starred [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
