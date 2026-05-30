@@ -94,10 +94,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
-2. ⭐ Starred [emjjkk/beat-detection](https://github.com/emjjkk/beat-detection)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/gynecology-history](https://github.com/T-Damer/gynecology-history)<br>
-4. ⭐ Starred [encounter/aurora](https://github.com/encounter/aurora)<br>
-5. ⭐ Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
