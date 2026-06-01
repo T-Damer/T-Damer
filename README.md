@@ -93,8 +93,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
