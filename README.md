@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)<br>
-2. ⭐ Starred [fluxlay/examples](https://github.com/fluxlay/examples)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
+1. ⭐ Starred [kolya00736/rustore-downloader](https://github.com/kolya00736/rustore-downloader)<br>
+2. ⭐ Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)<br>
+3. ⭐ Starred [fluxlay/examples](https://github.com/fluxlay/examples)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/primary-ish-theme](https://github.com/T-Damer/primary-ish-theme)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
