@@ -97,7 +97,6 @@
 2. ⭐ Starred [kolya00736/rustore-downloader](https://github.com/kolya00736/rustore-downloader)<br>
 3. ⭐ Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)<br>
 4. ⭐ Starred [fluxlay/examples](https://github.com/fluxlay/examples)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/prtfl-io](https://github.com/T-Damer/prtfl-io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
