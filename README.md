@@ -96,7 +96,6 @@
 1. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 2. ⭐ Starred [kolya00736/rustore-downloader](https://github.com/kolya00736/rustore-downloader)<br>
 3. ⭐ Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)<br>
-4. ⭐ Starred [fluxlay/examples](https://github.com/fluxlay/examples)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
