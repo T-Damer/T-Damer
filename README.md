@@ -94,7 +94,6 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-2. ⭐ Starred [kolya00736/rustore-downloader](https://github.com/kolya00736/rustore-downloader)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
