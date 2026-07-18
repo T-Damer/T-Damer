@@ -94,10 +94,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. ❗️ Opened issue [#6](https://github.com/T-Damer/MiniMed/issues/6) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-3. ✔️ Closed issue [#5](https://github.com/T-Damer/MiniMed/issues/5) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-5. ❗️ Opened issue [#5](https://github.com/T-Damer/MiniMed/issues/5) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. ❗️ Opened issue [#8](https://github.com/T-Damer/MiniMed/issues/8) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ❗️ Opened issue [#7](https://github.com/T-Damer/MiniMed/issues/7) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
