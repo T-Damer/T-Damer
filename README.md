@@ -93,10 +93,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#14](https://github.com/T-Damer/MiniMed/pull/14#issuecomment-5015415237) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. ✔️ Closed issue [#17](https://github.com/T-Damer/MiniMed/issues/17) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-3. ✔️ Closed issue [#16](https://github.com/T-Damer/MiniMed/issues/16) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ✔️ Closed issue [#15](https://github.com/T-Damer/MiniMed/issues/15) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. 💪 Opened PR [#24](undefined) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
