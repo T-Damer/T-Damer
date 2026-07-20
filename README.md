@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+1. ✔️ Closed issue [#46](https://github.com/T-Damer/MiniMed/issues/46) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. ✔️ Closed issue [#52](https://github.com/T-Damer/MiniMed/issues/52) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ✔️ Closed issue [#54](https://github.com/T-Damer/MiniMed/issues/54) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ✔️ Closed issue [#55](https://github.com/T-Damer/MiniMed/issues/55) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. ✔️ Closed issue [#57](https://github.com/T-Damer/MiniMed/issues/57) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
