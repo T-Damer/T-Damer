@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#34](https://github.com/T-Damer/MiniMed/issues/34) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. ✔️ Closed issue [#38](https://github.com/T-Damer/MiniMed/issues/38) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-3. ✔️ Closed issue [#42](https://github.com/T-Damer/MiniMed/issues/42) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ✔️ Closed issue [#43](https://github.com/T-Damer/MiniMed/issues/43) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-5. ✔️ Closed issue [#44](https://github.com/T-Damer/MiniMed/issues/44) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+1. ❗️ Opened issue [#73](https://github.com/T-Damer/MiniMed/issues/73) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. ❗️ Opened issue [#72](https://github.com/T-Damer/MiniMed/issues/72) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ❗️ Opened issue [#71](https://github.com/T-Damer/MiniMed/issues/71) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ❗️ Opened issue [#70](https://github.com/T-Damer/MiniMed/issues/70) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. 💬 Commented on [#69](https://github.com/T-Damer/MiniMed/pull/69#issuecomment-5032409874) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
