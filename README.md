@@ -94,10 +94,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-3. ❗️ Opened issue [#120](https://github.com/T-Damer/MiniMed/issues/120) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ❗️ Opened issue [#121](https://github.com/T-Damer/MiniMed/issues/121) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-5. 💬 Commented on [#120](https://github.com/T-Damer/MiniMed/issues/120#issuecomment-5072018606) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. ✌️ Released [Clinical recommendations clinical-2026.07.24-cbb0e01c1bce](https://github.com/T-Damer/MiniMed/releases/tag/clinical-2026.07.24-cbb0e01c1bce) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
