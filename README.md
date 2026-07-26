@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#123](undefined) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. 💬 Commented on [#123](https://github.com/T-Damer/MiniMed/pull/123#issuecomment-5083260014) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-3. ❌ Closed PR [#124](undefined) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. 💬 Commented on [#124](https://github.com/T-Damer/MiniMed/pull/124#issuecomment-5083259860) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ❌ Closed PR [#123](undefined) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. 💬 Commented on [#123](https://github.com/T-Damer/MiniMed/pull/123#issuecomment-5083260014) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. ❌ Closed PR [#124](undefined) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
