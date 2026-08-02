@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/sonic-16](https://github.com/T-Damer/sonic-16)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/sonic-16](https://github.com/T-Damer/sonic-16)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/sonic-16](https://github.com/T-Damer/sonic-16)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/sonic-16](https://github.com/T-Damer/sonic-16)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/sonic-16](https://github.com/T-Damer/sonic-16)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
