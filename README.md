@@ -94,10 +94,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
-2. 💬 Commented on [#1](https://github.com/T-Damer/codeburn/pull/1#issuecomment-5170777952) in [T-Damer/codeburn](https://github.com/T-Damer/codeburn)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/codeburn](https://github.com/T-Damer/codeburn)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/codeburn](https://github.com/T-Damer/codeburn)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/codeburn](https://github.com/T-Damer/codeburn)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
