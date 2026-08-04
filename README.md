@@ -96,7 +96,7 @@
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/l-note](https://github.com/T-Damer/l-note)<br>
 <!--RECENT_ACTIVITY:end-->
 
