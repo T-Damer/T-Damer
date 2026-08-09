@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+1. ✌️ Released [MiniMed 0.6.13](https://github.com/T-Damer/MiniMed/releases/tag/v0.6.13) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/chernolesye-camp-assets](https://github.com/T-Damer/chernolesye-camp-assets)<br>
-5. ⭐ Starred [GeekatplayStudio/ComfyUI-Geekatplay-GameAssetMake](https://github.com/GeekatplayStudio/ComfyUI-Geekatplay-GameAssetMake)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/chernolesye-camp-assets](https://github.com/T-Damer/chernolesye-camp-assets)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
