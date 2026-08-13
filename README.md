@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
+1. ⭐ Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
-4. 💪 Opened PR [#28](undefined) in [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
-5. ⭐ Starred [egoist/waku](https://github.com/egoist/waku)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
+5. 💪 Opened PR [#28](undefined) in [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
