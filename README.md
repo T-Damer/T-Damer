@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
-2. 💪 Opened PR [#1](undefined) in [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
-3. ⭐ Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/ems36](https://github.com/T-Damer/ems36)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/simply-astro](https://github.com/T-Damer/simply-astro)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
+3. 💪 Opened PR [#1](undefined) in [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
+4. ⭐ Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
