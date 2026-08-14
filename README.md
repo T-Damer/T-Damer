@@ -97,7 +97,7 @@
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
-5. ✌️ Released [Cyclopes v0.2.0](https://github.com/T-Damer/cyclopes/releases/tag/v0.2.0) in [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
