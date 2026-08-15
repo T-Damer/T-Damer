@@ -94,10 +94,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
-2. ❌ Closed PR [#1](undefined) in [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
+5. ❌ Closed PR [#1](undefined) in [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
