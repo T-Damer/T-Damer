@@ -94,9 +94,9 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/cyclopes](https://github.com/T-Damer/cyclopes)<br>
 <!--RECENT_ACTIVITY:end-->
 
