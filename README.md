@@ -97,7 +97,7 @@
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
-5. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
