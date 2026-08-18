@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/simply-astro](https://github.com/T-Damer/simply-astro)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/simply-astro](https://github.com/T-Damer/simply-astro)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. 💬 Commented on [#142](https://github.com/T-Damer/MiniMed/pull/142#issuecomment-5329275041) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ❌ Closed PR [#149](undefined) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ❌ Closed PR [#141](undefined) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. ❌ Closed PR [#148](undefined) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
