@@ -96,8 +96,8 @@
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. 💬 Commented on [#142](https://github.com/T-Damer/MiniMed/pull/142#issuecomment-5329275041) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-5. ❌ Closed PR [#149](undefined) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. 💬 Commented on [#142](https://github.com/T-Damer/MiniMed/pull/142#issuecomment-5329275041) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
