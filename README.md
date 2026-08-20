@@ -95,9 +95,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
