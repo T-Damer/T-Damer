@@ -93,9 +93,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/awesome](https://github.com/T-Damer/awesome)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/awesome](https://github.com/T-Damer/awesome)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/simply-astro](https://github.com/T-Damer/simply-astro)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 <!--RECENT_ACTIVITY:end-->
