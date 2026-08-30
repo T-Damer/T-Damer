@@ -94,9 +94,9 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
-2. ✌️ Released [MiniMed local model mirror](https://github.com/T-Damer/MiniMed/releases/tag/models-preview-1) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+4. ⭐ Starred [18h32n/Open-ECG-Digitizer](https://github.com/18h32n/Open-ECG-Digitizer)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 <!--RECENT_ACTIVITY:end-->
 
