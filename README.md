@@ -94,10 +94,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
-2. ⭐ Starred [cptleo92/JSBilliards](https://github.com/cptleo92/JSBilliards)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+3. ✌️ Released [MiniMed ЕСКЛП 2026-08-28](https://github.com/T-Damer/MiniMed/releases/tag/esklp-2026-08-28) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/esp32-git](https://github.com/T-Damer/esp32-git)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
