@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/crossink-simulator-web](https://github.com/T-Damer/crossink-simulator-web)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
-3. ✌️ Released [MiniMed ЕСКЛП 2026-08-28](https://github.com/T-Damer/MiniMed/releases/tag/esklp-2026-08-28) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/esp32-git](https://github.com/T-Damer/esp32-git)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+4. ✌️ Released [MiniMed ЕСКЛП 2026-08-28](https://github.com/T-Damer/MiniMed/releases/tag/esklp-2026-08-28) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
