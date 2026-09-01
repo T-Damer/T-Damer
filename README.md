@@ -94,7 +94,7 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
+2. ⭐ Starred [cptleo92/JSBilliards](https://github.com/cptleo92/JSBilliards)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/slop](https://github.com/T-Damer/slop)<br>
