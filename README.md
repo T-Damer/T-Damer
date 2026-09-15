@@ -97,7 +97,7 @@
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-5. 💬 Commented on [#171](https://github.com/T-Damer/MiniMed/pull/171#issuecomment-5670808086) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
