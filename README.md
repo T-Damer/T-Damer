@@ -93,7 +93,7 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+1. ⭐ Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
