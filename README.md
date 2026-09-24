@@ -93,11 +93,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/crossink-simulator-web](https://github.com/T-Damer/crossink-simulator-web)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/esp32-git](https://github.com/T-Damer/esp32-git)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/esp32-git](https://github.com/T-Damer/esp32-git)<br>
+2. 💪 Opened PR [#1](undefined) in [T-Damer/crossink-simulator-web](https://github.com/T-Damer/crossink-simulator-web)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
 4. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
-5. ⬆️ Pushed undefined commit(s) to [T-Damer/esp32-git](https://github.com/T-Damer/esp32-git)<br>
+5. ⬆️ Pushed undefined commit(s) to [T-Damer/crossink-simulator-web](https://github.com/T-Damer/crossink-simulator-web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
