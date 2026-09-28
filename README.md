@@ -93,10 +93,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
+1. ✌️ Released [RLS MKB-10 reference modules 2026.9.28 (experimental)](https://github.com/T-Damer/MiniMed/releases/tag/reference-rls-mkb-2026.9.28) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. ✌️ Released [Krasota i Meditsina disease reference 2026.9.28 (experimental)](https://github.com/T-Damer/MiniMed/releases/tag/reference-krasotaimedicina-2026.9.28) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ✌️ Released [MiniMed definition reference 2026.9.30 — experimental preview](https://github.com/T-Damer/MiniMed/releases/tag/definition-reference-2026.9.30) in [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/microMarkD](https://github.com/T-Damer/microMarkD)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
