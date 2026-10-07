@@ -94,9 +94,9 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-2. 💪 Opened PR [#2](undefined) in [weshayoub92/shadPS4-AYOUB1080p](https://github.com/weshayoub92/shadPS4-AYOUB1080p)<br>
-3. 💪 Opened PR [#1](undefined) in [weshayoub92/shadPS4-AYOUB1080p](https://github.com/weshayoub92/shadPS4-AYOUB1080p)<br>
-4. 🔱 Forked [T-Damer/shadPS4-AYOUB1080p](https://github.com/T-Damer/shadPS4-AYOUB1080p) from [weshayoub92/shadPS4-AYOUB1080p](https://github.com/weshayoub92/shadPS4-AYOUB1080p)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+4. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
