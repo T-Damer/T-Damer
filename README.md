@@ -93,10 +93,10 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Barracuda09/PyPSADiag](https://github.com/Barracuda09/PyPSADiag)<br>
-2. ⭐ Starred [AlexxIT/YandexStation](https://github.com/AlexxIT/YandexStation)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ⭐ Starred [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)<br>
+1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
+3. ⭐ Starred [Barracuda09/PyPSADiag](https://github.com/Barracuda09/PyPSADiag)<br>
+4. ⭐ Starred [AlexxIT/YandexStation](https://github.com/AlexxIT/YandexStation)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
