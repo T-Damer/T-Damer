@@ -95,8 +95,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 2. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-3. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
-4. ⭐ Starred [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)<br>
+3. 💬 Commented on [#1756](https://github.com/seedds/nxnative/pull/1756#issuecomment-6719441180) in [seedds/nxnative](https://github.com/seedds/nxnative)<br>
+4. ⭐ Starred [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)<br>
 5. ⬆️ Pushed undefined commit(s) to [T-Damer/MiniMed](https://github.com/T-Damer/MiniMed)<br>
 <!--RECENT_ACTIVITY:end-->
 
